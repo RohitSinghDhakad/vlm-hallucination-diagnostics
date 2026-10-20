@@ -1,0 +1,901 @@
+Image ID,Prompt Variant,Generated Text,CHAr,CIDEr
+391895,Prompt A (Baseline),"A man is riding a bike on a dirt road. In the background there are trees, mountains and a bridge.",0.6666666666666666,1.1424663588642088
+391895,Prompt B (Forced Hallucination),A man is riding a bike. He is wearing a red shirt and a red cap. There is a bridge in the background. There are trees and plants in the image.,0.6666666666666666,0.25425878309780736
+391895,Prompt C (Constrained),Man in red shirt on a motorcycle in the mountains.,0.6666666666666666,0.2544350021588597
+522418,Prompt A (Baseline),A person is standing in a room with a cake.,0.5,0.6716974186056144
+522418,Prompt B (Forced Hallucination),A person is cutting a cake.,0.5,1.5557146167650018
+522418,Prompt C (Constrained),A person is cutting a cake.,0.5,1.5557146167650018
+184613,Prompt A (Baseline),A man with a red and yellow umbrella is standing in a field with a bunch of cows.,0.6666666666666666,0.344807485679441
+184613,Prompt B (Forced Hallucination),A boy standing in a field with an umbrella in his hand.,0.6666666666666666,1.0763698474502854
+184613,Prompt C (Constrained),A man with a yellow shirt is at a sale with a bunch of cows.,0.3333333333333333,0.02194312574518836
+318219,Prompt A (Baseline),A boy wears headphones and sits at a computer.,0.25,0.43370856516731515
+318219,Prompt B (Forced Hallucination),In this image we can see a boy wearing headphones and sitting in front of a computer.,0.25,0.33859331860129016
+318219,Prompt C (Constrained),A boy wears a headset and sits at a computer.,0.25,0.24563811510856842
+554625,Prompt A (Baseline),A group of people are at computer terminals.,0.25,0.5533227061170864
+554625,Prompt B (Forced Hallucination),A group of people are at computers. The people are black.,0.25,0.5678812215298557
+554625,Prompt C (Constrained),Several people are at computer keyboards with headphones on listening to something.,0.25,0.8953282463751708
+397133,Prompt A (Baseline),"In this image we can see a woman standing on the floor. We can also see a table containing some food items, a bottle and some other objects. On the backside we can see a wall with some utensils hanging on it. We can also see a light.",0.18181818181818182,0.044091931010825425
+397133,Prompt B (Forced Hallucination),"In this image we can see a woman standing on the floor. We can also see a table containing some food items, a bottle and some other objects. On the backside we can see a wall with some utensils hanging on it. We can also see a light.",0.18181818181818182,0.044091931010825425
+397133,Prompt C (Constrained),A woman is in a kitchen with a lot of pots and pans hanging from the ceiling.,0.09090909090909091,0.5280813912826173
+574769,Prompt A (Baseline),A woman is standing in a kitchen holding a cat.,0.16666666666666666,1.4802605508292053
+574769,Prompt B (Forced Hallucination),A woman is standing in a kitchen holding a cat.,0.16666666666666666,1.4802605508292053
+574769,Prompt C (Constrained),A woman holds a cat in her arms in front of a kitchen counter.,0.16666666666666666,1.2395896156633481
+60623,Prompt A (Baseline),A girl is eating something with a candle in front of her.,0.2,0.552477145983369
+60623,Prompt B (Forced Hallucination),A girl is eating something with a spoon.,0.4,0.19571483532954848
+60623,Prompt C (Constrained),A girl eats something with a spoon in a restaurant.,0.4,0.1127192026235625
+309022,Prompt A (Baseline),A commercial kitchen with a bottle of DELISH on a shelf.,0.25,0.3556085005099703
+309022,Prompt B (Forced Hallucination),A commercial kitchen with a bottle of Pompeia on a shelf.,0.25,0.3556085005099703
+309022,Prompt C (Constrained),A bottle of white wine is on a shelf in a professional kitchen.,0.25,0.11082354489584029
+5802,Prompt A (Baseline),"Two men in a restaurant kitchen, one is standing in the serving area.",0.0,0.2825817180298095
+5802,Prompt B (Forced Hallucination),"In this image we can see two persons standing on the floor. In the background we can see a table, plates, bottles, lights, wall and objects.",0.0,0.04524254879750923
+5802,Prompt C (Constrained),A person is standing in a restaurant kitchen.,0.16666666666666666,0.35108662779761024
+222564,Prompt A (Baseline),Two chefs in a restaurant kitchen with dishes in an oven that reads 400.,0.2,0.7032985101272492
+222564,Prompt B (Forced Hallucination),"In this image we can see two persons standing on the floor. In the background we can see a wall, a roof, a chimney, a machine, a table, a countertop, a bowl, a plate, a spoon, a bottle, a cup, a bowl, a plate, a fork, a knife, a bowl, a plate, a bowl, a plate, a bowl, a plate, a bowl, a plate, a bowl, a plate,",0.2,0.04114709105443869
+222564,Prompt C (Constrained),Two chefs are working in a kitchen and an oven says the time is 4:00.,0.2,0.17709570196786978
+118113,Prompt A (Baseline),"In this image we can see a table, on the table there are some objects, there are some objects on the wall, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table",0.0,5.060332723934329e-35
+118113,Prompt B (Forced Hallucination),In this image we can see a table. On the table there are some objects. In the background there are some objects.,0.0,0.034338903856736526
+118113,Prompt C (Constrained),"In this image we can see a table, on the table there are some objects, there are some objects on the wall, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table, there are some objects on the table",0.0,5.060332723934329e-35
+193271,Prompt A (Baseline),A kitchen with lots of wood with a stove on the right.,0.0,0.4147675026879674
+193271,Prompt B (Forced Hallucination),A kitchen with lots of wood with a stove on the far left.,0.0,0.3452862061945817
+193271,Prompt C (Constrained),The kitchen has a dishwasher and silverware.,0.0,0.17247562001439032
+224736,Prompt A (Baseline),A room with a window and posters on the wall has a lot of industrial equipment in it.,0.0,0.15694647760445135
+224736,Prompt B (Forced Hallucination),This room contains a lot of metal items.,0.0,0.025741490807225067
+224736,Prompt C (Constrained),A room with a window has a yellow item with the word drainer on it.,0.0,0.08560542652000994
+483108,Prompt A (Baseline),A man is riding his bike alongside a train.,0.5,1.0098923273019538
+483108,Prompt B (Forced Hallucination),A man is riding a bike down a road next to a train.,0.5,0.9504719559610796
+483108,Prompt C (Constrained),A man rides his bike alongside a train.,0.5,0.3295528336706882
+403013,Prompt A (Baseline),"This is a kitchen. There is a sink, stove, refrigerator, cupboards, microwave, and a door.",0.4,0.0030011022563230356
+403013,Prompt B (Forced Hallucination),This is a kitchen. There is a sink. There is a stove. There is a refrigerator. There is a microwave. There is a cupboard. There is a door.,0.6,0.0030011022563230356
+403013,Prompt C (Constrained),A kitchen with a door at the end has a microwave above the stove.,0.2,0.2691183415606716
+374628,Prompt A (Baseline),A kitchen with wood cabinets and counters has a table with chairs and a laptop on it.,0.07692307692307693,0.4481233466338033
+374628,Prompt B (Forced Hallucination),A kitchen with wood cabinets and floors has a table with chairs around it.,0.0,0.6580597124408081
+374628,Prompt C (Constrained),A sunny kitchen with wood tones and a large island with seating.,0.0,0.4391516148798589
+328757,Prompt A (Baseline),A woman is eating food in the kitchen.,0.16666666666666666,0.5244519311603336
+328757,Prompt B (Forced Hallucination),A woman is eating food. She is wearing a blue dress. She is wearing spectacles. In the background there is a stove. There is a wall.,0.16666666666666666,0.4367124145130364
+328757,Prompt C (Constrained),A woman is eating. She is wearing a blue shirt.,0.16666666666666666,0.23924444731443079
+384213,Prompt A (Baseline),A bottle of blue spray cleaner sits on a messy counter in a kitchen.,0.2,0.045935883598143136
+384213,Prompt B (Forced Hallucination),A kitchen with a sink and a bunch of stuff on the counter.,0.2,0.37232675127749315
+384213,Prompt C (Constrained),A bottle of blue bottle in the sink.,0.4,0.07308498160712164
+293802,Prompt A (Baseline),A man is jumping up on a skateboard.,0.3333333333333333,0.2699074955888016
+293802,Prompt B (Forced Hallucination),A man is skateboarding. He is in the air. There are people and buildings in the background.,0.16666666666666666,0.15444824615915562
+293802,Prompt C (Constrained),A man is skateboarding. People are walking behind him.,0.16666666666666666,0.15444824615915562
+86408,Prompt A (Baseline),Kitchen with a microwave oven and a refrigerator.,0.6666666666666666,0.8600270122184082
+86408,Prompt B (Forced Hallucination),A kitchen with wood cabinets and a black stove.,0.0,0.4257244840311508
+86408,Prompt C (Constrained),"A kitchen with a refrigerator, stove, and microwave.",0.6666666666666666,0.9590582486667512
+37777,Prompt A (Baseline),A kitchen with a bowl of oranges on the table.,0.0,1.1087378043098153
+37777,Prompt B (Forced Hallucination),"In this image we can see a table. On the table there are fruits. In the background there is a refrigerator, cupboards, sink, stove, window, light and wall.",0.25,0.1642640381013699
+37777,Prompt C (Constrained),A kitchen with wood cabinets and a table with oranges on it.,0.0,0.3857914835635663
+372938,Prompt A (Baseline),"In this image we can see a group of people sitting in a vehicle. We can also see some trees, grass, poles and the sky.",0.3333333333333333,0.1334486859563555
+372938,Prompt B (Forced Hallucination),"In this image we can see a group of people sitting in a vehicle. In the background we can see a tree, grass, sky and a pole.",0.3333333333333333,0.1334486859563555
+372938,Prompt C (Constrained),Several people are riding in the back of a pickup truck that is carrying many bags of cargo.,0.6666666666666666,0.6642649092083429
+386164,Prompt A (Baseline),A table full of wooden spoons and bowls.,0.0,1.4041927806848284
+386164,Prompt B (Forced Hallucination),A table full of wooden spoons and utensils.,0.0,1.9403965010842006
+386164,Prompt C (Constrained),Many wooden spoons and utensils are on the table.,0.0,0.6643594999025784
+223648,Prompt A (Baseline),A table full of wooden spoons and other kitchen tools.,0.0,0.8689610734767196
+223648,Prompt B (Forced Hallucination),A table full of wooden spoons and chairs.,0.0,0.8657704486320519
+223648,Prompt C (Constrained),A table full of wooden spoons and chairs.,0.0,0.8657704486320519
+204805,Prompt A (Baseline),This is a black and white image. In the center of the image there is a boat. There are people. In the background of the image there are buildings.,1.0,0.00736479711712063
+204805,Prompt B (Forced Hallucination),This is a black and white image. In the center of the image there is a boat. There are people. In the background of the image there are buildings.,1.0,0.00736479711712063
+204805,Prompt C (Constrained),A group of men are in a boat that is on a cart. They are in front of a building.,0.5,0.7779378877560841
+113588,Prompt A (Baseline),"Three people are working at computers, with two of them using mice.",0.2,0.2855959654943647
+113588,Prompt B (Forced Hallucination),A man types on a keyboard in a room with other people using computers.,0.4,0.261065436677661
+113588,Prompt C (Constrained),Three people are working at computers.,0.2,0.5470614892163339
+384553,Prompt A (Baseline),A man is riding an elephant in the water.,1.0,2.792731313744023
+384553,Prompt B (Forced Hallucination),A man is riding an elephant in the water. He is wearing a red shirt and orange pants.,1.0,2.792731313744023
+384553,Prompt C (Constrained),A man is riding an elephant in the water.,1.0,2.792731313744023
+337264,Prompt A (Baseline),"This picture is clicked inside the room. In the foreground we can see the bottles, bowls, glasses, jars and some other objects placed on the top of the table. In the center we can see the two persons standing on the ground. In the background we can see the wall, door, lights and some other objects.",0.0,0.0010547882697671336
+337264,Prompt B (Forced Hallucination),"In this image we can see a group of people standing on the floor. In that a woman is holding a bottle. We can also see some bottles, glasses, bowls and some other objects on the table. On the backside we can see some cupboards, a door and a wall. At the top we can see some lights.",0.3333333333333333,0.22605903037101632
+337264,Prompt C (Constrained),Three people are in the kitchen.,0.16666666666666666,0.5784456071031795
+368402,Prompt A (Baseline),A woman cooking in the kitchen and holding a pan.,0.09090909090909091,2.151394420783813
+368402,Prompt B (Forced Hallucination),A woman is standing in the kitchen holding a pan.,0.09090909090909091,1.4016632420276003
+368402,Prompt C (Constrained),A woman cooking in the kitchen with an apron on.,0.09090909090909091,1.575043292658724
+12448,Prompt A (Baseline),A baby and a teddy bear were taken a photo in 2009.,0.5,1.4125906932166745
+12448,Prompt B (Forced Hallucination),This is a baby holding a teddy bear.,0.5,1.6935690010361448
+12448,Prompt C (Constrained),Baby with a teddy bear was taken by Ken Neoh in 2009.,0.5,0.9484562412879165
+252219,Prompt A (Baseline),Three people walking on the sidewalk in front of a RDC Construction sign.,0.2,0.1565358391436964
+252219,Prompt B (Forced Hallucination),"In this image we can see a woman walking on the road. On the right side of the image we can see a man standing. On the left side of the image we can see a man walking on the road. In the background, we can see a building with some text and a pole.",0.2,0.14863474628503454
+252219,Prompt C (Constrained),Three people walking on the sidewalk in front of a RcDolkonsign.,0.2,0.2076685596248301
+79841,Prompt A (Baseline),Two people riding bikes on the street.,0.3333333333333333,0.7972420595454378
+79841,Prompt B (Forced Hallucination),There are two images of people riding bicycles on the street.,0.3333333333333333,0.6956998724660499
+79841,Prompt C (Constrained),Two people riding bikes on the street.,0.3333333333333333,0.7972420595454378
+87038,Prompt A (Baseline),A man is jumping a bike over another bike.,0.3333333333333333,0.09944960712426676
+87038,Prompt B (Forced Hallucination),A man is jumping a bike over another bike. People are skateboarding in a parking lot with graffiti on the side.,0.3333333333333333,0.09944960712426676
+87038,Prompt C (Constrained),A man is jumping his bike over another man who is balanced on his bike.,0.3333333333333333,0.08124041035676027
+174482,Prompt A (Baseline),A blue bicycle is parked on the sidewalk near the street.,0.25,1.303490348422562
+174482,Prompt B (Forced Hallucination),A blue bicycle is on the sidewalk. There are cars on the road.,0.25,0.8703516983505117
+174482,Prompt C (Constrained),A blue bicycle is on the sidewalk next to a tree.,0.25,1.050754096524371
+515289,Prompt A (Baseline),A man in a red jacket is cycling with a pigeon in front of him.,0.25,0.18915435678420228
+515289,Prompt B (Forced Hallucination),Three people are riding their bikes. There is a pigeon in the bottom left.,0.25,0.05825293455655024
+515289,Prompt C (Constrained),Three people ride bikes in a park and a bird is on the ground.,0.5,0.08734894981968142
+562150,Prompt A (Baseline),A girl is holding a kitten in her hands.,0.3333333333333333,1.879487573151116
+562150,Prompt B (Forced Hallucination),A young girl is holding a kitten. She is wearing a yellow shirt with a picture of a fruit on it.,0.3333333333333333,1.6725302906291
+562150,Prompt C (Constrained),A young girl in a shirt with a picture of a peach on it is holding a kitten.,0.3333333333333333,0.28961609609474714
+542145,Prompt A (Baseline),"Bathroom with toilet, sink, and cabinet.",0.5,0.27991109119968627
+542145,Prompt B (Forced Hallucination),"Bathroom with toilet, sink, and cabinet.",0.5,0.27991109119968627
+542145,Prompt C (Constrained),"Bathroom with toilet, sink, and cabinet.",0.5,0.27991109119968627
+412151,Prompt A (Baseline),Two men are looking at a bike in a bike shop.,0.0,0.3384020675017352
+412151,Prompt B (Forced Hallucination),In this image there is a man standing and a man sitting on the chair. In front of them there are bicycles. In the background there is a wall. On the wall there are many objects.,0.2,0.041347665962367254
+412151,Prompt C (Constrained),Two men are looking at a bike in a cluttered shop.,0.0,0.29998542102568665
+403385,Prompt A (Baseline),A bathroom with a toilet and a shower.,0.5,0.6729958591046469
+403385,Prompt B (Forced Hallucination),A bathroom with a toilet and a shower.,0.5,0.6729958591046469
+403385,Prompt C (Constrained),A bathroom with a toilet and a shower.,0.5,0.6729958591046469
+579003,Prompt A (Baseline),A person with a camera is peeking into a bathroom.,0.3333333333333333,0.007697097108286895
+579003,Prompt B (Forced Hallucination),A bathroom with a towel rack and mirror.,0.0,0.2251860654055229
+579003,Prompt C (Constrained),A person with a camera is peeking into a bathroom.,0.3333333333333333,0.007697097108286895
+540186,Prompt A (Baseline),A bathroom with towels and a bath mat.,0.0,0.31337585573663274
+540186,Prompt B (Forced Hallucination),"This is a picture of a bathroom. In this picture we can see a door, mirror, cupboards, sink, tap, floor, wall, lights, ceiling, towel, bucket, floor mat, window, curtains, objects.",1.0,0.05004673862736148
+540186,Prompt C (Constrained),A bathroom with towels hanging and a door that has a fan on the ceiling.,0.0,0.1703769047278168
+242611,Prompt A (Baseline),This is a bathroom. On the left side there is a mirror. On the right side there is a bathtub.,0.0,1.2994536628141188e-06
+242611,Prompt B (Forced Hallucination),This is a bathroom. There is a sink. There is a mirror. There is a bathtub. There is a door.,0.2,1.2994536628141188e-06
+242611,Prompt C (Constrained),A bathroom with towels and a door that is open.,0.0,0.2746064893557295
+51191,Prompt A (Baseline),"This is a picture of a bathroom. In this picture we can see a door, floor, cupboards, sink, tap, mirror, lights, wall, flower vase, plants, window, door handle, door, floor mat.",0.6666666666666666,0.007669122266258587
+51191,Prompt B (Forced Hallucination),"This is a picture of a bathroom. In this picture we can see a door, floor, cupboards, sink, tap, mirror, wall, lights, plants, flowers, door handle, door, floor mat, window, wall, roof.",0.3333333333333333,0.007669122266258587
+51191,Prompt C (Constrained),A bathroom with a door that is open.,0.0,0.34965214233401587
+269105,Prompt A (Baseline),A toilet with a plant in a green pot.,0.5,0.7755693713828162
+269105,Prompt B (Forced Hallucination),Green walls of a bathroom with a picture and a toilet.,0.5,0.06617825136497169
+269105,Prompt C (Constrained),Green toilet against a green wall with a picture frame above it.,0.5,0.44010722195738994
+294832,Prompt A (Baseline),The bathroom has a toilet and a sink.,1.0,0.21539640059407983
+294832,Prompt B (Forced Hallucination),The bathroom has a toilet and a sink. The toilet has a wooden cover. There is a shower. There is a mirror.,1.0,0.21539640059407983
+294832,Prompt C (Constrained),The bathroom has a toilet and a shower.,0.5,0.18691748004551298
+462565,Prompt A (Baseline),People are riding bikes in a bike lane next to a Burger King.,0.16666666666666666,1.0923728086763627
+462565,Prompt B (Forced Hallucination),Burger King Restaurant on the side of the street.,0.0,0.3840733042754234
+462565,Prompt C (Constrained),A group of people are riding bikes in a bike lane in front of a Burger King.,0.16666666666666666,1.2062419778780784
+144941,Prompt A (Baseline),"In this image we can see a bathroom. There is a toilet, sink, plant, mirror, wall, floor and other objects.",0.6666666666666666,0.16772729283385157
+144941,Prompt B (Forced Hallucination),"This is a bathroom. In this bathroom there is a toilet, sink, plant, mirror, shower and wall.",0.6666666666666666,0.3382308672491253
+144941,Prompt C (Constrained),A bathroom with a toilet and plant in the corner.,0.3333333333333333,0.47291829864025586
+173350,Prompt A (Baseline),There are two dogs in the bathroom.,0.0,1.3984980730448333
+173350,Prompt B (Forced Hallucination),In this image we can see two dogs on the floor. In the background we can see a toilet seat and a wall.,0.5,0.5786416302056939
+173350,Prompt C (Constrained),Two dogs are on either side of a toilet.,0.5,1.3218758730548854
+60760,Prompt A (Baseline),Bathroom with plastic on the walls and a mirror.,0.0,0.0026647519318637692
+60760,Prompt B (Forced Hallucination),There is a bathroom with a bucket in it.,0.0,0.1831409410801802
+60760,Prompt C (Constrained),Bathroom with plastic on the walls and a bucket on the floor.,0.0,0.002469153209977374
+324266,Prompt A (Baseline),Bathroom with a framed picture of a waterfall.,0.0,0.008761258465994105
+324266,Prompt B (Forced Hallucination),"This is an inside view of a bathroom. On the left side there is a bathtub, sink, tap, toilet, towel, window, curtain and a wall. On the right side there is a mirror, sink, tap, towel, window, curtain and a wall.",0.6666666666666666,0.11218403387469321
+324266,Prompt C (Constrained),Photograph of a bathroom by Kerry de Bryun.,0.0,0.11247700945184001
+166532,Prompt A (Baseline),"This is the picture of a bathroom. In this image we can see a bathtub, sink, cupboards, door, mirror and wall.",1.0,0.31662085734556544
+166532,Prompt B (Forced Hallucination),"This is the picture of a bathroom. In this image we can see a bathtub, sink, cupboards, door, mirror and wall.",1.0,0.31662085734556544
+166532,Prompt C (Constrained),A bathroom with a door that is open.,0.0,0.3397836975008551
+262284,Prompt A (Baseline),A tiled shower with a glass door and no curtain.,0.0,0.7545493530003153
+262284,Prompt B (Forced Hallucination),A bathroom with a glass shower door has no curtain.,0.0,0.770851002136367
+262284,Prompt C (Constrained),A bathroom with a glass shower enclosure with no door.,0.0,0.7618478550287038
+360772,Prompt A (Baseline),Toilet with its lid open and a bottle of blue liquid on top of it.,1.0,0.0022000164405256146
+360772,Prompt B (Forced Hallucination),The bathroom has green paint on the walls. There is a bottle of blue liquid on the back of the toilet. There is a toilet paper roll on the back of the toilet.,1.0,0.2434154544926822
+360772,Prompt C (Constrained),Green painted walls with signs of old water damage.,0.0,0.0016539056374351205
+6818,Prompt A (Baseline),A bathroom with a green and red bucket in it.,0.0,0.23056152095898153
+6818,Prompt B (Forced Hallucination),This is a bathroom with a toilet and buckets on the floor.,1.0,0.9877586240900591
+6818,Prompt C (Constrained),The bathroom has a green and red bucket in it.,0.0,0.16246512674047797
+191381,Prompt A (Baseline),The toilet is missing the lid and has a dust pan next to it.,1.0,0.4935259071537964
+191381,Prompt B (Forced Hallucination),"The toilet is missing the lid, which is on the floor. There is a dust pan on the floor.",1.0,0.27149822370025606
+191381,Prompt C (Constrained),"The toilet is missing the lid, which is on the floor.",1.0,0.27149822370025606
+111076,Prompt A (Baseline),"Bathroom with toilet, sink, and trash can.",0.5,0.09423336389083536
+111076,Prompt B (Forced Hallucination),This bathroom has a toilet and a sink.,0.5,1.4369520286939133
+111076,Prompt C (Constrained),Bathroom with toilet and sink that has no cabinet door.,0.5,0.28214943050639785
+340559,Prompt A (Baseline),Two sinks are on the left wall while a door is on the right wall.,0.0,0.27605900616074064
+340559,Prompt B (Forced Hallucination),Two sinks are on the left wall while a door is on the right wall.,0.0,0.27605900616074064
+340559,Prompt C (Constrained),Two sinks are on the left wall while a door is on the right wall.,0.0,0.27605900616074064
+258985,Prompt A (Baseline),Toilet and plant on the sidewalk in front of a house with a red door.,0.5,0.1165336676510173
+258985,Prompt B (Forced Hallucination),A toilet and potted plant are on a street in front of a house.,1.0,0.4942279870356263
+258985,Prompt C (Constrained),Toilet and plant pot on the road in front of a house.,0.5,0.34725558002652934
+509822,Prompt A (Baseline),A bicycle is parked in front of a door.,1.0,0.6415787179349499
+509822,Prompt B (Forced Hallucination),A bicycle is locked onto a metal door. The bicycle is black and has white tires.,1.0,1.2466667314378646
+509822,Prompt C (Constrained),A bicycle is on a door that has many dents in it.,1.0,0.22462765218377395
+321107,Prompt A (Baseline),A person is riding a bike in the street.,0.3333333333333333,1.4467967801112143
+321107,Prompt B (Forced Hallucination),"A woman is riding a bicycle on the road. In the background there are cars, traffic signals, trees and grass.",0.3333333333333333,1.2159283424647185
+321107,Prompt C (Constrained),A woman rides a bike down the street.,0.3333333333333333,1.711195623393321
+229643,Prompt A (Baseline),A person is taking a photo of themselves in a mirror in a bathroom.,0.5,0.6524057801410701
+229643,Prompt B (Forced Hallucination),A bathroom with a sink and mirror.,0.5,0.6273499968157304
+229643,Prompt C (Constrained),A person is in the bathroom and is taking a selfie.,0.5,0.6007778996198777
+125059,Prompt A (Baseline),This picture shows a toilet seat and a sink,0.6666666666666666,0.6009537783847106
+125059,Prompt B (Forced Hallucination),"This picture is clicked inside the bathroom. In the center we can see the sink and the toilet. On the left we can see the tissue rolls and some other objects. In the background we can see the wall, photo frame and some other objects.",0.6666666666666666,0.06544575927637984
+125059,Prompt C (Constrained),Toilet paper can be seen on the counter in the bathroom.,0.3333333333333333,0.0792030578465783
+455483,Prompt A (Baseline),Bathroom with mirror and towel bar above sink.,0.3333333333333333,0.08304534896883253
+455483,Prompt B (Forced Hallucination),"This is a bathroom with a mirror, sinks, and a toilet.",0.3333333333333333,0.17472938432506857
+455483,Prompt C (Constrained),Bathroom with mirror and towel bar on wall.,0.0,0.08658115920188135
+436141,Prompt A (Baseline),"Bathroom with toilet, sink, mirror, and cabinet.",1.0,0.13264110412137542
+436141,Prompt B (Forced Hallucination),This is a bathroom. There is a toilet. There is a sink. There is a mirror.,1.0,0.0032387950753543404
+436141,Prompt C (Constrained),Bathroom with a toilet and sink.,1.0,0.30349564404774493
+129001,Prompt A (Baseline),A bathroom with a shower curtain and a bathtub.,0.0,0.9241600300999939
+129001,Prompt B (Forced Hallucination),"This is the picture of a bathroom. In this image we can see a bathtub, sink, tap, mirror, door, curtain, bottles, racks, floor and wall.",0.25,0.168980478126374
+129001,Prompt C (Constrained),A bathroom with colorful tiles on the wall has various toiletries in a corner.,0.0,0.11124424896925161
+232262,Prompt A (Baseline),A road with many cars in it and a sign that says to stop.,0.0,0.18166303005731355
+232262,Prompt B (Forced Hallucination),A road with many cars in traffic with a sign that says to not block.,0.0,0.2081495581303798
+232262,Prompt C (Constrained),A road with many cars has a sign with the letters SE on it.,0.0,0.14280473878566777
+61181,Prompt A (Baseline),Many cars are on the road with a traffic light in the middle.,0.14285714285714285,0.43160115315922487
+61181,Prompt B (Forced Hallucination),"In this image we can see vehicles on the road, traffic signals, trees, buildings, poles, and sky.",0.0,0.040739001276299036
+61181,Prompt C (Constrained),"A very busy street with cars, trucks, and buses all in traffic.",0.0,0.0824110789798142
+166323,Prompt A (Baseline),Bathroom with a sink and a shower head.,1.0,0.6018942524998502
+166323,Prompt B (Forced Hallucination),A bathroom with a sink and a shower with a door half open.,1.0,0.6059525048502962
+166323,Prompt C (Constrained),Bathroom with a sink and a shower.,1.0,0.6360753610008397
+580041,Prompt A (Baseline),"A traffic jam at dusk with a sign reading ""Do not block intersection"" above the cars.",0.0,0.028395489491681115
+580041,Prompt B (Forced Hallucination),A city street is jammed with traffic at dusk.,0.0,0.346660492454166
+580041,Prompt C (Constrained),A red light tells the cars to stop.,0.0,0.08591715462039949
+326781,Prompt A (Baseline),"Bathroom with blue curtain, toilet and sink.",1.0,0.19365174681607436
+326781,Prompt B (Forced Hallucination),Bathroom with blue shower curtain and toilet.,0.5,0.6419317080456417
+326781,Prompt C (Constrained),Bathroom with blue shower curtain and toilet.,0.5,0.6419317080456417
+387362,Prompt A (Baseline),A man takes a photo of himself in a bathroom mirror.,0.3333333333333333,0.9790644434889637
+387362,Prompt B (Forced Hallucination),A man is taking a photo of himself in the mirror.,0.3333333333333333,0.9587401404190077
+387362,Prompt C (Constrained),A man takes a photo of himself in a mirror while standing in a bathroom.,0.3333333333333333,0.6901928377961196
+138079,Prompt A (Baseline),"This is the picture of a bathroom. In this image we can see a sink, tap, toilet seat, door, window, wall and floor.",1.0,0.1075949428470867
+138079,Prompt B (Forced Hallucination),"This is the picture of a bathroom. In this image we can see a sink, tap, toilet, window, door, floor and wall.",1.0,0.1075949428470867
+138079,Prompt C (Constrained),A bathroom with a toilet and a bathtub.,0.5,0.32975927826838064
+556616,Prompt A (Baseline),A parking meter has a coin slot on the top.,0.5,1.0850699008960163
+556616,Prompt B (Forced Hallucination),A parking meter is on the side of the road with cars parked around it.,0.5,1.107722277272862
+556616,Prompt C (Constrained),A parking meter is on the left side of the car.,1.0,1.1970861965152237
+472621,Prompt A (Baseline),"Bathroom with a bathtub, sink, and mirror.",0.16666666666666666,0.2696239089197695
+472621,Prompt B (Forced Hallucination),"Bathroom with a bathtub, toilet, sink, and mirror.",0.16666666666666666,0.2565768107515132
+472621,Prompt C (Constrained),The bathroom has a black and gold bathtub.,0.0,0.18515876620523125
+192440,Prompt A (Baseline),A bathroom with a toilet and sink and lots of baskets.,0.5,0.42376367732999914
+192440,Prompt B (Forced Hallucination),"In the bathroom, there is a toilet, sink, and shelf with baskets on it.",0.5,0.17541606038073304
+192440,Prompt C (Constrained),A bathroom with a toilet and sink and lots of baskets.,0.5,0.42376367732999914
+86320,Prompt A (Baseline),Bathroom with a mirror and a sink.,1.0,0.5555714581266624
+86320,Prompt B (Forced Hallucination),This is a bathroom. There is a sink. There is a mirror. There is a cabinet.,1.0,1.2952988426210102e-06
+86320,Prompt C (Constrained),Bathroom with a mirror and a sink.,1.0,0.5555714581266624
+256668,Prompt A (Baseline),In this image we can see a urinal with a few objects on it. On the backside we can see a wall with a few tiles.,0.0,0.46514354663280405
+256668,Prompt B (Forced Hallucination),A urinal in a men's bathroom with tongs and a spoon hanging from the faucet above it.,0.0,0.6782586418416949
+256668,Prompt C (Constrained),Urinal with tongs and other items on top.,0.0,0.5220544594062799
+383445,Prompt A (Baseline),In this image we can see a doughnut on the car.,0.5,0.26345285580326994
+383445,Prompt B (Forced Hallucination),In this image we can see a doughnut on the car.,0.5,0.26345285580326994
+383445,Prompt C (Constrained),A doughnut is on a car that is parked.,0.5,0.35161998551457574
+565797,Prompt A (Baseline),A cat is laying on a car tire.,1.0,0.6461289824137071
+565797,Prompt B (Forced Hallucination),In this image we can see a cat on the tire of a car.,1.0,0.5114322257524377
+565797,Prompt C (Constrained),A cat is laying on a car tire.,1.0,0.6461289824137071
+81922,Prompt A (Baseline),An airplane is taking off over a line of cars on the highway.,0.5,0.6634404590650413
+81922,Prompt B (Forced Hallucination),A jet is taking off from an airport in a city.,0.5,0.004027796058098308
+81922,Prompt C (Constrained),A jet is taking off from an airport with lots of cars in the lanes below.,0.5,0.09044323760674858
+50125,Prompt A (Baseline),A Perkins bus is parked in a parking lot with several other vehicles.,0.3333333333333333,1.3067752742582706
+50125,Prompt B (Forced Hallucination),A old fashioned bus is driving down the road.,0.3333333333333333,0.38029983458842287
+50125,Prompt C (Constrained),A perkins bus is sitting in a parking lot.,0.3333333333333333,1.4767874966924306
+364521,Prompt A (Baseline),A helmet is on top of a toilet with the word SINK printed on it.,1.0,0.9289646416356492
+364521,Prompt B (Forced Hallucination),A helmet is on a toilet in a yard.,1.0,1.3050165259030568
+364521,Prompt C (Constrained),A helmet sits on a toilet with the word sled written on it.,1.0,0.8489614482993009
+394892,Prompt A (Baseline),A boy is skateboarding in a street.,0.3333333333333333,0.3248995067812056
+394892,Prompt B (Forced Hallucination),"A boy is skateboarding in a parking lot. He is wearing a black hoodie, blue jeans, and a baseball cap.",0.3333333333333333,0.2365399934680755
+394892,Prompt C (Constrained),A boy is skateboarding in a street. There are cars behind him.,0.3333333333333333,0.3248995067812056
+1146,Prompt A (Baseline),A man with glasses is wearing a tie.,1.0,0.4809274811018613
+1146,Prompt B (Forced Hallucination),Man wearing a black shirt and a green tie.,1.0,1.0128031585380495
+1146,Prompt C (Constrained),A man is wearing a tie.,1.0,0.3493037779395344
+310391,Prompt A (Baseline),"In this image we can see a car on the ground. In the background we can see a group of trees, sky and a person.",0.5,0.12123434685203777
+310391,Prompt B (Forced Hallucination),"In this image we can see a car on the ground. In the background we can see a group of trees, a person sitting in a car, a group of people, a tent and the sky.",0.5,0.12123434685203777
+310391,Prompt C (Constrained),A car is parked in the grass with a surfboard on the roof.,0.5,0.7068333140688577
+97434,Prompt A (Baseline),A man is sitting on the curb while talking to a cop in front of a motorcycle.,0.5,0.6164531211691556
+97434,Prompt B (Forced Hallucination),In this image we can see a man sitting on the curb. There is a man standing on the ground. There is a motorcycle on the ground. There is a car on the left side of the image. There is a building in the background.,0.75,0.28958076133177635
+97434,Prompt C (Constrained),A police officer is behind a white motorcycle and a man is sitting on the curb.,0.5,1.2565805863332047
+463836,Prompt A (Baseline),"In this image we can see a person wearing a bag is standing on the floor. In the background we can see a rope, wall and a window.",0.3333333333333333,0.09290928045274219
+463836,Prompt B (Forced Hallucination),"In this image we can see a person wearing a bag is standing on the floor. In the background we can see a rope, wall and a window.",0.3333333333333333,0.09290928045274219
+463836,Prompt C (Constrained),Man with a backpack looking at something.,0.6666666666666666,0.3976902783839652
+241876,Prompt A (Baseline),A cat is sitting on the toilet seat.,1.0,1.3399958399990672
+241876,Prompt B (Forced Hallucination),A cat is sitting on a toilet. It is black and white.,1.0,1.469071331453475
+241876,Prompt C (Constrained),A cat is on a toilet.,1.0,1.349434365185345
+156832,Prompt A (Baseline),A bathroom with a toilet that has a black horseshoe shaped seat.,0.5,0.2633897671693834
+156832,Prompt B (Forced Hallucination),A bathroom with a toilet that has a black seat that looks like a horseshoe.,0.5,0.2953444852929205
+156832,Prompt C (Constrained),A bathroom with a toilet that looks like a horseshoe.,0.5,0.3571971783897747
+480985,Prompt A (Baseline),"A red and black motorcycle is on display at a convention with the price of 13,993.",0.5,0.38345482908657014
+480985,Prompt B (Forced Hallucination),A motorcycle is on display indoors.,0.5,0.9143621469839814
+480985,Prompt C (Constrained),A red and black motorcycle is on display at a convention.,0.5,0.961012922326036
+458054,Prompt A (Baseline),A row of toilets are on the ground outside with the lids off.,0.0,1.04748457990099
+458054,Prompt B (Forced Hallucination),Several toilets are together outside in a row.,0.0,0.45897002570022444
+458054,Prompt C (Constrained),Several toilet bowls are together outside with the lids off.,1.0,0.0008761304134697735
+270721,Prompt A (Baseline),This picture is clicked inside a bathroom. In the foreground we can see the sink and the tap. In the center we can see the toilet and the shower.,1.0,1.2610661705555149e-06
+270721,Prompt B (Forced Hallucination),This picture is clicked inside a bathroom. In the foreground we can see the commode and a sink. In the background we can see the wall and the tiles.,0.5,1.2610661705555149e-06
+270721,Prompt C (Constrained),A bathroom with a toilet and a sink.,1.0,0.6739313468296073
+462341,Prompt A (Baseline),A clock tower with a clock on it.,0.5,0.318339445049197
+462341,Prompt B (Forced Hallucination),A clock tower is seen through a window frame.,0.5,0.23895487098514556
+462341,Prompt C (Constrained),A clock tower is seen through a window frame.,0.5,0.23895487098514556
+310103,Prompt A (Baseline),A motorcycle with a license plate that reads CAIRN.,1.0,1.0917012973268836
+310103,Prompt B (Forced Hallucination),A motorcycle with a license plate that says CAIRN is parked on the street.,1.0,0.8598870466691498
+310103,Prompt C (Constrained),A motorcycle with a license plate that says CAIRN is parked on the street.,1.0,0.8598870466691498
+32992,Prompt A (Baseline),A close up of a wooden item with crosses on it.,0.0,1.9351271967775867
+32992,Prompt B (Forced Hallucination),A close up of a wooden item with crosses on it.,0.0,1.9351271967775867
+32992,Prompt C (Constrained),A wooden item has the shape of a circle and has crosses on it.,0.0,0.526019777642199
+122851,Prompt A (Baseline),Man working with bananas on a road side while people are riding bikes on the road.,0.25,0.2616198052196432
+122851,Prompt B (Forced Hallucination),A man is working with bananas on the side of the road while two people ride a motorcycle by.,0.5,0.3188860807042451
+122851,Prompt C (Constrained),Man next to bananas on the ground and motorcycle riders on the road.,0.5,0.3730581549148153
+540763,Prompt A (Baseline),"In this image we can see a toilet, dustbin, tissue roll, lamp, sun symbol, window and wall.",0.3333333333333333,0.12965678205405548
+540763,Prompt B (Forced Hallucination),"In this image we can see a toilet, dustbin, tissue roll, wall, window, sun, giraffe, elephant, and objects.",0.3333333333333333,0.0008478442663672106
+540763,Prompt C (Constrained),"A bathroom with a toilet, sun, and toilet paper.",0.3333333333333333,0.1500939639577561
+331352,Prompt A (Baseline),This picture shows a toilet seat and a wash basin.,0.5,0.24759261769723415
+331352,Prompt B (Forced Hallucination),This picture shows a toilet seat and a wash basin.,0.5,0.24759261769723415
+331352,Prompt C (Constrained),A bathroom with a sink and a toilet that has the words night watch on it.,1.0,0.22645464458138045
+138246,Prompt A (Baseline),Horses graze in the foreground and a church stands in the background.,0.0,0.2733750088319251
+138246,Prompt B (Forced Hallucination),"In this image we can see a building, trees, grass, horses, and sky.",0.0,6.504326205067909e-07
+138246,Prompt C (Constrained),Horses graze in the foreground while a church and trees surround them in the background.,0.0,0.19275857725976725
+197254,Prompt A (Baseline),Two white horses pull a carriage in front of a large building.,0.0,0.9612809249632661
+197254,Prompt B (Forced Hallucination),Two white horses are pulling a carriage in front of a building.,0.0,0.9427346511369226
+197254,Prompt C (Constrained),Two white horses are pulling a carriage in front of a cathedral.,0.0,0.8144461645189194
+32907,Prompt A (Baseline),A toilet is sitting in the middle of the road with the lid off.,0.3333333333333333,0.9657229575634262
+32907,Prompt B (Forced Hallucination),A toilet is sitting in the middle of the road with a trash can behind it.,0.3333333333333333,0.6519248318723507
+32907,Prompt C (Constrained),A toilet is sitting in the middle of the road with the lid off.,0.3333333333333333,0.9657229575634262
+251252,Prompt A (Baseline),A black and white motorcycle by Triumph is on display at a show.,0.5,0.27171872523843166
+251252,Prompt B (Forced Hallucination),A motorcycle is on display at a trade show.,0.5,0.4362776915676101
+251252,Prompt C (Constrained),A black and white motorcycle by Triumph is on display at a show.,0.5,0.27171872523843166
+37675,Prompt A (Baseline),Horses grazing in front of a large church.,0.0,1.409143761797396
+37675,Prompt B (Forced Hallucination),Horses graze in the foreground of this picture with a church on a hill in the background.,0.0,0.2604494498289306
+37675,Prompt C (Constrained),A horse stands in the snow in front of a large church.,0.5,0.3221220391474847
+159537,Prompt A (Baseline),A clock tower with a clock on it.,1.0,1.9166519002482456
+159537,Prompt B (Forced Hallucination),There is a clock tower. On the tower there is a clock.,1.0,0.4270513813076263
+159537,Prompt C (Constrained),The clock on the tower is working properly.,1.0,0.8932298658959212
+268556,Prompt A (Baseline),A woman is riding a motorcycle on the road. In the background there is a car and a building.,0.75,2.1408549087987687
+268556,Prompt B (Forced Hallucination),A woman is riding a motorcycle on the road. In the background there is a car and a building.,0.75,2.1408549087987687
+268556,Prompt C (Constrained),A woman is riding a motorcycle on the road. A red car is passing by.,0.75,2.1408549087987687
+271177,Prompt A (Baseline),A motorcycle parked on the curb in a public place.,0.3333333333333333,1.0237467262592268
+271177,Prompt B (Forced Hallucination),A motorcycle is parked on the sidewalk. People are walking behind the motorcycle.,0.6666666666666666,1.5153066073517425
+271177,Prompt C (Constrained),A motorcycle parked on the street with people walking behind it.,0.6666666666666666,1.1493823796127365
+75051,Prompt A (Baseline),Toilet with no lid and trash can beside it in bathroom.,1.0,0.48970434894163595
+75051,Prompt B (Forced Hallucination),The toilet is next to a trash can.,1.0,0.9161746892872749
+75051,Prompt C (Constrained),Toilet with lid up next to trash can.,1.0,0.5423294478731716
+549399,Prompt A (Baseline),A blue motorcycle is parked in front of a brick wall that says K-Street and phone.,1.0,0.8048116265476545
+549399,Prompt B (Forced Hallucination),A motorcycle is parked in front of a brick wall that has KB Store painted on it.,1.0,0.7186220554232607
+549399,Prompt C (Constrained),A blue motorcycle is on the street and the word phone is on the side of the brick building behind it.,1.0,0.144974592292987
+85160,Prompt A (Baseline),Several people are working at computers in a room.,0.14285714285714285,0.4284118896098932
+85160,Prompt B (Forced Hallucination),"In this image we can see a man sitting on the chair and working on the computer. In the background we can see a woman standing and holding a telephone in her hand. We can also see a man sitting on the chair and working on the computer. On the left side we can see a man sitting on the chair and working on the computer. We can also see a monitor, keyboard, mouse, bag and some other objects on the table. On the right side we can",0.5714285714285714,0.24607855647840315
+85160,Prompt C (Constrained),Several people work in a drab office with old computers.,0.14285714285714285,0.024815570876955448
+559665,Prompt A (Baseline),A man on a motorcycle wears a helmet.,0.3333333333333333,0.09985609964584004
+559665,Prompt B (Forced Hallucination),A man is sitting on a motorcycle which is at a stop light.,0.3333333333333333,0.3087023541051288
+559665,Prompt C (Constrained),A man on a motorcycle wears a helmet.,0.3333333333333333,0.09985609964584004
+296649,Prompt A (Baseline),A group of men are on their motorcycles at an entrance to an apartment complex.,0.0,0.3264057944198015
+296649,Prompt B (Forced Hallucination),There are buildings on the sides and a sign that says to look left to go through.,0.0,0.07757461550570414
+296649,Prompt C (Constrained),A group of men are sitting on their motorcycles in an urban setting.,0.0,0.31796559680847336
+19358,Prompt A (Baseline),A blue bowl of oatmeal with Dominio sugar n cinnamon on the table.,0.16666666666666666,0.863077802239476
+19358,Prompt B (Forced Hallucination),A blue bowl with oatmeal and Dominio sugar in it.,0.16666666666666666,0.35064937539941454
+19358,Prompt C (Constrained),A blue bowl of oatmeal with Dominio sugar n cinnamon on the table.,0.16666666666666666,0.863077802239476
+459912,Prompt A (Baseline),A city street with many bikes parked and signs on the buildings.,0.0,0.17941788660723973
+459912,Prompt B (Forced Hallucination),In this image we can see many vehicles on the road. There are many people in the image. There are many buildings in the image.,0.3333333333333333,0.005394054501243412
+459912,Prompt C (Constrained),A city street with many buildings and stores along it has a large crowd of people walking on the sidewalk and many bikes parked in the middle of the road.,0.3333333333333333,0.0005773747998241256
+15827,Prompt A (Baseline),Motorcycles are parked on the street and the one in the front has a red tag.,0.0,0.15819774204934878
+15827,Prompt B (Forced Hallucination),There are many bikes parked on the street.,0.0,0.24887303330018173
+15827,Prompt C (Constrained),Motorcycles are parked on the street and a sign says 20.,0.0,0.3515796441425433
+394240,Prompt A (Baseline),A narrow street with parked bikes on both sides has a woman in a yellow jacket in the middle.,0.25,0.058270295711903855
+394240,Prompt B (Forced Hallucination),There are many bikes parked on the left side of this image. There is a building in the background. There is a sky on the top of this image.,0.0,0.40103528847553827
+394240,Prompt C (Constrained),A narrow street with buildings on either side has a motorcycle parked on the right side.,0.25,0.1794210232192804
+510755,Prompt A (Baseline),Motorcycles are parked in a row by trees.,0.0,0.2667993559522595
+510755,Prompt B (Forced Hallucination),A row of motorcycles are parked on a grassy field.,0.0,0.945876156253386
+510755,Prompt C (Constrained),Motorcycles are parked in a row.,0.0,0.08767360637505012
+175831,Prompt A (Baseline),A man in a helmet is on a moped in front of a building.,0.5,0.44787127215244704
+175831,Prompt B (Forced Hallucination),There is a building with a red flag in front of it. There are three people riding motorcycles in front of the building.,0.5,0.3615971613129314
+175831,Prompt C (Constrained),A building with a red flag is the meeting place of the Vietnamese Congress.,0.0,0.056011992881631195
+386912,Prompt A (Baseline),A woman sits at a desk using an iMac computer.,0.2,0.9656377365261399
+386912,Prompt B (Forced Hallucination),A woman sits at a desk with a Mac computer.,0.2,1.2903889565092654
+386912,Prompt C (Constrained),A woman sits at a desk and works on an iMac computer.,0.2,0.8359853068816798
+79472,Prompt A (Baseline),A computer sits on a desk next to a Canon printer.,0.0,0.23789574761159166
+79472,Prompt B (Forced Hallucination),"On a desk, there is a laptop, a printer, and a computer.",0.0,0.264131121369222
+79472,Prompt C (Constrained),A computer sits on a desk next to a Canon printer.,0.0,0.23789574761159166
+502136,Prompt A (Baseline),In this image we can see a building with a door and a window. We can also see some plants and a board with some text on it.,0.0,0.32495645790072647
+502136,Prompt B (Forced Hallucination),In this image we can see a building with a door and a window. We can also see some plants and a board with some text.,0.0,0.32495645790072647
+502136,Prompt C (Constrained),A door is open to a run down building with the word Uscita visible.,0.0,0.6156841255630038
+250108,Prompt A (Baseline),A desk in an office has a bottle of Coke on it.,0.14285714285714285,0.6336365886573845
+250108,Prompt B (Forced Hallucination),A desk in an office by a window over a parking lot with a bottle that says COCA COLA.,0.14285714285714285,0.3559875101901989
+250108,Prompt C (Constrained),A desk in an office has a coke can on it.,0.0,0.6697811024730898
+491497,Prompt A (Baseline),An Indianapolis Colts football player is celebrating on the television screen.,0.0,0.10152361290555632
+491497,Prompt B (Forced Hallucination),A Peyton Manning commercial is on TV. He's wearing a Colts uniform.,0.25,0.002217612889105117
+491497,Prompt C (Constrained),An Indianapolis Colts football player is celebrating on the television screen.,0.0,0.10152361290555632
+315601,Prompt A (Baseline),A traffic jam of cars and motorbikes are driving down a city street.,0.0,0.2543158981493623
+315601,Prompt B (Forced Hallucination),A traffic jam of cars and motorbikes are driving down a city street.,0.0,0.2543158981493623
+315601,Prompt C (Constrained),A traffic jam of cars and motorbikes are driving through the streets of a city.,0.0,0.18502249276247235
+437218,Prompt A (Baseline),A flat screen TV is on a stand in a corner of a yellow room.,0.5,1.1537531598238555
+437218,Prompt B (Forced Hallucination),In a yellow walled room there is a flat screen TV on a stand.,0.5,0.6214871045292875
+437218,Prompt C (Constrained),Television screen showing water and a white door.,0.0,0.3137844526331434
+503707,Prompt A (Baseline),A motorcycle rider is passing a white car on the highway.,0.6666666666666666,0.24580321578668168
+503707,Prompt B (Forced Hallucination),A motorcycle rider is passing a white car on the highway.,0.6666666666666666,0.24580321578668168
+503707,Prompt C (Constrained),A white car is driving down the road with a few motorcycles.,0.3333333333333333,0.8693209333117541
+184791,Prompt A (Baseline),"In this image we can see a painting of a table, on the table, we can see a jug, a candle, a bowl, a candle stand and some fruits.",0.5,0.0758342343386649
+184791,Prompt B (Forced Hallucination),"In this image we can see a painting of a table, on the table, we can see a jug, a candle, a bowl, a candle stand and some fruits.",0.5,0.0758342343386649
+184791,Prompt C (Constrained),"A still life painting of a vase, oranges, and a candle.",0.0,0.5973863731249993
+74331,Prompt A (Baseline),Bananas are packed in a cardboard box.,0.0,0.5915310415793565
+74331,Prompt B (Forced Hallucination),A box is packed with bananas and labeled as 14 degrees celsius.,0.0,0.2972313388871557
+74331,Prompt C (Constrained),A box of bananas is labeled with the store at which it was packed.,0.0,0.13951297086379066
+579664,Prompt A (Baseline),"Dozens of bananas are gathered together, with pineapple in the back.",0.0,0.5196401027964532
+579664,Prompt B (Forced Hallucination),A stand selling bananas in a park.,0.0,0.49501671007286685
+579664,Prompt C (Constrained),"Several bunches of bananas are together, and the bananas in the front are ripe.",0.0,0.5137134253774298
+369763,Prompt A (Baseline),"This is an edited image. In this image, we can see a person sitting on the road. In the background, we can see a person standing, vehicle, grill, wall.",0.5,0.0017547705945866068
+369763,Prompt B (Forced Hallucination),This is an edited image. In the middle of the image there is a motorcycle. On the left side of the image there is a person sitting on the floor. Behind the motorcycle there is a person standing. Behind the person there is a wall with a window.,0.5,0.0017547705945866068
+369763,Prompt C (Constrained),This is an edited photo. There is a person sitting on the left. There is a motorcycle. There is a person standing behind a fence.,0.5,0.0017547705945866068
+199951,Prompt A (Baseline),A motorcycle is riding on the track.,0.25,0.6093683091311598
+199951,Prompt B (Forced Hallucination),A motorcycle is on the road. There is a person behind a fence. There are cars and trees in the background.,0.5,0.45475668638436245
+199951,Prompt C (Constrained),A motorcycle is on the track. There is a person riding the motorcycle. There is a fence around the track. There are trees in the background.,0.5,0.5038389549909725
+452684,Prompt A (Baseline),A half glass beaker of beer with a slice of orange on the side.,0.25,0.6139105020498581
+452684,Prompt B (Forced Hallucination),A glass pitcher of beer is on a table with a glass of beer and some orange slices.,0.25,1.2130538830663573
+452684,Prompt C (Constrained),Pitcher of beer next to a cup of beer and orange slices.,0.5,1.3994757165138365
+213687,Prompt A (Baseline),An intersection with a building with an AIA sign.,0.0,0.07570154710099401
+213687,Prompt B (Forced Hallucination),An street scene of a city with a KFC on the corner.,0.0,0.047951705152881816
+213687,Prompt C (Constrained),An street with many vehicles and a building that has AIA on it.,0.0,0.11957818532623206
+108094,Prompt A (Baseline),Two people ride a motorcycle in front of a large building.,0.6666666666666666,0.6612230382072084
+108094,Prompt B (Forced Hallucination),There is a building in the background.,0.0,0.0026317457579934393
+108094,Prompt C (Constrained),A man and woman ride a moped in front of a white building with ornate carvings.,0.3333333333333333,0.00019041230392389402
+527040,Prompt A (Baseline),Two birds next to a basket on a newspaper.,0.0,1.4501162733281816
+527040,Prompt B (Forced Hallucination),A bird is next to a basket on a table with a newspaper on it.,0.16666666666666666,0.7293276583851989
+527040,Prompt C (Constrained),Two small birds are in a wicker basket on top of a newspaper.,0.0,0.642561697756307
+350341,Prompt A (Baseline),A basket of bread is on a table next to a newspaper that has an ad for Heineken beer.,0.0,0.4054955273885186
+350341,Prompt B (Forced Hallucination),A basket of bread sits on top of a newspaper on a table in a restaurant.,0.0,0.891287845049876
+350341,Prompt C (Constrained),A bird is eating bread in a basket on a newspaper.,0.2,2.653074034651357
+550529,Prompt A (Baseline),A motorbike is on display with many bottles of wine behind it.,0.5,1.052572442914611
+550529,Prompt B (Forced Hallucination),A motorbike is on display in a shop. There are many wine bottles in the background.,0.5,0.30844461085816494
+550529,Prompt C (Constrained),A motorbike is on display and some wine bottles are behind it.,0.5,1.1537264393435505
+432176,Prompt A (Baseline),A stone building with a flower pot and a green bench.,0.5,0.2610240719930581
+432176,Prompt B (Forced Hallucination),There is a window with a flower pot on it and a door beside it and a bench in front of it.,0.5,0.1672017870718993
+432176,Prompt C (Constrained),A window with flowers next to a door and a bench.,0.5,0.5241688829423544
+281533,Prompt A (Baseline),A dog is watching TV while sitting on the floor.,0.6666666666666666,1.4359789802987275
+281533,Prompt B (Forced Hallucination),A dog is watching TV. There is a plant on either side of the TV.,0.6666666666666666,1.324442371604547
+281533,Prompt C (Constrained),A dog is watching TV. There is a plant on either side of the TV.,0.6666666666666666,1.324442371604547
+369826,Prompt A (Baseline),"In this image we can see a screen, there are some lights, also we can see a board with some text on it.",0.0,0.00646722538397947
+369826,Prompt B (Forced Hallucination),A sign is next to a monitor in a building.,0.0,0.04230521083481052
+369826,Prompt C (Constrained),"An airport carousel with a sign that says ""If you have any questions.."" on it.",0.0,0.1404536215612276
+551334,Prompt A (Baseline),Man sitting on the chair in front of the television.,0.4,0.1860400856526824
+551334,Prompt B (Forced Hallucination),A man sits at a desk on a television set.,0.2,0.8525957232317787
+551334,Prompt C (Constrained),A man sits at a desk on a tv show.,0.4,0.6604827503725856
+291380,Prompt A (Baseline),Man sitting on a bench with a TV in front of a brick building.,0.5,0.4592463031599859
+291380,Prompt B (Forced Hallucination),A man is sitting on a bench outside. He is watching the television that is in his hands.,0.25,0.3487699411918026
+291380,Prompt C (Constrained),Man sitting on a bench next to a tv.,0.5,0.4913445041780807
+368978,Prompt A (Baseline),A plane is taking off and has the word france on the tail.,1.0,0.2094145022583653
+368978,Prompt B (Forced Hallucination),A plane is taking off and heading into the city.,1.0,0.2613287826741805
+368978,Prompt C (Constrained),A plane is taking off and heading towards the city.,1.0,0.2526202847749995
+77123,Prompt A (Baseline),A plane that has air china written on the side.,0.5,0.12217818953825804
+77123,Prompt B (Forced Hallucination),An Air China airplane is on the tarmac at an airport.,0.5,0.9517827543414824
+77123,Prompt C (Constrained),A plane that says air china on the side.,0.5,0.12869406933309036
+513681,Prompt A (Baseline),An airplane is being loaded by a delta airlines worker.,0.3333333333333333,0.1138280961019976
+513681,Prompt B (Forced Hallucination),An airplane is being loaded by a man in an orange vest. He is at an airport.,0.6666666666666666,0.21893397817523477
+513681,Prompt C (Constrained),An airplane is being loaded by a man with an orange vest.,0.6666666666666666,0.20641218814841056
+348881,Prompt A (Baseline),A man is walking away from an airplane with the number 54 on its nose.,0.6666666666666666,0.07485667541884775
+348881,Prompt B (Forced Hallucination),An airplane is parked at a gate. A man is walking away from the plane.,0.6666666666666666,0.40474102104164233
+348881,Prompt C (Constrained),A plane has a man standing outside of it with luggage.,0.6666666666666666,0.0629317310395737
+437370,Prompt A (Baseline),A black propeller plane has the number 15 on the nose.,0.5,0.3654596723208646
+437370,Prompt B (Forced Hallucination),An airplane is on the grass and has the number 15 on it.,0.5,0.05031275313104835
+437370,Prompt C (Constrained),A black plane with the number 15 is parked on the grass.,0.5,0.41589205902823617
+78371,Prompt A (Baseline),A propeller plane is on the runway with its propeller spinning.,1.0,0.03335258314383712
+78371,Prompt B (Forced Hallucination),A propeller plane is on a runway with trees in the background.,1.0,0.0519231422570575
+78371,Prompt C (Constrained),A propeller plane is on the runway with its propeller spinning.,1.0,0.03335258314383712
+560623,Prompt A (Baseline),Several planes are parked at an airport.,0.0,0.45735174693277025
+560623,Prompt B (Forced Hallucination),Several planes are parked at an airport.,0.0,0.45735174693277025
+560623,Prompt C (Constrained),Several planes are parked at an airport.,0.0,0.45735174693277025
+289173,Prompt A (Baseline),An airplane is being loaded at a gate.,0.3333333333333333,0.13339901378977587
+289173,Prompt B (Forced Hallucination),An airplane is being loaded by a worker. There are several other airplanes parked behind it.,0.3333333333333333,0.08506386564123684
+289173,Prompt C (Constrained),An airplane is being loaded by a worker.,0.3333333333333333,0.08506386564123684
+52759,Prompt A (Baseline),A United airlines jet is being loaded at an airport.,0.3333333333333333,0.014654248310960747
+52759,Prompt B (Forced Hallucination),A United airlines plane is being loaded onto a jet bridge.,0.3333333333333333,0.034719777555836356
+52759,Prompt C (Constrained),A United airplane is being loaded onto a conveyor belt.,0.3333333333333333,0.023772666011353444
+289393,Prompt A (Baseline),A giraffe is next to a cow and a deer.,0.5,0.000820606382157033
+289393,Prompt B (Forced Hallucination),"There are toys of a giraffe, cow, deer, and a bird on the floor. In the background there is a frame attached to the wall.",0.75,0.3074204979936976
+289393,Prompt C (Constrained),There are several animals together including a giraffe.,0.25,0.40785022152954964
+568623,Prompt A (Baseline),A man sitting on a yellow and black bench with a white bag by his feet.,0.2857142857142857,1.1412741077592248
+568623,Prompt B (Forced Hallucination),A man sits on a yellow and black bench. People walk behind him.,0.2857142857142857,1.121730439331887
+568623,Prompt C (Constrained),A man sits on a yellow and black bench while holding a cell phone.,0.42857142857142855,1.6745784899644915
+128939,Prompt A (Baseline),A man is opening the door of a silver car at an intersection.,0.6666666666666666,0.75646116057111
+128939,Prompt B (Forced Hallucination),A man is opening the door to a silver car. There is a traffic light behind the car. There is a building with a sign on the side of the street.,1.0,0.19131513965182106
+128939,Prompt C (Constrained),A man is opening his car door as a traffic light turns green.,1.0,0.3193297752730326
+339974,Prompt A (Baseline),A road with cars driving on it at night with traffic lights and signs.,0.5,0.44520110728350965
+339974,Prompt B (Forced Hallucination),The traffic lights have arrows on them to direct traffic.,0.5,0.3097620389608801
+339974,Prompt C (Constrained),A road sign in the dark that says to turn left.,0.0,0.05680002960332388
+561100,Prompt A (Baseline),A small plane with the letters E and C on the tail is on the ground.,1.0,0.13033054426647325
+561100,Prompt B (Forced Hallucination),A small plane with the letters E and C on the tail is on the ground.,1.0,0.13033054426647325
+561100,Prompt C (Constrained),A plane with the letters e and c on the tail is flying.,1.0,0.0980948488051327
+150410,Prompt A (Baseline),A man is working on a remote controlled airplane in the grass.,0.6666666666666666,0.17457977793850393
+150410,Prompt B (Forced Hallucination),A man is looking at a remote controlled airplane. He is wearing a gray shirt and a baseball hat.,0.6666666666666666,0.18712721015893494
+150410,Prompt C (Constrained),A man is looking at a remote controlled airplane.,0.6666666666666666,0.18712721015893494
+9426,Prompt A (Baseline),A small plane with red and white paint is flying in the air.,1.0,1.1601416359990833
+9426,Prompt B (Forced Hallucination),A small plane is in the air. It is white and red.,1.0,1.1416295159381828
+9426,Prompt C (Constrained),A small plane with red and white paint is in the air.,1.0,0.8219015244612136
+14869,Prompt A (Baseline),A park bench sits under a tree.,1.0,1.3517725745686637
+14869,Prompt B (Forced Hallucination),A park bench is near a tree. People may sit on the bench to rest.,1.0,1.22832987579206
+14869,Prompt C (Constrained),A park bench is surrounded by trees on a path.,1.0,0.8945143428885212
+522713,Prompt A (Baseline),A park bench sits in a grassy area overlooking a body of water with boats in it.,0.3333333333333333,0.4187937388610061
+522713,Prompt B (Forced Hallucination),A park bench sits in a small park overlooking the ocean. There are boats on the water and an island in the distance.,0.3333333333333333,0.3869136855148394
+522713,Prompt C (Constrained),A park bench sits in a grassy park overlooking a body of water with boats in it.,0.3333333333333333,0.3201359007998366
+281221,Prompt A (Baseline),Giraffe standing in a grass field with trees around.,1.0,0.17796951456391896
+281221,Prompt B (Forced Hallucination),Giraffe standing in a field of grass. There are trees in the background.,1.0,0.13126891424051684
+281221,Prompt C (Constrained),Giraffe standing in a field next to a tree.,1.0,0.13726341036213055
+108169,Prompt A (Baseline),In this image we can see a plane.,0.0,0.033429923295403466
+108169,Prompt B (Forced Hallucination),"This is an aerial view of a place and we can see snow, trees and a hill.",0.0,0.06355860459021916
+108169,Prompt C (Constrained),The plane is flying over the snow covered mountains.,0.0,0.07648009340112963
+440575,Prompt A (Baseline),A plane is flying over a mountain and a building.,1.0,0.4424709235937161
+440575,Prompt B (Forced Hallucination),A black and white photo of a mountain with an airplane flying above.,1.0,0.11522366352765309
+440575,Prompt C (Constrained),A black and white photo of a mountain with an airplane flying above.,1.0,0.11522366352765309
+354533,Prompt A (Baseline),A motorcycle parked in front of a herd of sheep.,0.6666666666666666,0.9769538203768859
+354533,Prompt B (Forced Hallucination),A motorcycle is parked in the desert by a herd of sheep. People are watching the sheep.,1.0,0.6209400548493871
+354533,Prompt C (Constrained),A motorcycle is parked in the foreground and in the background there are people and sheep behind a fence.,0.6666666666666666,0.29099241683723676
+181666,Prompt A (Baseline),A herd of goats surround a man in a green robe.,0.5,0.7905546927999975
+181666,Prompt B (Forced Hallucination),A goat herder is standing in a circle of goats. He is wearing a green robe and a turban.,0.0,0.2029008690213395
+181666,Prompt C (Constrained),A herd of goats are in a fenced in area and a man stands among them.,0.5,0.4348633883206783
+545959,Prompt A (Baseline),A field with animals in it and a tree.,0.0,0.6060535077465147
+545959,Prompt B (Forced Hallucination),"In this image we can see animals on the ground. In the background we can see trees, sky and wires.",0.0,0.24176352286112124
+545959,Prompt C (Constrained),Cows and sheep graze in a green field.,0.0,0.37777436678033505
+511058,Prompt A (Baseline),A giraffe is eating some grass in its enclosure.,1.0,0.8493926897309725
+511058,Prompt B (Forced Hallucination),A giraffe is eating some grass in its enclosure.,1.0,0.8493926897309725
+511058,Prompt C (Constrained),A giraffe is eating some grass.,1.0,0.909164645517905
+91227,Prompt A (Baseline),Giraffe in a zoo looking at other giraffes.,1.0,0.007698787323818826
+91227,Prompt B (Forced Hallucination),A giraffe is standing in a grassy area.,1.0,0.7238043869488825
+91227,Prompt C (Constrained),A giraffe is in the foreground and behind it there are several other animals.,1.0,0.24987792037125706
+242139,Prompt A (Baseline),A busy street with cars and pedestrians at the intersection.,0.0,0.13386690126192188
+242139,Prompt B (Forced Hallucination),A car is driving down a city street.,0.3333333333333333,0.04366383095058126
+242139,Prompt C (Constrained),A car is driving near a tall building.,0.3333333333333333,0.06010693338377697
+17627,Prompt A (Baseline),"In this image we can see vehicles on the road, there are people, poles, trees, buildings, also we can see the sky.",0.3333333333333333,0.004161551279004308
+17627,Prompt B (Forced Hallucination),"In this image we can see vehicles on the road. In the background there are buildings, trees, people and sky.",0.3333333333333333,0.013151657312402303
+17627,Prompt C (Constrained),A line of cars wait at an empty street intersection.,0.0,0.23080518531705496
+334321,Prompt A (Baseline),A large white dog is sitting next to a man on a park bench.,0.6,1.922993865632293
+334321,Prompt B (Forced Hallucination),There are people sitting on a bench and a man is petting a dog.,0.6,1.1584673542314572
+334321,Prompt C (Constrained),Large white dog sitting next to a man on a green bench.,0.6,0.9284128701382657
+381021,Prompt A (Baseline),A woman is under a red lantern on a sign.,0.14285714285714285,0.1075342128901565
+381021,Prompt B (Forced Hallucination),A woman is on a billboard in a city.,0.14285714285714285,0.783684883809854
+381021,Prompt C (Constrained),A woman is under a red lantern on a street corner.,0.14285714285714285,0.09668590968358234
+170629,Prompt A (Baseline),A man bus with the license plate 306 A 368 stops to pick up passengers.,1.0,0.20528506292595
+170629,Prompt B (Forced Hallucination),A bus with the number 14 is going down a track with people on the side.,1.0,0.3998442926295759
+170629,Prompt C (Constrained),A man bus with the license plate 306 A 368 stops to pick up passengers.,1.0,0.20528506292595
+143931,Prompt A (Baseline),In this image we can see a bus on the road.,0.5,0.11568082129167967
+143931,Prompt B (Forced Hallucination),A blue bus with the name Scott Brown on the side.,0.5,0.3227408785681053
+143931,Prompt C (Constrained),A blue bus with the name Scott Brown on the side.,0.5,0.3227408785681053
+303818,Prompt A (Baseline),A bus with the number 110 on it is going through the streets of a city.,0.2,0.14312766650056208
+303818,Prompt B (Forced Hallucination),A bus is parked on the street on the right side. People are crossing the street. There are buildings all around.,0.4,0.24819892894546583
+303818,Prompt C (Constrained),A bus that is destined for the airport drives through the streets of a city.,0.2,0.1464121188149531
+207797,Prompt A (Baseline),Giraffe standing in a field with clouds in the background.,1.0,0.2223223186494892
+207797,Prompt B (Forced Hallucination),Giraffe standing in a field with clouds in the background.,1.0,0.2223223186494892
+207797,Prompt C (Constrained),Giraffe standing in a field with clouds in the background.,1.0,0.2223223186494892
+179558,Prompt A (Baseline),Giraffes are kissing each other on a branch.,0.0,0.03268641956361624
+179558,Prompt B (Forced Hallucination),Giraffes are licking and kissing each other.,0.0,0.009763010199656164
+179558,Prompt C (Constrained),Giraffes are kissing and licking each other.,0.0,0.009763010199656164
+368117,Prompt A (Baseline),A stoplight is in the shape of a square.,1.0,0.0017005772826575792
+368117,Prompt B (Forced Hallucination),There is a traffic light on a pole. In the background there is sky with clouds.,1.0,0.17872800415342693
+368117,Prompt C (Constrained),A stop light is against a blue sky.,0.0,0.25394778265780343
+15085,Prompt A (Baseline),Giraffes are drinking water from a puddle.,0.0,0.9825940340211137
+15085,Prompt B (Forced Hallucination),Giraffes are drinking water from a puddle.,0.0,0.9825940340211137
+15085,Prompt C (Constrained),Giraffes are drinking water from a puddle.,0.0,0.9825940340211137
+467522,Prompt A (Baseline),Giraffes and elephants in a zoo enclosure with people watching.,0.0,0.002165061635935437
+467522,Prompt B (Forced Hallucination),"In this image we can see giraffes, rocks, trees, and sky.",0.0,0.0
+467522,Prompt C (Constrained),Giraffes and elephants are in a green field.,0.0,0.031433089563404654
+40102,Prompt A (Baseline),Giraffes are standing next to each other under a tree.,0.0,0.5958856094473293
+40102,Prompt B (Forced Hallucination),Giraffes are next to a tree. Giraffes are animals with long necks.,0.0,0.01879608395851075
+40102,Prompt C (Constrained),Giraffes are next to a tree.,0.0,0.01879608395851075
+403020,Prompt A (Baseline),Giraffes rest in the dirt at the zoo.,0.0,0.2758572726203369
+403020,Prompt B (Forced Hallucination),Giraffe is sitting on the ground in an enclosure.,1.0,0.7793520768890201
+403020,Prompt C (Constrained),Giraffe is sitting on the ground.,1.0,0.2429486181666389
+6005,Prompt A (Baseline),Giraffes are standing in an enclosure and people are watching them.,0.5,0.09601909581736456
+6005,Prompt B (Forced Hallucination),Giraffes are at a zoo and people are looking at them.,0.5,0.18192654461606836
+6005,Prompt C (Constrained),Giraffes are at a zoo and people are looking at them.,0.5,0.18192654461606836
+219514,Prompt A (Baseline),"In this image we can see a building, light poles, traffic signal, sign boards, sky and clouds.",0.0,0.12922918318030438
+219514,Prompt B (Forced Hallucination),"In this image we can see a building, light poles, traffic signal, sign boards, sky and clouds.",0.0,0.12922918318030438
+219514,Prompt C (Constrained),A street sign for a one way street points the way to the right.,0.0,0.20491953430984178
+521634,Prompt A (Baseline),A traffic light has a sign which says C ST SW.,1.0,0.19394123801507218
+521634,Prompt B (Forced Hallucination),A traffic light has a sign that says C ST SW and 3 ST SW on it.,1.0,0.15917579125917333
+521634,Prompt C (Constrained),A traffic light has a sign that says C ST SW and 3 ST SW on it.,1.0,0.15917579125917333
+125476,Prompt A (Baseline),A chair sits in the middle of a bush.,0.0,0.15685243495753626
+125476,Prompt B (Forced Hallucination),An old red bench is surrounded by green plants.,0.5,0.7106665075209161
+125476,Prompt C (Constrained),A chair in the middle of a bush.,0.0,0.24036922350480733
+402559,Prompt A (Baseline),Giraffe standing in a forest full of trees.,1.0,0.36128441453989446
+402559,Prompt B (Forced Hallucination),Giraffe in a forest with dry trees in the fall.,1.0,0.09849777753911287
+402559,Prompt C (Constrained),Giraffe in a forest.,1.0,0.00407160009856589
+484816,Prompt A (Baseline),A school bus is driving under a cloudy sky.,1.0,1.6938730315737889
+484816,Prompt B (Forced Hallucination),A school bus is driving on a cloudy day.,1.0,1.6107810622926428
+484816,Prompt C (Constrained),A school bus is under a cloudy sky.,1.0,1.6907178304685468
+165547,Prompt A (Baseline),A table with vases of flowers and a newspaper on it sits in a sun room with windows all around.,0.0,0.06906469551083398
+165547,Prompt B (Forced Hallucination),A table with vases of flowers and a newspaper on it looks out over a forest from a window.,0.0,0.041699986944415485
+165547,Prompt C (Constrained),A table with chairs and windows all around.,0.0,0.30256186412937863
+463730,Prompt A (Baseline),A blue bus is on a street in front of an orange building with a USA Host sign.,0.2,0.02173497005704566
+463730,Prompt B (Forced Hallucination),A group of people are walking across the road in front of a bus with a USA sign on it.,0.4,0.03174627561562815
+463730,Prompt C (Constrained),A busy street with pedestrians walking and vehicles driving past a USA UK sign.,0.0,0.15262122117055252
+81561,Prompt A (Baseline),A traffic light has a green left turn arrow on it and a red light with a green arrow pointing straight.,1.0,0.015628292735822707
+81561,Prompt B (Forced Hallucination),In the foreground of the picture there is a traffic signal. In the middle of the picture there is a tower. In the background there are buildings.,0.0,0.11255169566297418
+81561,Prompt C (Constrained),A traffic light has a green left turning arrow on it and an arrow pointing right that is red.,1.0,0.03300761284799729
+227125,Prompt A (Baseline),A red light is on and the letters area are visible on the yellow sign to the right.,0.0,0.034251127933811576
+227125,Prompt B (Forced Hallucination),A traffic light with a green outline of a person on it has a red light.,1.0,0.25206424858833926
+227125,Prompt C (Constrained),A red light has a man standing.,0.0,0.16130323491290754
+189550,Prompt A (Baseline),Giraffe is eating the woman's hair.,1.0,0.0036525824877905798
+189550,Prompt B (Forced Hallucination),Giraffe is eating the woman's hair.,1.0,0.0036525824877905798
+189550,Prompt C (Constrained),Giraffe is eating woman's hand.,1.0,0.00264527928041207
+212663,Prompt A (Baseline),A line of people wait to board a bus that is destined for Foothill HS.,0.5,0.2827069985055365
+212663,Prompt B (Forced Hallucination),A bus is at the Foothill HS stop with a group of people standing at the bus.,0.5,0.3278467721518764
+212663,Prompt C (Constrained),A line of people wait to board a bus that is destined for Foothill HS.,0.5,0.2827069985055365
+476005,Prompt A (Baseline),A bus with the letter n on it.,0.3333333333333333,0.003422023936912973
+476005,Prompt B (Forced Hallucination),A bus is parked on the side of the road with many other buses.,0.3333333333333333,0.3093294375385086
+476005,Prompt C (Constrained),Several buses are parked on the street.,0.0,1.4744385860242355
+505440,Prompt A (Baseline),Giraffes are standing near a forest.,0.0,0.15062051804570376
+505440,Prompt B (Forced Hallucination),Giraffes are in a forest near a creek.,0.0,0.054058251234641946
+505440,Prompt C (Constrained),Two giraffes are standing near a forest.,0.0,0.8142439988834367
+67868,Prompt A (Baseline),A park with a flooded bench and grill in the water.,1.0,0.8674767473521674
+67868,Prompt B (Forced Hallucination),This image is taken outdoors. At the bottom of the image there is a ground with grass on it. In the middle of the image there is a pond with water. In the background there are many trees. On the left side of the image there is a bench.,1.0,0.0018845323592821524
+67868,Prompt C (Constrained),A park near a river is flooded and a bench is partially submerged.,1.0,0.742684874172187
+450263,Prompt A (Baseline),A man and a woman sit on a bench and read a newspaper.,0.4,0.7324274100747302
+450263,Prompt B (Forced Hallucination),There are people walking on a sidewalk by a river. In the middle of the river there is a boat.,0.4,0.05321529979992226
+450263,Prompt C (Constrained),A couple sits on a bench overlooking a river with a newspaper in their laps.,0.2,0.462989234156943
+241691,Prompt A (Baseline),Giraffe is standing near a person and looking at him.,1.0,0.38148105056627024
+241691,Prompt B (Forced Hallucination),Giraffe is standing near the person.,1.0,0.12165665426890157
+241691,Prompt C (Constrained),Giraffe leaning out of a window to eat a treat.,0.5,0.06442077738966341
+450500,Prompt A (Baseline),People are standing in front of a Hollywood sign.,0.25,0.1767793100971058
+450500,Prompt B (Forced Hallucination),A group of people are gathered at a street corner in Hollywood.,0.25,1.0390868752616798
+450500,Prompt C (Constrained),People are standing in front of a Hollywood sign.,0.25,0.1767793100971058
+545293,Prompt A (Baseline),A park bench sits in the shade of a tree.,1.0,0.9762481723664087
+545293,Prompt B (Forced Hallucination),A park bench is under a tree. People may sit here to rest.,1.0,1.2431272128939308
+545293,Prompt C (Constrained),A park bench is under a tree.,1.0,1.2431272128939308
+232894,Prompt A (Baseline),A boy and a girl sit at a table and the girl holds a package of crackers with a flower on it.,0.3333333333333333,0.19681328289132094
+232894,Prompt B (Forced Hallucination),Two kids are sitting at a table. They are looking at each other and smiling.,0.0,0.7077104162491408
+232894,Prompt C (Constrained),Two children are at a table.,0.0,0.3756318722279223
+439969,Prompt A (Baseline),"An old, rusted American Darling Valve fire hydrant is shown in the grass.",1.0,0.810932772416332
+439969,Prompt B (Forced Hallucination),"An old, pink, rusted American Darling Valve company fire hydrant, with weeds all around it.",1.0,0.2148425726884718
+439969,Prompt C (Constrained),"An old, pink, rusty, and damaged american darling fire hydrant.",1.0,0.22304493983842172
+29913,Prompt A (Baseline),"A fire hydrant has eyes painted on it, and is surrounded by cones.",0.3333333333333333,1.4167769541925215
+29913,Prompt B (Forced Hallucination),A fire hydrant is on the sidewalk in front of a parked car.,0.6666666666666666,1.0227609771011248
+29913,Prompt C (Constrained),A fire hydrant has eyes painted on it.,0.3333333333333333,1.6864638879163694
+410437,Prompt A (Baseline),"A fire hydrant is covered in snow, as is everything else on the street.",1.0,0.9690098987621807
+410437,Prompt B (Forced Hallucination),A fire hydrant is covered in snow and so is a sign beside it.,1.0,1.3360811764385783
+410437,Prompt C (Constrained),A fire hydrant is covered in snow and has a sign next to it that has the numbers 41415 on it.,1.0,0.2707378884266655
+455859,Prompt A (Baseline),A little girl wearing a pink shirt is following a woman wearing a purple shirt.,0.25,0.4165240420018056
+455859,Prompt B (Forced Hallucination),Four people are standing on the sidewalk facing a blue structure.,0.25,0.15689457283621464
+455859,Prompt C (Constrained),A little girl wearing a pink shirt is following a woman wearing a purple shirt.,0.25,0.4165240420018056
+235302,Prompt A (Baseline),A woman in a white dress and a man in a black suit are sitting on a bench.,0.6666666666666666,0.19799956327083051
+235302,Prompt B (Forced Hallucination),"In this image we can see a man and a woman sitting on the bench. In the background we can see trees, grass, shed and sky.",0.6666666666666666,0.1782581180976312
+235302,Prompt C (Constrained),A woman in a white dress and a man in a brown suit are sitting on a bench.,0.6666666666666666,0.19521079724739948
+431573,Prompt A (Baseline),A hydrant is spouting water onto the street.,1.0,1.4355170528619488
+431573,Prompt B (Forced Hallucination),A hydrant is spouting water onto the street.,1.0,1.4355170528619488
+431573,Prompt C (Constrained),A fire hydrant is spouting water onto the street.,1.0,1.9542468774602981
+290570,Prompt A (Baseline),Sheep are in an enclosure and a house is in the background.,0.5,0.16851545546491187
+290570,Prompt B (Forced Hallucination),"In this image we can see a group of sheep on the ground. On the left side of the image we can see a house with windows and a roof. In the background, we can see a group of trees and a fence.",0.5,0.2965576703390532
+290570,Prompt C (Constrained),Sheep are in an enclosure and snow is on the ground.,0.5,0.36727741813528936
+127474,Prompt A (Baseline),Two girls are playing with a fire hydrant and balloon.,0.5,1.022229669151721
+127474,Prompt B (Forced Hallucination),Two girls are playing with a fire hydrant and balloon.,0.5,1.022229669151721
+127474,Prompt C (Constrained),Two girls are playing with a fire hydrant and balloon.,0.5,1.022229669151721
+28758,Prompt A (Baseline),Giraffe and zebra in a field with a barn in the background.,1.0,1.2440908059734361
+28758,Prompt B (Forced Hallucination),Giraffe and zebra in a fenced in area with a barn in the background.,1.0,0.9111291588193431
+28758,Prompt C (Constrained),Giraffe and zebra in an enclosure.,1.0,1.1687352059874534
+163020,Prompt A (Baseline),A duck is flying over the water.,0.0,3.1605509083584264
+163020,Prompt B (Forced Hallucination),A duck is flying over the water.,0.0,3.1605509083584264
+163020,Prompt C (Constrained),A duck is flying over the water.,0.0,3.1605509083584264
+332654,Prompt A (Baseline),A hydrant is on the street in front of a sign that says Las Vegas.,0.3333333333333333,0.3198351906241326
+332654,Prompt B (Forced Hallucination),A fire hydrant is on the sidewalk at the intersection.,0.3333333333333333,0.99958459619897
+332654,Prompt C (Constrained),A fire hydrant is on the street in front of a sign that says las vegas.,0.3333333333333333,0.4846195729999895
+281455,Prompt A (Baseline),This is a black and white image. In this image we can see birds flying in the sky. At the bottom there is water.,0.0,0.09891434577130098
+281455,Prompt B (Forced Hallucination),This is a black and white image. In this image we can see birds flying in the sky. At the bottom there is a water.,0.0,0.09891434577130098
+281455,Prompt C (Constrained),A black and white photo of birds flying.,0.0,0.7103755844581587
+38029,Prompt A (Baseline),A parade is taking place and a truck is driving down the street.,0.3333333333333333,0.6000147831536835
+38029,Prompt B (Forced Hallucination),A parade is happening with a firetruck themed vehicle.,0.0,0.42534086680880184
+38029,Prompt C (Constrained),A parade is taking place and a truck is driving down the street.,0.3333333333333333,0.6000147831536835
+17756,Prompt A (Baseline),A swan is swimming in the water behind a tent.,0.0,0.3562445259561475
+17756,Prompt B (Forced Hallucination),A swan is swimming in the water behind a tent.,0.0,0.3562445259561475
+17756,Prompt C (Constrained),A swan is in the water behind a tent.,0.0,0.3907002029726381
+380932,Prompt A (Baseline),A hydrant is in a snowbank near a lake.,1.0,0.29796399702256526
+380932,Prompt B (Forced Hallucination),A hydrant is in a snowbank near a lake.,1.0,0.29796399702256526
+380932,Prompt C (Constrained),A hydrant is in a snowy area.,1.0,0.13229519894113276
+155885,Prompt A (Baseline),This is a black and white image. In this image we can see boats on the water. We can also see birds flying in the air. On the right side we can see buildings.,0.0,0.2431627785936012
+155885,Prompt B (Forced Hallucination),"This is a black and white image. In this image we can see boats on the water. We can also see birds flying in the air. On the right side we can see a pole. In the background we can see buildings, trees and sky.",0.0,0.2431627785936012
+155885,Prompt C (Constrained),A very old photo of a town by the sea.,0.0,0.0024180272938982505
+231408,Prompt A (Baseline),A cat is in the grass and a bird is in the water behind it.,1.0,0.7286715177034955
+231408,Prompt B (Forced Hallucination),There is a cat in the foreground and a duck in the water behind it.,0.5,1.7604704353130023
+231408,Prompt C (Constrained),Behind some grass that is green a cat is staring at a duck in the water.,0.5,0.7312880587932649
+305821,Prompt A (Baseline),Giraffes and deer are in a field.,0.0,0.37124995749958956
+305821,Prompt B (Forced Hallucination),Giraffes and deer are in a field. Giraffes are eating.,0.0,0.37124995749958956
+305821,Prompt C (Constrained),Giraffes and deer are in a field.,0.0,0.37124995749958956
+459374,Prompt A (Baseline),A fire hydrant is lit up in front of a building.,1.0,0.681586363319671
+459374,Prompt B (Forced Hallucination),In the center of the image there is a fire hydrant. On the right side of the image there is a building. On the left side of the image there is a tree. At the bottom of the image there is a road.,1.0,0.31114424513698413
+459374,Prompt C (Constrained),A building is in the background and a fire hydrant is in the foreground.,1.0,0.6027472747984279
+190056,Prompt A (Baseline),Giraffes are standing at a fence and looking at people.,0.5,0.06254588766669389
+190056,Prompt B (Forced Hallucination),Giraffes are standing at a fence and looking at people.,0.5,0.06254588766669389
+190056,Prompt C (Constrained),Giraffes are standing at a fence and looking at people.,0.5,0.06254588766669389
+176649,Prompt A (Baseline),A red and white sign has the words Low gear now at the bottom.,0.0,0.04834243774378448
+176649,Prompt B (Forced Hallucination),A red and white sign has the numbers 1 and 5 on it.,0.0,0.06765499177028601
+176649,Prompt C (Constrained),A red and white sign has the numbers 1 and 5 on it.,0.0,0.06765499177028601
+121041,Prompt A (Baseline),A black duck is swimming in the water.,0.0,1.262742816537989
+121041,Prompt B (Forced Hallucination),A duck is swimming in the water.,0.0,1.0053064829703737
+121041,Prompt C (Constrained),A duck is swimming in the water.,0.0,1.0053064829703737
+156397,Prompt A (Baseline),"In this image we can see a group of sheep. On the right side of the image we can see a group of trees. In the background, we can see a group of trees, hills and the sky.",1.0,0.0016063637736534312
+156397,Prompt B (Forced Hallucination),"In this image we can see a group of sheep. On the right side of the image we can see a group of trees. In the background, we can see a group of trees, plants and the sky.",1.0,0.0016063637736534312
+156397,Prompt C (Constrained),A herd of sheep stand together in a pasture.,0.0,1.9706927708907316
+173574,Prompt A (Baseline),"In this image we can see a group of sheep. On the right side of the image we can see a group of trees. In the background, we can see a group of trees, hills and the sky.",1.0,0.05993587748296197
+173574,Prompt B (Forced Hallucination),"In this image we can see a group of sheep. On the right side of the image we can see a group of trees. In the background, we can see a group of trees, hills and the sky.",1.0,0.05993587748296197
+173574,Prompt C (Constrained),A herd of sheep are gathered together in a fenced area.,1.0,0.5197435175886647
+236182,Prompt A (Baseline),A large tree lined street has a sign that says No Parking.,0.0,0.11142706560902227
+236182,Prompt B (Forced Hallucination),A large tree lines a street in a city.,0.0,0.20539854510052696
+236182,Prompt C (Constrained),A sign on a lamppost says the word DOT on it.,0.0,0.0007119427987983269
+460347,Prompt A (Baseline),A bus and a number of cars are driving down a road.,0.3333333333333333,0.8979749199678978
+460347,Prompt B (Forced Hallucination),A bus and a few cars are driving on a highway.,0.3333333333333333,0.7756925026195085
+460347,Prompt C (Constrained),A bus and several cars are driving on a highway.,0.3333333333333333,0.8027366339277238
+208589,Prompt A (Baseline),In this image we can see a bird in a pot. On the left side of the image we can see a tree trunk. On the right side of the image we can see a pot. At the bottom of the image we can see some plants.,0.3333333333333333,0.3715660085860145
+208589,Prompt B (Forced Hallucination),"In this image we can see a bird in a pot. In the background there are pots, tree trunk and sky.",0.3333333333333333,0.3715660085860145
+208589,Prompt C (Constrained),A bird is eating something in a bowl.,0.3333333333333333,0.7639442351665953
+334405,Prompt A (Baseline),A street with some vehicles and some buildings in the background.,0.0,0.3239084686928748
+334405,Prompt B (Forced Hallucination),A bus is driving down a street with palm trees lining it.,0.2,0.6302127848403272
+334405,Prompt C (Constrained),A bus is driving down a street with palm trees lining it.,0.2,0.6302127848403272
+267571,Prompt A (Baseline),Giraffe is standing near a rock wall.,1.0,0.166321069907451
+267571,Prompt B (Forced Hallucination),Giraffe is looking at the camera.,1.0,0.03153630397334551
+267571,Prompt C (Constrained),Giraffe.,1.0,0.0
+73830,Prompt A (Baseline),Giraffes and zebras are at a zoo.,0.0,0.23551439051210832
+73830,Prompt B (Forced Hallucination),Giraffes and zebras are in a field.,0.0,0.33395412995198115
+73830,Prompt C (Constrained),Giraffes and zebras are at a zoo.,0.0,0.23551439051210832
+158952,Prompt A (Baseline),A road sign for Morgan Road is above a stop sign.,1.0,0.7375932765276547
+158952,Prompt B (Forced Hallucination),A road sign for Morgan Road is above a stop sign.,1.0,0.7375932765276547
+158952,Prompt C (Constrained),A road sign is above a stop sign.,1.0,0.7082113130190446
+82258,Prompt A (Baseline),"In this image we can see books, birds and a wall.",0.0,3.2667651279610605e-07
+82258,Prompt B (Forced Hallucination),"In this image we can see books, birds and a wall.",0.0,3.2667651279610605e-07
+82258,Prompt C (Constrained),Books on a shelf including the home style sourcebook.,0.0,0.08692543805480928
+308599,Prompt A (Baseline),A red door with a white sign that says Stop.,0.0,0.6780028946765433
+308599,Prompt B (Forced Hallucination),A red door with a white sign that says Stop.,0.0,0.6780028946765433
+308599,Prompt C (Constrained),A red door with a white sign that says Stop.,0.0,0.6780028946765433
+322864,Prompt A (Baseline),Two yellow signs are attached to a black pole and give the distance in miles to the next statue.,0.0,0.2214128636327104
+322864,Prompt B (Forced Hallucination),The two yellow signs on the pole give the numbers 0.58 and 0.58 in white letters and numbers.,0.0,0.11462626284431979
+322864,Prompt C (Constrained),A post is showing two directions with a picture of a lion on top.,0.0,0.04616695309951456
+351053,Prompt A (Baseline),A sign that says 0.58 on it.,0.0,0.0005895976112889143
+351053,Prompt B (Forced Hallucination),The yellow signs on the pole say 0.58 mi.,0.0,0.09994127971899977
+351053,Prompt C (Constrained),A city block features cars and taxis and signs that give the distance in both imperial and metric measurements.,0.0,0.16666276716319894
+157269,Prompt A (Baseline),Three men are standing around a pole in safety vests with a sign that says NYC DOT.,0.0,0.3149598687743466
+157269,Prompt B (Forced Hallucination),Three construction workers are standing around a pole. One is wearing a hard hat.,0.0,0.08884122873269559
+157269,Prompt C (Constrained),Three men are standing. They are wearing safety vests.,0.0,0.32535489180492766
+495612,Prompt A (Baseline),An orange sign with a man walking on it with the words 0.97 mi.,0.0,0.4342669037587711
+495612,Prompt B (Forced Hallucination),A sign that says 0.97 mi is on a pole.,0.0,0.11692971731825719
+495612,Prompt C (Constrained),A sign that says 0.97 mi on it points upward.,0.0,0.09533778336181753
+95022,Prompt A (Baseline),A pigeon is sitting on a tree branch.,0.0,0.8170160155164657
+95022,Prompt B (Forced Hallucination),In this image we can see a bird on the branch of a tree.,1.0,0.37884436565004626
+95022,Prompt C (Constrained),A bird with red eyes is sitting on a tree branch.,1.0,3.384041714009152
+226111,Prompt A (Baseline),A street sign bans bicycles and skateboards from the sidewalk.,0.0,0.4684974490308028
+226111,Prompt B (Forced Hallucination),"A sign that says no bicycles, skates, or skateboards on the sidewalks in this area.",0.0,0.4002457368356307
+226111,Prompt C (Constrained),"A sign that says no bicycles, skates or skateboards on the sidewalks in this area.",0.0,0.567180698795788
+570045,Prompt A (Baseline),A sign that points the way for Oil City Restaurant with a second sign underneath that says Drive Thru Window.,0.0,0.5298516503753464
+570045,Prompt B (Forced Hallucination),A sign that says one way with a arrow pointing to the right.,0.0,0.6826499397006898
+570045,Prompt C (Constrained),A sign that says one way with a arrow pointing to the right.,0.0,0.6826499397006898
+191501,Prompt A (Baseline),In this image we can see a pole with a sign board. In the background we can see a building with windows.,0.0,0.1793762290649531
+191501,Prompt B (Forced Hallucination),In this image we can see a pole with a sign board. In the background we can see a building with windows.,0.0,0.1793762290649531
+191501,Prompt C (Constrained),A one way sign that points right and is partially broken.,0.0,0.1589848861074779
+153299,Prompt A (Baseline),Giraffes are standing near a building.,0.0,0.15039516003146955
+153299,Prompt B (Forced Hallucination),Giraffes are standing by a building.,0.0,0.14493790024928419
+153299,Prompt C (Constrained),A giraffe and a baby giraffe stand in front of a brown wall.,1.0,0.21242991207374556
+216482,Prompt A (Baseline),Giraffe is standing in the middle of the grass.,1.0,0.6599748495372799
+216482,Prompt B (Forced Hallucination),Giraffe is standing in the grass.,1.0,0.3296124764497663
+216482,Prompt C (Constrained),Giraffe in a field of grass and bushes.,1.0,0.08656877674823973
+358342,Prompt A (Baseline),Street signs for Pennsylvania and Pennsyltania avenues are on a pole at the intersection.,0.0,0.27495549036714956
+358342,Prompt B (Forced Hallucination),"This is a black and white picture. In this picture we can see a building, clock tower, pole, boards, windows, sky.",1.0,0.171926206488914
+358342,Prompt C (Constrained),A black and white picture of a clock tower.,1.0,0.43692270867034744
+8665,Prompt A (Baseline),A bird with a red head stands on a car.,0.3333333333333333,0.5691877591850942
+8665,Prompt B (Forced Hallucination),A bird with a red head is on a car.,0.3333333333333333,0.6282751681565206
+8665,Prompt C (Constrained),A bird with a red head is on a car.,0.3333333333333333,0.6282751681565206
+125997,Prompt A (Baseline),"In this image we can see a building with windows, a board with text, a sign board, a dustbin and a pole.",0.0,0.006646430315358818
+125997,Prompt B (Forced Hallucination),"In this image we can see a building with windows, a board with text, a sign board, a dustbin, a pole and a door.",0.0,0.008640756113562065
+125997,Prompt C (Constrained),A large blue wall has white writing on it that says Uare Alive.,0.0,0.20270346171661424
+69911,Prompt A (Baseline),A shoe is hanging from a power line near street signs for Manila and First.,0.0,0.2670823917657185
+69911,Prompt B (Forced Hallucination),A pair of shoes are hanging from a power line above the intersection of First and Manila.,0.0,0.3420673390507622
+69911,Prompt C (Constrained),A pair of shoes are hanging from a power line next to a street sign that says Manila Av.,0.0,0.2705977881221673
+573291,Prompt A (Baseline),Two giraffes are standing next to each other in an enclosure.,0.0,0.7648548678672431
+573291,Prompt B (Forced Hallucination),Giraffes are in an enclosure and one has a chicken in the background.,0.0,0.2734551593386861
+573291,Prompt C (Constrained),Two giraffes are next to each other. They are in an enclosure with a fence.,0.0,0.5346594960546197
+322226,Prompt A (Baseline),"In this image we can see wooden cages, there are covers on the cages, there are wooden benches, there are plants, there is a tree.",0.0,0.008020739716692166
+322226,Prompt B (Forced Hallucination),A table has several brown cages on it covered with white cloth.,0.0,0.7423196407338906
+322226,Prompt C (Constrained),A table has several brown cages on it covered with white cloth.,0.0,0.7423196407338906
+161470,Prompt A (Baseline),In this image we can see a bird bath. In the background there is grass.,0.0,0.7846633863896788
+161470,Prompt B (Forced Hallucination),In this image we can see a bird bath. In the background there is grass.,0.0,0.7846633863896788
+161470,Prompt C (Constrained),A bird bath is in the grass and water is splashing out of it.,1.0,0.49144588692342783
+452224,Prompt A (Baseline),A bird with yellow feathers is perched on a tree branch.,1.0,1.9578876755311891
+452224,Prompt B (Forced Hallucination),A bird is perched on a branch. The bird is yellow and black.,1.0,2.001746544485163
+452224,Prompt C (Constrained),A bird with yellow feathers is perched on a tree branch.,1.0,1.9578876755311891
+322654,Prompt A (Baseline),A sign for the Harlem River Drive tells motorists which lane to be in.,0.0,0.18264759782892503
+322654,Prompt B (Forced Hallucination),In the image there are few people sitting on the footpath and in front of them there is a road with many vehicles moving on it and on the footpath there is a sign board.,0.25,4.583828961412824e-05
+322654,Prompt C (Constrained),A group of people are sitting on the curb in a median between the left and right lanes.,0.25,0.044430100984731005
+110196,Prompt A (Baseline),A highway sign indicates that the N.S. Elevated Road exits to the right.,0.0,0.13642749829126866
+110196,Prompt B (Forced Hallucination),A highway sign in an Asian country shows that exit 11 is to the left and exit 12 is straight ahead.,0.0,0.02656672910915723
+110196,Prompt C (Constrained),A highway sign in Asia shows that exit 1 is to the left..,0.0,0.12352886840337259
+564563,Prompt A (Baseline),This is a black and white image. In this image we can see birds flying in the sky. In the background we can see mountains and sky.,0.0,0.13395942926941384
+564563,Prompt B (Forced Hallucination),This is a black and white image. In this image we can see birds flying in the sky. In the background we can see mountains and sky.,0.0,0.13395942926941384
+564563,Prompt C (Constrained),There are mountains with snow and birds flying.,0.0,0.23160059864399116
+375363,Prompt A (Baseline),A street sign for Bainbridge street hangs from a pole.,0.0,0.4235027915033658
+375363,Prompt B (Forced Hallucination),In this image we can see a pole with sign boards. In the background there are trees and sky.,0.0,0.12403848689712696
+375363,Prompt C (Constrained),Street sign with the name Bainbridge on it.,0.0,0.3524181904940029
+93201,Prompt A (Baseline),A dog is wearing a hat and sticking its tongue out.,1.0,1.4727477609068527
+93201,Prompt B (Forced Hallucination),A dog is wearing a hat. It has a long pink tongue.,1.0,1.2335174876928183
+93201,Prompt C (Constrained),A dog is wearing a hat.,1.0,1.2335174876928183
+155877,Prompt A (Baseline),"There are three sheep. In the background we can see grass, trees and fence.",0.0,0.007986305845428173
+155877,Prompt B (Forced Hallucination),In this image we can see a tree. There are three sheep. In the background of the image there is a fence. At the bottom of the image there is grass.,0.0,0.1678333116540885
+155877,Prompt C (Constrained),There are three white sheep. Two of them are laying down.,1.0,0.009104643998603378
+373591,Prompt A (Baseline),In this image we can see a bird on the branch. At the bottom there are stones. In the background there are plants.,1.0,0.30781292205024047
+373591,Prompt B (Forced Hallucination),In this image we can see a bird on the rock. In the background there are plants.,1.0,0.3028635515367992
+373591,Prompt C (Constrained),A bird with blue feathers is standing on a rock.,1.0,0.5723999731240257
+308394,Prompt A (Baseline),A woman sitting on a bus holds an umbrella in her lap.,0.5,0.45886672499908565
+308394,Prompt B (Forced Hallucination),A woman sits on a bus with a large umbrella on her lap.,0.5,0.3944469046719611
+308394,Prompt C (Constrained),A woman sits on a bus holding an umbrella.,0.5,0.2420240936366576
+338948,Prompt A (Baseline),A man is jumping on a skateboard in front of a building in front of a crowd.,0.6666666666666666,0.523773052951358
+338948,Prompt B (Forced Hallucination),A man is jumping on a skateboard in front of a building in front of a crowd.,0.6666666666666666,0.523773052951358
+338948,Prompt C (Constrained),A skateboarder is doing a trick in front of a building in front of a crowd.,0.0,0.0039040234720671965
+84982,Prompt A (Baseline),"A red sign on a pole says ""Store"" on it.",0.0,0.39926421250980143
+84982,Prompt B (Forced Hallucination),A red sign says store and has the time 4:00 on it.,0.0,0.21210462130711444
+84982,Prompt C (Constrained),A red sign says store and has the time 16:00 on it.,0.0,0.21210462130711444
+386146,Prompt A (Baseline),"In this image we can see two birds on the wooden poles. In the background we can see the water, trees, plants, grass, house and the sky.",0.0,0.21344911004549388
+386146,Prompt B (Forced Hallucination),"In this image we can see two birds on the wooden poles. In the background we can see the water, trees, plants, grass, house and the sky.",0.0,0.21344911004549388
+386146,Prompt C (Constrained),Two birds are perched on a post in a lake.,0.0,1.323916243646631
+456496,Prompt A (Baseline),A woman sits on a wall overlooking the Eiffel tower and feeding the birds.,0.3333333333333333,0.5896999367751996
+456496,Prompt B (Forced Hallucination),A woman sits on a stone ledge overlooking the Eiffel tower. She is dressed in a long coat and has her handbag with her. There are pigeons on the ledge in front of her.,0.6666666666666666,0.46271356407640796
+456496,Prompt C (Constrained),A woman sits on a stone ledge overlooking the Eiffel tower. Three pigeons are on the ground in front of her.,0.3333333333333333,0.46271356407640796
+325690,Prompt A (Baseline),A round sign with 80 written on it is on top of a hill overlooking a town.,0.0,0.198513914588346
+325690,Prompt B (Forced Hallucination),The number 80 is on the sign.,0.0,0.4024643865670379
+325690,Prompt C (Constrained),The number 80 is on the sign.,0.0,0.4024643865670379
+74711,Prompt A (Baseline),Two ducks are swimming in the water.,0.0,2.0651989195156024
+74711,Prompt B (Forced Hallucination),Two ducks are swimming in the water.,0.0,2.0651989195156024
+74711,Prompt C (Constrained),Two ducks are in the water.,0.0,1.2677019399001237
+531854,Prompt A (Baseline),Two ducks are swimming in the water.,0.0,1.724066313729649
+531854,Prompt B (Forced Hallucination),Two ducks are swimming in the water.,0.0,1.724066313729649
+531854,Prompt C (Constrained),Two ducks are in the water.,0.0,1.3366466467638984
+15113,Prompt A (Baseline),A blue and brown bird is sitting in a tree.,1.0,0.4650693194395952
+15113,Prompt B (Forced Hallucination),"In this image we can see a bird on the tree. In the background we can see a building, trees and sky.",1.0,0.19230237138130996
+15113,Prompt C (Constrained),A bird is sitting on a branch. Behind the bird is a tree.,1.0,0.6033262771210219
+388325,Prompt A (Baseline),A house with a Nirvana Dr sign in front of it.,0.0,0.501200360173949
+388325,Prompt B (Forced Hallucination),A blue house has a Nirvana street sign in front of it.,0.0,0.6457711061108917
+388325,Prompt C (Constrained),A blue and white street sign with the name nirvana on it.,0.0,0.3526530873232065
+58636,Prompt A (Baseline),A street sign for Parking Gladys is hanging from a power line.,0.0,0.4698624062561575
+58636,Prompt B (Forced Hallucination),A street sign is on a telephone pole and says Parking.,0.0,0.19740155204418353
+58636,Prompt C (Constrained),A sign on a telephone pole says parking and points to the left.,0.0,0.09786551202892867
+197461,Prompt A (Baseline),A sheep standing in a field with grass on the ground.,0.0,0.7095055076160011
+197461,Prompt B (Forced Hallucination),A sheep is standing in a grassy area with trees in the background.,1.0,0.781554417582063
+197461,Prompt C (Constrained),A sheep stands in a field.,0.0,0.7485935030616857
+144053,Prompt A (Baseline),Street sign with a eagle outlet on it.,0.0,0.11733156654214386
+144053,Prompt B (Forced Hallucination),In the image there is a pole with traffic signals and a sign board. Behind the pole there is a huge screen with many images and text.,0.0,0.1081014770632274
+144053,Prompt C (Constrained),A broadway sign is above an eagle outfit sign.,0.0,0.22435746253747282
+75083,Prompt A (Baseline),A street sign for Broadway is on a pole.,0.0,1.0997208546267496
+75083,Prompt B (Forced Hallucination),A street sign for Broadway is on a pole.,0.0,1.0997208546267496
+75083,Prompt C (Constrained),A street sign for broadway is on a pole.,0.0,0.5517775303035302
+271032,Prompt A (Baseline),A duck is swimming in the water. There are birds on the rocks.,0.0,0.2583889931460728
+271032,Prompt B (Forced Hallucination),There are birds on the water. There are birds on the rocks.,0.0,0.6786344410336752
+271032,Prompt C (Constrained),A duck is swimming in the water. There are birds on the rocks.,0.0,0.2583889931460728
+98416,Prompt A (Baseline),Sheep are grazing in the field near a barn.,1.0,0.34881095684862246
+98416,Prompt B (Forced Hallucination),Sheep are grazing in a field behind a barn.,1.0,0.34126409305297806
+98416,Prompt C (Constrained),Sheep are grazing in the field next to a barn.,1.0,0.35344618974346736
+78522,Prompt A (Baseline),A sheep with black and white paint on its face stands in a field with other sheep.,1.0,0.34951044044646007
+78522,Prompt B (Forced Hallucination),In the center of the image we can see a sheep. In the background there are sheep and grass.,1.0,0.001619339867442244
+78522,Prompt C (Constrained),A sheep stands in a field of grass.,0.0,1.7911348839847487
+26767,Prompt A (Baseline),A sign on the side of the road is about the Riverside Renaissance.,0.0,0.13215792043370492
+26767,Prompt B (Forced Hallucination),A sign on the side of the road informs people about the Tyler Street Parkway Landscape Improvements.,0.0,0.05156885025130105
+26767,Prompt C (Constrained),A sign for a Tyler Street Parkway Landscape Improvement announces the closure of the street.,0.0,0.08095848925460145
+327807,Prompt A (Baseline),A train is behind a woman selling fruit.,0.3333333333333333,0.33265671247664763
+327807,Prompt B (Forced Hallucination),A train is passing by a platform where people are standing and selling fruit.,0.3333333333333333,0.42892854804122643
+327807,Prompt C (Constrained),A train is passing a platform where people are shopping and a woman is wearing a dress.,0.3333333333333333,0.2146897786382428
+134778,Prompt A (Baseline),In this image we can see birds in the water. At the bottom there is mud. In the background there is sky.,0.0,0.08748179124240024
+134778,Prompt B (Forced Hallucination),A group of flamingos are standing in the shallow water.,0.0,0.5187268999532783
+134778,Prompt C (Constrained),A group of flamingos are in the shallow water.,0.0,0.5312422639849805
+41888,Prompt A (Baseline),In this image we can see birds on the ground. In the background there are trees and sky.,0.0,0.134530378069866
+41888,Prompt B (Forced Hallucination),In this image we can see birds on the ground. In the background there are trees and sky.,0.0,0.134530378069866
+41888,Prompt C (Constrained),There are three birds on the ground. In the background there are trees.,0.0,0.4375615548586642
+518586,Prompt A (Baseline),A train is going down tracks in an old photo.,0.5,0.45538681564484124
+518586,Prompt B (Forced Hallucination),"This is a black and white image. In this image we can see a train on the track. We can also see a person standing on the track. On the left side we can see a building. On the right side we can see a house. We can also see some poles, wires and the sky.",1.0,0.19661598867368424
+518586,Prompt C (Constrained),A black and white photo shows a train on the tracks with a man standing in the middle of the track.,1.0,0.38092757914916686
+65227,Prompt A (Baseline),A woman in a green uniform is standing in the grass near a white fence.,0.3333333333333333,1.0671065995562994
+65227,Prompt B (Forced Hallucination),A woman in a green uniform is standing in the grass near a white fence.,0.3333333333333333,1.0671065995562994
+65227,Prompt C (Constrained),A woman in a green uniform is standing in the grass near a white fence.,0.3333333333333333,1.0671065995562994
+49633,Prompt A (Baseline),A bird is standing on grass and a building is behind it.,1.0,0.9094140123915516
+49633,Prompt B (Forced Hallucination),A seagull is standing on a lush green field. In the background is a small village.,0.0,0.11748765626604962
+49633,Prompt C (Constrained),A seagull is standing on a lush green field. In the background is a small village.,0.0,0.11748765626604962
+476597,Prompt A (Baseline),Man in suit talking to a woman and another person.,0.2,0.17130240727397966
+476597,Prompt B (Forced Hallucination),In this image I can see three people with different color dresses. I can see one person is holding a glass. In the background I can see the bookshelf with books. I can see the photo frame attached to the wall.,0.2,0.13312773473916473
+476597,Prompt C (Constrained),A man in a suit is in a room with a woman and another man.,0.2,0.005474559079013175
+165029,Prompt A (Baseline),Two people dressed up in Halloween costume one is a werewolf and the other is a girl holding a snowboard.,0.6666666666666666,0.04075354165221748
+165029,Prompt B (Forced Hallucination),In this image I can see two people with costumes. I can see one person is holding a snowboard. In the background I can see a wall.,0.6666666666666666,0.0020748987015560935
+165029,Prompt C (Constrained),Man in werewolf costume with woman holding snowboard.,0.6666666666666666,0.10620397212919486
+129699,Prompt A (Baseline),Street signs for east 34th street are on a pole.,0.0,0.06032421844054027
+129699,Prompt B (Forced Hallucination),A street sign for East 34th Street is displayed.,0.0,0.19601864238953615
+129699,Prompt C (Constrained),Street signs for east 34th street are on a pole.,0.0,0.06032421844054027
+117125,Prompt A (Baseline),A train is winding along a track that is near a snowy mountain.,0.5,0.8725667131882755
+117125,Prompt B (Forced Hallucination),A train is winding along a cliff side track.,0.5,0.4071899487671552
+117125,Prompt C (Constrained),A train is winding along a cliff side track.,0.5,0.4071899487671552
+7211,Prompt A (Baseline),A red train car has the word Sucks painted on the side.,1.0,0.8180634787643106
+7211,Prompt B (Forced Hallucination),A red train car has graffiti on the side that says STEEL.,1.0,1.7940731560905907
+7211,Prompt C (Constrained),A train is going by a fence. There is graffiti on the side of the train.,1.0,0.3608954561717117
+356298,Prompt A (Baseline),A train is going by a building with the number 720 on it.,1.0,0.2005307259879442
+356298,Prompt B (Forced Hallucination),A large container is behind a large white tank. There is a fence. There are trees. There is a building.,0.0,0.3760586745221305
+356298,Prompt C (Constrained),A train is going by a tanker. There is a building behind the train.,1.0,0.212604486471505
+129942,Prompt A (Baseline),In this image we can see two parrots on the tree. In the background we can see a bowl and trees.,0.5,0.35288859082282287
+129942,Prompt B (Forced Hallucination),In this image we can see two birds on the tree. At the bottom there is a bowl.,0.5,0.1951061290020897
+129942,Prompt C (Constrained),Two parrots are perched on a tree branch.,0.0,0.9508855396665759
+520433,Prompt A (Baseline),A train is going on the track.,1.0,0.3815376617672812
+520433,Prompt B (Forced Hallucination),A train is going by a field. It has the letters R and S on the side of it.,1.0,0.42327395190400247
+520433,Prompt C (Constrained),A train is going by. It has the letters R and S on the side of it.,1.0,0.30882247110420613
+183666,Prompt A (Baseline),A train is on the tracks near a station.,1.0,0.9601327485851369
+183666,Prompt B (Forced Hallucination),A train is on the tracks near a station.,1.0,0.9601327485851369
+183666,Prompt C (Constrained),An orange train with the letter V on its front is going down the tracks.,1.0,0.3069394946732119
+184321,Prompt A (Baseline),A train is waiting at a station with the lights on.,1.0,0.5761645235369027
+184321,Prompt B (Forced Hallucination),A train is on the tracks and has a sign that says 3.,1.0,0.5950948288550578
+184321,Prompt C (Constrained),A train is at the station and has the number 3 on the track.,1.0,0.4886797711925297
+426175,Prompt A (Baseline),A man is standing outside of a train with a white picket fence and flower pots in the train cars.,0.5,0.5100802132418668
+426175,Prompt B (Forced Hallucination),A person with a backpack walks towards a train.,0.75,0.3659279062626041
+426175,Prompt C (Constrained),A man with a backpack walks towards a train.,0.75,0.6032692814168661
+336777,Prompt A (Baseline),A street with old houses in it and a sign that says Bus Stop.,0.0,0.03942263290096168
+336777,Prompt B (Forced Hallucination),There are signs on telephone poles in front of houses.,0.0,0.3067099142569397
+336777,Prompt C (Constrained),A street with signs on telephone poles with one saying Bus Stop.,0.0,0.18242742988542376
+249720,Prompt A (Baseline),A person on a bike is passing a building that says Harbour Trading Company.,0.14285714285714285,0.4599951565314633
+249720,Prompt B (Forced Hallucination),"In this image we can see a woman riding a bicycle on the road. We can also see a car, a pole, a sign board and a building.",0.42857142857142855,0.1555495139452817
+249720,Prompt C (Constrained),A girl wearing a pink hat is riding her bike in front of a building that says Harbour Trading Company.,0.14285714285714285,0.34751713203690493
+409009,Prompt A (Baseline),A bullet train is parked in a station with the characters for 503 on the wall.,0.5,0.24383991947057698
+409009,Prompt B (Forced Hallucination),A bullet train is at the bullet train station.,0.5,0.6287438224381907
+409009,Prompt C (Constrained),A bullet train is at the bullet train station.,0.5,0.6287438224381907
+554348,Prompt A (Baseline),A woman is standing on the railroad tracks and taking a picture of the train tunnel.,0.4,1.2014277196806162
+554348,Prompt B (Forced Hallucination),A woman is standing on the train tracks with a backpack. There is a train tunnel behind her.,0.6,1.2306003375724548
+554348,Prompt C (Constrained),A woman is standing on a train track with a train approaching.,0.4,0.9409942860184399
+329486,Prompt A (Baseline),A train is on a bridge by the ocean.,1.0,1.2489862771943003
+329486,Prompt B (Forced Hallucination),A train is on a bridge by the ocean.,1.0,1.2489862771943003
+329486,Prompt C (Constrained),A train is on a bridge by the ocean.,1.0,1.2489862771943003

@@ -1,0 +1,901 @@
+Image ID,Prompt Variant,Generated Text,METEOR,CHAi,CHs,CLIPScore
+391895,Prompt A (Baseline),the road to hell and back,0.10416666666666666,0.0,0.0,24.254688620567322
+391895,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.960327327251434
+391895,Prompt C (Constrained),yes,0.0,0.0,0.0,16.960327327251434
+522418,Prompt A (Baseline),cutting the cheese by hand,0.05813953488372093,0.0,0.0,30.53995966911316
+522418,Prompt B (Forced Hallucination),"person, knife, table, food, kitchen, kitchen utensil, table knife, knife, table saw, saw, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade, saw blade,",0.02262443438914027,0.0,0.0,19.605323672294617
+522418,Prompt C (Constrained),cutting,0.06097560975609756,0.0,0.0,23.353740572929382
+184613,Prompt A (Baseline),a village in the market .,0.10638297872340426,0.0,0.0,24.5640829205513
+184613,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.593494057655334
+184613,Prompt C (Constrained),boy with water buffalo,0.13489208633093525,0.0,0.0,34.2175155878067
+318219,Prompt A (Baseline),a young student using a computer,0.5041666666666667,0.0,0.0,29.956525564193726
+318219,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.483426094055176
+318219,Prompt C (Constrained),computer,0.054945054945054944,0.0,0.0,21.691933274269104
+554625,Prompt A (Baseline),a young student working on a computer,0.32538659793814434,0.0,0.0,27.395731210708618
+554625,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.401401162147522
+554625,Prompt C (Constrained),computer,0.054945054945054944,0.0,0.0,21.47427499294281
+397133,Prompt A (Baseline),the kitchen in the museum,0.2690058479532163,0.0,0.0,30.96458911895752
+397133,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.357392072677612
+397133,Prompt C (Constrained),yes,0.0,0.0,0.0,16.357392072677612
+574769,Prompt A (Baseline),person carrying person in the kitchen,0.13157894736842105,0.0,0.0,25.589168071746826
+574769,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.67410635948181
+574769,Prompt C (Constrained),yes,0.0,0.0,0.0,17.67410635948181
+60623,Prompt A (Baseline),person is ready for her birthday cake .,0.14018691588785046,0.5,1.0,26.932555437088013
+60623,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.682803213596344
+60623,Prompt C (Constrained),candles,0.0684931506849315,0.0,0.0,26.40497088432312
+309022,Prompt A (Baseline),a kitchen on the ship,0.2261553588987217,1.0,1.0,30.666691064834595
+309022,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.149504482746124
+309022,Prompt C (Constrained),kitchen,0.054945054945054944,0.0,0.0,29.16349470615387
+5802,Prompt A (Baseline),person in the kitchen with person,0.1644736842105263,0.0,0.0,27.88558304309845
+5802,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,15.711703896522522
+5802,Prompt C (Constrained),yes,0.0,0.0,0.0,15.711703896522522
+222564,Prompt A (Baseline),chef in the open kitchen,0.297157622739018,0.0,0.0,31.060630083084106
+222564,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.85013473033905
+222564,Prompt C (Constrained),chef,0.06097560975609756,0.0,0.0,27.485233545303345
+118113,Prompt A (Baseline),a dark room in a house,0.17543859649122806,0.0,0.0,26.56346559524536
+118113,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.858890771865845
+118113,Prompt C (Constrained),no,0.0,0.0,0.0,19.858890771865845
+193271,Prompt A (Baseline),the kitchen before i moved in .,0.11363636363636365,0.0,0.0,29.85374629497528
+193271,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,18.25380027294159
+193271,Prompt C (Constrained),kitchen,0.06097560975609756,0.0,0.0,30.905848741531372
+224736,Prompt A (Baseline),mess in the kitchen of person,0.1149425287356322,1.0,1.0,27.24461555480957
+224736,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.819918155670166
+224736,Prompt C (Constrained),yes,0.0,0.0,0.0,16.819918155670166
+483108,Prompt A (Baseline),photo of a train passing by a cyclist,0.2720905172413793,0.0,0.0,28.830328583717346
+483108,Prompt B (Forced Hallucination),background,0.036764705882352935,0.0,0.0,22.02712595462799
+483108,Prompt C (Constrained),train,0.054945054945054944,0.0,0.0,29.049482941627502
+403013,Prompt A (Baseline),kitchen with all the appliances,0.2690058479532163,0.0,0.0,26.607590913772583
+403013,Prompt B (Forced Hallucination),kitchen,0.054945054945054944,0.0,0.0,27.87478268146515
+403013,Prompt C (Constrained),kitchen,0.054945054945054944,0.0,0.0,27.87478268146515
+374628,Prompt A (Baseline),property image # green house with yurt .,0.10204081632653061,0.0,0.0,24.390314519405365
+374628,Prompt B (Forced Hallucination),kitchen,0.054945054945054944,0.0,0.0,28.0333012342453
+374628,Prompt C (Constrained),kitchen,0.054945054945054944,0.0,0.0,28.0333012342453
+328757,Prompt A (Baseline),person eats a bite of healthy food .,0.2525,0.0,0.0,29.57221269607544
+328757,Prompt B (Forced Hallucination),person eating food,0.05952380952380952,0.0,0.0,29.9162358045578
+328757,Prompt C (Constrained),eat,0.06097560975609756,0.0,0.0,25.090569257736206
+384213,Prompt A (Baseline),the kitchen as i found it .,0.20618556701030927,0.0,0.0,31.24922215938568
+384213,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.80152428150177
+384213,Prompt C (Constrained),yes,0.0,0.0,0.0,18.828703463077545
+293802,Prompt A (Baseline),skateboarding on the street ...,0.20947176684881602,0.0,0.0,30.50749897956848
+293802,Prompt B (Forced Hallucination),skateboard,0.06097560975609756,0.0,0.0,28.70621383190155
+293802,Prompt C (Constrained),skateboard,0.06097560975609756,0.0,0.0,28.70621383190155
+86408,Prompt A (Baseline),a view of the kitchen in a bedroom apartment .,0.34128440366972473,0.0,0.0,28.306499123573303
+86408,Prompt B (Forced Hallucination),oven,0.05,0.0,0.0,26.110216975212097
+86408,Prompt C (Constrained),oven,0.05,0.0,0.0,26.110216975212097
+37777,Prompt A (Baseline),the kitchen on the first floor,0.22417153996101363,0.0,0.0,26.33887231349945
+37777,Prompt B (Forced Hallucination),kitchen,0.06097560975609756,0.0,0.0,27.750596404075623
+37777,Prompt C (Constrained),kitchen,0.06097560975609756,0.0,0.0,27.750596404075623
+372938,Prompt A (Baseline),view of a truck with people and goods on the road .,0.4770408163265306,0.0,0.0,33.81795585155487
+372938,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.376650869846344
+372938,Prompt C (Constrained),car,0.0,1.0,1.0,21.272654831409454
+386164,Prompt A (Baseline),wooden spoons from around the world,0.2662037037037037,0.0,0.0,33.74758958816528
+386164,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.338827788829803
+386164,Prompt C (Constrained),yes,0.0,0.0,0.0,18.338827788829803
+223648,Prompt A (Baseline),the table is covered with a variety of wooden spoons .,0.42216721672167207,0.0,0.0,35.16587316989899
+223648,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,22.06621915102005
+223648,Prompt C (Constrained),yes,0.0,0.0,0.0,21.42884135246277
+204805,Prompt A (Baseline),a boat on a carriage,0.48701298701298706,0.0,0.0,29.560944437980652
+204805,Prompt B (Forced Hallucination),people,0.054945054945054944,0.0,0.0,18.518534302711487
+204805,Prompt C (Constrained),people,0.054945054945054944,0.0,0.0,18.518534302711487
+113588,Prompt A (Baseline),staff members working on the computers at the office,0.21842355175688513,0.0,0.0,28.670653700828552
+113588,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.11834615468979
+113588,Prompt C (Constrained),computer,0.054945054945054944,0.0,0.0,23.497316241264343
+384553,Prompt A (Baseline),man sitting on an elephant,0.436046511627907,0.0,0.0,28.591936826705933
+384553,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.131778061389923
+384553,Prompt C (Constrained),person on an elephant,0.22058823529411764,0.0,0.0,27.558335661888123
+337264,Prompt A (Baseline),people make cocktails in the kitchen .,0.4989690721649485,0.0,0.0,30.285853147506714
+337264,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.327717900276184
+337264,Prompt C (Constrained),yes,0.0,0.0,0.0,16.327717900276184
+368402,Prompt A (Baseline),person cooks in the kitchen of her home .,0.3472222222222222,0.0,0.0,29.54973578453064
+368402,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,15.860958397388458
+368402,Prompt C (Constrained),yes,0.0,0.0,0.0,15.860958397388458
+12448,Prompt A (Baseline),i have a thing for babies .,0.20618556701030927,0.0,0.0,26.4687180519104
+12448,Prompt B (Forced Hallucination),baby,0.054945054945054944,0.0,0.0,23.03266078233719
+12448,Prompt C (Constrained),baby,0.054945054945054944,0.0,0.0,23.03266078233719
+252219,Prompt A (Baseline),a homeless man sleeps on the street .,0.5257009345794392,0.0,0.0,25.66704750061035
+252219,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.78372973203659
+252219,Prompt C (Constrained),yes,0.0,0.0,0.0,17.78372973203659
+79841,Prompt A (Baseline),a couple ride past the building,0.13157894736842105,0.0,0.0,27.24962830543518
+79841,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,17.118418216705322
+79841,Prompt C (Constrained),no description,0.0,0.0,0.0,19.360966980457306
+87038,Prompt A (Baseline),the new skatepark is a big hit with the local kids,0.09090909090909091,0.0,0.0,27.971866726875305
+87038,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.515684127807617
+87038,Prompt C (Constrained),yes,0.0,0.0,0.0,16.515684127807617
+174482,Prompt A (Baseline),the bike that was locked to a tree .,0.3155006858710563,1.0,1.0,26.251506805419922
+174482,Prompt B (Forced Hallucination),bicycle,0.0684931506849315,0.0,0.0,26.63746476173401
+174482,Prompt C (Constrained),bicycle,0.0684931506849315,0.0,0.0,26.63746476173401
+515289,Prompt A (Baseline),ride on the road to person,0.2662037037037037,0.0,0.0,23.327869176864624
+515289,Prompt B (Forced Hallucination),bicycles,0.0684931506849315,0.0,0.0,24.285952746868134
+515289,Prompt C (Constrained),bicycles,0.0684931506849315,0.0,0.0,24.285952746868134
+562150,Prompt A (Baseline),girl with a kitten in her arms,0.4208695652173913,0.0,0.0,32.27714002132416
+562150,Prompt B (Forced Hallucination),girl,0.06097560975609756,0.0,0.0,22.031667828559875
+562150,Prompt C (Constrained),girl holding a kitten,0.33482142857142855,0.0,0.0,34.711822867393494
+542145,Prompt A (Baseline),"a city , bedroom with a full bathroom",0.34766355140186916,0.0,0.0,26.019564270973206
+542145,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.923029839992523
+542145,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,28.176087141036987
+412151,Prompt A (Baseline),person helps a customer with his bike .,0.5011235955056179,0.5,1.0,30.922314524650574
+412151,Prompt B (Forced Hallucination),bicycle,0.05,0.0,0.0,23.003235459327698
+412151,Prompt C (Constrained),bicycle,0.05,0.0,0.0,23.003235459327698
+403385,Prompt A (Baseline),the bathroom of my room,0.09615384615384616,0.0,0.0,29.926058650016785
+403385,Prompt B (Forced Hallucination),bathroom,0.06097560975609756,0.0,0.0,29.39174473285675
+403385,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,29.39174473285675
+579003,Prompt A (Baseline),bathroom in the room at the hotel,0.08021390374331551,0.0,0.0,27.90933847427368
+579003,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.046218693256378
+579003,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,27.63875722885132
+540186,Prompt A (Baseline),how to make your own master bathroom - remodeling a master bathroom without remodeling,0.10526315789473684,0.0,0.0,30.574554204940796
+540186,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.314395308494568
+540186,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,26.057127118110657
+242611,Prompt A (Baseline),property image # one - vacation home with - degree view and spa,0.12396694214876033,0.0,0.0,23.873835802078247
+242611,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.086865544319153
+242611,Prompt C (Constrained),bathroom,0.054945054945054944,0.0,0.0,27.526363730430603
+51191,Prompt A (Baseline),additional photo for property listing,0.0,0.0,0.0,25.929325819015503
+51191,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.59638488292694
+51191,Prompt C (Constrained),bathroom,0.054945054945054944,0.0,0.0,26.16288959980011
+269105,Prompt A (Baseline),a pop of color : green paint in the bathroom,0.27472527472527475,0.0,0.0,37.90731728076935
+269105,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.047974050045013
+269105,Prompt C (Constrained),yes,0.0,0.0,0.0,18.289978802204132
+294832,Prompt A (Baseline),additional photo for property listing,0.0,0.0,0.0,25.44911801815033
+294832,Prompt B (Forced Hallucination),bathroom,0.05,0.0,0.0,27.71497070789337
+294832,Prompt C (Constrained),bathroom,0.05,0.0,0.0,27.71497070789337
+462565,Prompt A (Baseline),a view of the new bike lane,0.35094339622641507,1.0,1.0,30.81878125667572
+462565,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,15.10341465473175
+462565,Prompt C (Constrained),no,0.0,0.0,0.0,16.6120782494545
+144941,Prompt A (Baseline),plant in the bathroom :),0.15625,0.0,0.0,31.999146938323975
+144941,Prompt B (Forced Hallucination),bathroom,0.054945054945054944,0.0,0.0,29.369106888771057
+144941,Prompt C (Constrained),bathroom,0.054945054945054944,0.0,0.0,29.369106888771057
+173350,Prompt A (Baseline),the dogs are not happy with the new baby,0.2191840277777778,0.0,0.0,27.733036875724792
+173350,Prompt B (Forced Hallucination),dog,0.06097560975609756,0.0,0.0,22.696372866630554
+173350,Prompt C (Constrained),dog,0.06097560975609756,0.0,0.0,22.696372866630554
+60760,Prompt A (Baseline),how to paint a bathroom in a weekend,0.2949766355140187,0.0,0.0,29.960867762565613
+60760,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.793724060058594
+60760,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,28.662919998168945
+324266,Prompt A (Baseline),the bathroom in the lodge,0.2690058479532163,0.0,0.0,29.684719443321228
+324266,Prompt B (Forced Hallucination),bathroom,0.06097560975609756,0.0,0.0,26.981550455093384
+324266,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,26.981550455093384
+166532,Prompt A (Baseline),a picture of the bathroom,0.10526315789473685,0.0,0.0,29.460999369621277
+166532,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.271110951900482
+166532,Prompt C (Constrained),bathroom,0.054945054945054944,0.0,0.0,27.65701115131378
+262284,Prompt A (Baseline),shower in the master bathroom,0.33189033189033185,0.0,0.0,30.585262179374695
+262284,Prompt B (Forced Hallucination),shower,0.0684931506849315,0.0,0.0,26.985707879066467
+262284,Prompt C (Constrained),shower,0.0684931506849315,0.0,0.0,26.985707879066467
+360772,Prompt A (Baseline),why we removed the wallpaper in the bathroom,0.38265306122448983,0.0,0.0,30.26745319366455
+360772,Prompt B (Forced Hallucination),toilet,0.054945054945054944,0.0,0.0,26.3929545879364
+360772,Prompt C (Constrained),toilet,0.054945054945054944,0.0,0.0,26.3929545879364
+6818,Prompt A (Baseline),the bathroom is so small that you can fit a bucket in the tub .,0.2937420178799489,0.0,0.0,29.850438237190247
+6818,Prompt B (Forced Hallucination),toilet,0.05,0.0,0.0,30.039265751838684
+6818,Prompt C (Constrained),bathroom,0.05,0.0,0.0,28.407055139541626
+191381,Prompt A (Baseline),i took a picture of the toilet before i took it out,0.14705882352941177,0.0,0.0,29.183179140090942
+191381,Prompt B (Forced Hallucination),toilet,0.054945054945054944,0.0,0.0,29.0936142206192
+191381,Prompt C (Constrained),toilet,0.054945054945054944,0.0,0.0,29.0936142206192
+111076,Prompt A (Baseline),a picture of the bathroom,0.11627906976744186,0.0,0.0,30.301782488822937
+111076,Prompt B (Forced Hallucination),bathroom,0.06097560975609756,0.0,0.0,27.093946933746338
+111076,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,27.093946933746338
+340559,Prompt A (Baseline),the bathroom on the deck,0.05813953488372093,0.0,0.0,26.474419236183167
+340559,Prompt B (Forced Hallucination),bathroom,0.06097560975609756,0.0,0.0,22.330506145954132
+340559,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,22.330506145954132
+258985,Prompt A (Baseline),plant a tree in front of your house,0.38448275862068976,0.0,0.0,26.095500588417053
+258985,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.67387104034424
+258985,Prompt C (Constrained),yes,0.0,0.0,0.0,20.67387104034424
+509822,Prompt A (Baseline),vintage bicycle against a green door,0.17241379310344826,0.0,0.0,30.665546655654907
+509822,Prompt B (Forced Hallucination),bicycle,0.06097560975609756,0.0,0.0,28.05924415588379
+509822,Prompt C (Constrained),bicycle,0.06097560975609756,0.0,0.0,28.05924415588379
+321107,Prompt A (Baseline),bike for the road,0.10638297872340426,0.0,0.0,25.88260769844055
+321107,Prompt B (Forced Hallucination),bicycle,0.04587155963302752,0.0,0.0,27.25357413291931
+321107,Prompt C (Constrained),person on a bike,0.3357712765957447,0.0,0.0,29.073354601860046
+229643,Prompt A (Baseline),view of the bathroom inside the apartment,0.11363636363636365,0.0,0.0,29.932013154029846
+229643,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.003006279468536
+229643,Prompt C (Constrained),yes,0.0,0.0,0.0,18.003006279468536
+125059,Prompt A (Baseline),the bathroom in my room is not like any bathroom i 've ever been in,0.14285714285714285,0.0,0.0,26.915672421455383
+125059,Prompt B (Forced Hallucination),toilet,0.054945054945054944,0.0,0.0,28.69686186313629
+125059,Prompt C (Constrained),bathroom,0.054945054945054944,0.0,0.0,27.01370120048523
+455483,Prompt A (Baseline),bathroom : bathroom design ideas for couples,0.05681818181818182,0.0,0.0,28.260719776153564
+455483,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.070776224136353
+455483,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,27.93595790863037
+436141,Prompt A (Baseline),... in the bathroom ...,0.3423772609819121,0.0,0.0,24.965400993824005
+436141,Prompt B (Forced Hallucination),bathroom,0.06097560975609756,0.0,0.0,27.9535174369812
+436141,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,27.9535174369812
+129001,Prompt A (Baseline),before : a #### 's bathroom in a poor condition,0.2608471074380165,0.0,0.0,29.929381608963013
+129001,Prompt B (Forced Hallucination),bathroom,0.0684931506849315,0.0,0.0,27.576744556427002
+129001,Prompt C (Constrained),bathroom,0.0684931506849315,0.0,0.0,27.576744556427002
+232262,Prompt A (Baseline),"the traffic is controlled by a system of elevators , you can walk up to the top floor and then take the elevator down .",0.18867924528301888,0.0,0.0,26.44459307193756
+232262,Prompt B (Forced Hallucination),traffic,0.04587155963302752,0.0,0.0,26.73499584197998
+232262,Prompt C (Constrained),traffic,0.04587155963302752,0.0,0.0,26.73499584197998
+61181,Prompt A (Baseline),cars in traffic jam in the city,0.189873417721519,0.0,0.0,29.454514384269714
+61181,Prompt B (Forced Hallucination),traffic,0.0684931506849315,0.0,0.0,26.783758401870728
+61181,Prompt C (Constrained),traffic,0.0684931506849315,0.0,0.0,26.783758401870728
+166323,Prompt A (Baseline),the bathroom is very small and has a shower that slides out of the floor,0.5041666666666667,0.0,0.0,28.0297189950943
+166323,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.625601589679718
+166323,Prompt C (Constrained),bathroom,0.0684931506849315,0.0,0.0,26.197272539138794
+580041,Prompt A (Baseline),birds fly over the city as the sun sets .,0.15,0.0,0.0,31.248590350151062
+580041,Prompt B (Forced Hallucination),birds,0.0,0.0,0.0,25.765785574913025
+580041,Prompt C (Constrained),traffic,0.054945054945054944,0.0,0.0,27.37366557121277
+326781,Prompt A (Baseline),bathroom on the 3rd floor,0.11627906976744186,0.0,0.0,31.216725707054138
+326781,Prompt B (Forced Hallucination),bathroom,0.06097560975609756,0.0,0.0,29.343795776367188
+326781,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,29.343795776367188
+387362,Prompt A (Baseline),a city in the bathroom,0.17933238636363635,0.0,0.0,26.813551783561707
+387362,Prompt B (Forced Hallucination),mirror,0.054945054945054944,0.0,0.0,24.662508070468903
+387362,Prompt C (Constrained),mirror,0.054945054945054944,0.0,0.0,24.662508070468903
+138079,Prompt A (Baseline),a bathroom with a shower and tub,0.44696751940212703,0.0,0.0,30.056235194206238
+138079,Prompt B (Forced Hallucination),bathroom,0.054945054945054944,0.0,0.0,28.009918332099915
+138079,Prompt C (Constrained),bathroom,0.054945054945054944,0.0,0.0,28.009918332099915
+556616,Prompt A (Baseline),a parking meter that was installed by a city .,0.45731707317073167,0.0,0.0,27.63446569442749
+556616,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.254891991615295
+556616,Prompt C (Constrained),parking meter,0.25337837837837834,0.0,0.0,27.53632366657257
+472621,Prompt A (Baseline),a bathroom with a tub,0.436046511627907,0.0,0.0,30.553525686264038
+472621,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.291546404361725
+472621,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,29.43098247051239
+192440,Prompt A (Baseline),bathroom in a flat with no windows,0.35866477272727276,0.0,0.0,26.680347323417664
+192440,Prompt B (Forced Hallucination),bathroom,0.06097560975609756,0.0,0.0,27.32289433479309
+192440,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,27.32289433479309
+86320,Prompt A (Baseline),adding a wall to the bathroom,0.20833333333333331,0.0,0.0,26.87440812587738
+86320,Prompt B (Forced Hallucination),bathroom,0.06097560975609756,0.0,0.0,28.475558757781982
+86320,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,28.475558757781982
+256668,Prompt A (Baseline),homeless man stuck in a toilet,0.25828460038986356,0.5,1.0,26.995912194252014
+256668,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,22.942182421684265
+256668,Prompt C (Constrained),yes,0.0,0.0,0.0,22.942182421684265
+383445,Prompt A (Baseline),i got a hole in the car,0.29040404040404044,0.0,0.0,27.910473942756653
+383445,Prompt B (Forced Hallucination),car,0.06097560975609756,0.0,0.0,25.0451922416687
+383445,Prompt C (Constrained),car,0.06097560975609756,0.0,0.0,25.0451922416687
+565797,Prompt A (Baseline),a cat on a tire of a red vintage car .,0.6284097797534854,0.0,0.0,35.19357740879059
+565797,Prompt B (Forced Hallucination),cat,0.054945054945054944,0.0,0.0,25.060763955116272
+565797,Prompt C (Constrained),cat,0.054945054945054944,0.0,0.0,25.060763955116272
+81922,Prompt A (Baseline),airplane landing at the airport,0.08849557522123892,0.0,0.0,31.5849632024765
+81922,Prompt B (Forced Hallucination),airplane,0.054945054945054944,0.0,0.0,25.415566563606262
+81922,Prompt C (Constrained),airplane,0.054945054945054944,0.0,0.0,25.415566563606262
+50125,Prompt A (Baseline),the bus probably in the ####s,0.10000000000000002,0.0,0.0,27.0658016204834
+50125,Prompt B (Forced Hallucination),bus,0.054945054945054944,0.0,0.0,27.612829208374023
+50125,Prompt C (Constrained),Bus,0.054945054945054944,0.0,0.0,27.612829208374023
+364521,Prompt A (Baseline),a local toilet used as a playground,0.15463917525773196,0.0,0.0,27.42818295955658
+364521,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.77623200416565
+364521,Prompt C (Constrained),yes,0.0,0.0,0.0,18.77623200416565
+394892,Prompt A (Baseline),little boy on a skateboard,0.2180232558139535,0.0,0.0,30.787155032157898
+394892,Prompt B (Forced Hallucination),skateboard,0.06097560975609756,0.0,0.0,30.341607332229614
+394892,Prompt C (Constrained),skateboard,0.06097560975609756,0.0,0.0,30.341607332229614
+1146,Prompt A (Baseline),tie is a hand - painted design with a black background .,0.2900604686318972,0.0,0.0,30.337724089622498
+1146,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.5679172873497
+1146,Prompt C (Constrained),tie,0.054945054945054944,0.0,0.0,27.655088901519775
+310391,Prompt A (Baseline),person sent in this photo of automobile model .,0.12820512820512822,0.0,0.0,24.605251848697662
+310391,Prompt B (Forced Hallucination),car,0.06097560975609756,0.0,0.0,23.8678440451622
+310391,Prompt C (Constrained),car,0.06097560975609756,0.0,0.0,23.8678440451622
+97434,Prompt A (Baseline),a woman sits on the curb by a motorcycle,0.27530864197530863,0.0,0.0,31.35210871696472
+97434,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.567750811576843
+97434,Prompt C (Constrained),police officer,0.12096774193548387,0.0,0.0,25.20506978034973
+463836,Prompt A (Baseline),looking inside the ruins of the house,0.08695652173913043,0.0,0.0,28.81627380847931
+463836,Prompt B (Forced Hallucination),person,0.04237288135593221,0.0,0.0,19.622792303562164
+463836,Prompt C (Constrained),person,0.04237288135593221,0.0,0.0,19.622792303562164
+241876,Prompt A (Baseline),my cat likes to hang out by the toilet,0.3155006858710563,0.0,0.0,30.134499073028564
+241876,Prompt B (Forced Hallucination),cat,0.0684931506849315,0.0,0.0,26.140284538269043
+241876,Prompt C (Constrained),cat,0.0684931506849315,0.0,0.0,26.140284538269043
+156832,Prompt A (Baseline),a picture of a bathroom,0.15789473684210523,0.0,0.0,29.863587021827698
+156832,Prompt B (Forced Hallucination),toilet,0.06097560975609756,0.0,0.0,30.142170190811157
+156832,Prompt C (Constrained),bathroom,0.06097560975609756,0.0,0.0,27.82875895500183
+480985,Prompt A (Baseline),the front of the motorcycle,0.17699115044247785,0.0,0.0,31.663814187049866
+480985,Prompt B (Forced Hallucination),motorcycle,0.06097560975609756,0.0,0.0,27.21990942955017
+480985,Prompt C (Constrained),yes,0.0,0.0,0.0,19.00094300508499
+458054,Prompt A (Baseline),toilets are just some of the items that are dumped .,0.16806722689075632,0.0,0.0,32.56588876247406
+458054,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.085205137729645
+458054,Prompt C (Constrained),no caption,0.0,0.0,0.0,19.94168907403946
+270721,Prompt A (Baseline),image of : bathroom in a hostel,0.13043478260869565,0.0,0.0,30.2473247051239
+270721,Prompt B (Forced Hallucination),bathroom,0.054945054945054944,0.0,0.0,28.565511107444763
+270721,Prompt C (Constrained),bathroom,0.054945054945054944,0.0,0.0,28.565511107444763
+462341,Prompt A (Baseline),a city at night - the tower,0.15463917525773196,0.0,0.0,20.39497047662735
+462341,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,18.141496181488037
+462341,Prompt C (Constrained),no,0.0,0.0,0.0,18.141496181488037
+310103,Prompt A (Baseline),see more photos for this motorcycle listing,0.06329113924050632,0.0,0.0,28.356027603149414
+310103,Prompt B (Forced Hallucination),"vehicle, motorcycle, tire, wheel, motorcycle fairing, motorcycle accessories, automotive exterior, automotive lighting, automotive tire, automotive tail & brake light, automotive lighting, automotive fog light, automotive parking light, automotive side-view mirror, automotive lighting, automotive side-view mirror, automotive mirror, automotive side-view door mirror, automotive side-view camera, automotive side-view mirror, automotive lighting, automotive side-view mirror, automotive lighting, automotive lighting, automotive lighting, automotive",0.09523809523809523,0.25,1.0,22.02732563018799
+310103,Prompt C (Constrained),vehicle,0.0,1.0,1.0,23.595373332500458
+32992,Prompt A (Baseline),a close - up of the detail,0.4746835443037974,0.0,0.0,24.788619577884674
+32992,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.77162253856659
+32992,Prompt C (Constrained),yes,0.0,0.0,0.0,17.77162253856659
+122851,Prompt A (Baseline),a man packs bananas on the side of the road .,0.5902439024390245,0.0,0.0,33.48138630390167
+122851,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.620200872421265
+122851,Prompt C (Constrained),yes,0.0,0.0,0.0,16.620200872421265
+540763,Prompt A (Baseline),bathroom with a view - bathroom,0.32877604166666663,0.0,0.0,25.270116329193115
+540763,Prompt B (Forced Hallucination),toilet,0.054945054945054944,0.0,0.0,24.63102489709854
+540763,Prompt C (Constrained),bathroom,0.054945054945054944,0.0,0.0,27.038174867630005
+331352,Prompt A (Baseline),the bathroom inside the train,0.05813953488372093,1.0,1.0,27.184250950813293
+331352,Prompt B (Forced Hallucination),toilet,0.06097560975609756,0.0,0.0,30.625826120376587
+331352,Prompt C (Constrained),toilet,0.06097560975609756,0.0,0.0,30.625826120376587
+138246,Prompt A (Baseline),looking towards the church and the horses,0.189873417721519,0.0,0.0,33.425912261009216
+138246,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,15.44087529182434
+138246,Prompt C (Constrained),horses,0.0684931506849315,0.0,0.0,25.232070684432983
+197254,Prompt A (Baseline),"there are horses everywhere - in the streets , in the churches , and even in the crowds .",0.2,0.0,0.0,31.007274985313416
+197254,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,16.518723964691162
+197254,Prompt C (Constrained),horse,0.06097560975609756,0.0,0.0,24.148614704608917
+32907,Prompt A (Baseline),the toilet was stolen from this house .,0.28714107365792757,0.0,0.0,29.762399196624756
+32907,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.722125470638275
+32907,Prompt C (Constrained),toilet,0.06097560975609756,0.0,0.0,28.625768423080444
+251252,Prompt A (Baseline),view more photos of this motorcycle,0.0574712643678161,0.0,0.0,27.548950910568237
+251252,Prompt B (Forced Hallucination),motorcycle,0.06097560975609756,0.0,0.0,26.50727927684784
+251252,Prompt C (Constrained),motorcycles,0.06097560975609756,0.0,0.0,26.11716091632843
+37675,Prompt A (Baseline),a view of the church,0.09615384615384616,0.0,0.0,31.44785463809967
+37675,Prompt B (Forced Hallucination),cows,0.0,0.0,0.0,24.65454787015915
+37675,Prompt C (Constrained),cows,0.0,0.0,0.0,24.65454787015915
+159537,Prompt A (Baseline),the tower of the cathedral,0.10526315789473685,0.0,0.0,31.83045983314514
+159537,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.00826394557953
+159537,Prompt C (Constrained),clock,0.054945054945054944,0.0,0.0,28.729096055030823
+268556,Prompt A (Baseline),"i 'm not a biker , but this is a great picture of a woman on a motorcycle .",0.5294873855053833,0.0,0.0,27.145615220069885
+268556,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.994324862957
+268556,Prompt C (Constrained),motorcycle,0.054945054945054944,0.0,0.0,28.825590014457703
+271177,Prompt A (Baseline),the front wheel of the motorcycle,0.14285714285714285,0.0,0.0,30.333328247070312
+271177,Prompt B (Forced Hallucination),motorcycle,0.0684931506849315,0.0,0.0,28.52967083454132
+271177,Prompt C (Constrained),motorcycle,0.0684931506849315,0.0,0.0,28.52967083454132
+75051,Prompt A (Baseline),the toilet in my hotel room .,0.10309278350515463,0.0,0.0,29.917162656784058
+75051,Prompt B (Forced Hallucination),toilet,0.06097560975609756,0.0,0.0,29.8471599817276
+75051,Prompt C (Constrained),toilet,0.06097560975609756,0.0,0.0,29.8471599817276
+549399,Prompt A (Baseline),the art of the chopper,0.24572649572649571,0.0,0.0,25.00697374343872
+549399,Prompt B (Forced Hallucination),no description,0.0,0.0,0.0,19.26492303609848
+549399,Prompt C (Constrained),motorbike,0.05,0.0,0.0,25.702106952667236
+85160,Prompt A (Baseline),an employee of the company uses computers in the office .,0.4054545454545455,0.0,0.0,26.809057593345642
+85160,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,15.145136415958405
+85160,Prompt C (Constrained),office,0.05,0.0,0.0,21.740898489952087
+559665,Prompt A (Baseline),politician on a motorcycle at the traffic lights,0.46499999999999997,0.0,0.0,28.378188610076904
+559665,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.403773963451385
+559665,Prompt C (Constrained),vehicle.,0.06024096385542168,0.0,0.0,22.569841146469116
+296649,Prompt A (Baseline),the dilapidated buildings that have been demolished to make way for a new development .,0.13157894736842105,0.0,0.0,28.156185150146484
+296649,Prompt B (Forced Hallucination),traffic,0.04587155963302752,0.0,0.0,20.354418456554413
+296649,Prompt C (Constrained),traffic,0.04587155963302752,0.0,0.0,20.354418456554413
+19358,Prompt A (Baseline),recipes for a healthy breakfast,0.04807692307692308,0.0,0.0,26.70884132385254
+19358,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,16.268227994441986
+19358,Prompt C (Constrained),yes,0.0,0.0,0.0,15.630613267421722
+459912,Prompt A (Baseline),motorcycles parked in the streets,0.24572649572649571,0.0,0.0,31.673729419708252
+459912,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,15.537716448307037
+459912,Prompt C (Constrained),motorcycles,0.05,0.0,0.0,27.69273817539215
+15827,Prompt A (Baseline),motorcycles parked on the streets,0.436046511627907,0.0,0.0,30.42464852333069
+15827,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.76022857427597
+15827,Prompt C (Constrained),motorcycles,0.0684931506849315,0.0,0.0,28.21914255619049
+394240,Prompt A (Baseline),walking through the narrow streets,0.09615384615384616,0.0,0.0,28.133898973464966
+394240,Prompt B (Forced Hallucination),street,0.05,0.0,0.0,22.849898040294647
+394240,Prompt C (Constrained),street,0.05,0.0,0.0,22.849898040294647
+510755,Prompt A (Baseline),bikes lined up in the park,0.21551724137931036,0.0,0.0,32.54406452178955
+510755,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.329452395439148
+510755,Prompt C (Constrained),yes,0.0,0.0,0.0,16.329452395439148
+175831,Prompt A (Baseline),motorcycles drive past the building,0.2261553588987217,0.0,0.0,28.75891923904419
+175831,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.11085695028305
+175831,Prompt C (Constrained),yes,0.0,0.0,0.0,19.11085695028305
+386912,Prompt A (Baseline),"person at the desk , which is too small for her .",0.46046046046046046,0.0,0.0,28.172937035560608
+386912,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.086757719516754
+386912,Prompt C (Constrained),desk,0.06097560975609756,0.0,0.0,25.092357397079468
+79472,Prompt A (Baseline),the desk that fits my stuff,0.1149425287356322,0.0,0.0,27.012577652931213
+79472,Prompt B (Forced Hallucination),"computer, laptop, printer, scanner, computer desk, lamp, computer monitor, computer keyboard, computer mouse, computer mouse pad, computer desk, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer table, computer",0.17156862745098042,0.25,1.0,25.851982831954956
+79472,Prompt C (Constrained),computer,0.06097560975609756,0.0,0.0,24.626605212688446
+502136,Prompt A (Baseline),the door to a house .,0.2662037037037037,0.0,0.0,28.21744680404663
+502136,Prompt B (Forced Hallucination),door,0.0684931506849315,0.0,0.0,27.063390612602234
+502136,Prompt C (Constrained),door,0.0684931506849315,0.0,0.0,27.063390612602234
+250108,Prompt A (Baseline),the desk of a journalist in the office,0.2720905172413793,0.0,0.0,29.732120037078857
+250108,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.227543354034424
+250108,Prompt C (Constrained),desk,0.06097560975609756,0.0,0.0,28.80803942680359
+491497,Prompt A (Baseline),how to make your own curtains with a free pattern,0.05000000000000001,0.0,0.0,23.349715769290924
+491497,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,20.96918821334839
+491497,Prompt C (Constrained),curtains,0.0,0.0,0.0,25.059500336647034
+315601,Prompt A (Baseline),the government is planning to increase the number of lanes and reduce the number of lanes on the road .,0.21618150684931506,0.0,0.0,30.089697241783142
+315601,Prompt B (Forced Hallucination),traffic,0.054945054945054944,0.0,0.0,24.297255277633667
+315601,Prompt C (Constrained),traffic,0.054945054945054944,0.0,0.0,24.297255277633667
+437218,Prompt A (Baseline),before shot of the living room .,0.2634593356242841,0.0,0.0,31.357520818710327
+437218,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.58908587694168
+437218,Prompt C (Constrained),living room,0.20380434782608695,0.0,0.0,27.85605490207672
+503707,Prompt A (Baseline),"a blurred photo of a car , motorcycle and person on a road",0.5804493801652891,0.0,0.0,36.342620849609375
+503707,Prompt B (Forced Hallucination),blurry,0.04587155963302752,0.0,0.0,23.471099138259888
+503707,Prompt C (Constrained),vehicles,0.0,0.0,0.0,24.212682247161865
+184791,Prompt A (Baseline),still life with a jug and oranges,0.2634593356242841,0.0,0.0,32.14088678359985
+184791,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,18.641042709350586
+184791,Prompt C (Constrained),still life,0.0,0.0,0.0,29.540961980819702
+74331,Prompt A (Baseline),packing of bananas in a box,0.4275862068965518,0.0,0.0,36.59587502479553
+74331,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.54290920495987
+74331,Prompt C (Constrained),yes,0.0,0.0,0.0,20.54290920495987
+579664,Prompt A (Baseline),the big bunch of bananas,0.39473684210526316,0.0,0.0,26.685047149658203
+579664,Prompt B (Forced Hallucination),close up,0.0,0.0,0.0,19.147327542304993
+579664,Prompt C (Constrained),bananas,0.054945054945054944,0.0,0.0,26.46244168281555
+369763,Prompt A (Baseline),boy sitting on a bench by his motorcycle,0.20444444444444443,0.3333333333333333,1.0,22.63491153717041
+369763,Prompt B (Forced Hallucination),police motorcycle,0.12048192771084336,0.0,0.0,29.133793711662292
+369763,Prompt C (Constrained),police motorcycle,0.12048192771084336,0.0,0.0,29.133793711662292
+199951,Prompt A (Baseline),a racer on his way to victory,0.189873417721519,0.0,0.0,27.61770784854889
+199951,Prompt B (Forced Hallucination),motorcycle,0.0684931506849315,0.0,0.0,23.78118336200714
+199951,Prompt C (Constrained),Vehicle,0.0,0.0,0.0,20.062923431396484
+452684,Prompt A (Baseline),beverage - these were all,0.03571428571428571,0.0,0.0,25.180578231811523
+452684,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.07968318462372
+452684,Prompt C (Constrained),drink,0.0,0.0,0.0,25.094875693321228
+213687,Prompt A (Baseline),the building is a mix of styles .,0.17241379310344826,0.0,0.0,24.998007714748383
+213687,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.131316125392914
+213687,Prompt C (Constrained),traffic,0.0,0.0,0.0,20.277810096740723
+108094,Prompt A (Baseline),"exploring the city on foot , on a scooter or by bus",0.23023023023023023,1.0,1.0,27.429062128067017
+108094,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.922496259212494
+108094,Prompt C (Constrained),yes,0.0,0.0,0.0,16.922496259212494
+527040,Prompt A (Baseline),birds pecking at the bread on the table,0.38265306122448983,0.0,0.0,35.00320017337799
+527040,Prompt B (Forced Hallucination),birds,0.054945054945054944,0.0,0.0,26.187899708747864
+527040,Prompt C (Constrained),birds,0.054945054945054944,0.0,0.0,26.187899708747864
+350341,Prompt A (Baseline),a small piece of bread and a newspaper,0.4776739356178608,0.0,0.0,33.769673109054565
+350341,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.36529278755188
+350341,Prompt C (Constrained),no,0.0,0.0,0.0,19.36529278755188
+550529,Prompt A (Baseline),motorcycle on display at the bar .,0.09433962264150944,0.0,0.0,32.707080245018005
+550529,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.036096215248108
+550529,Prompt C (Constrained),yes,0.0,0.0,0.0,16.036096215248108
+432176,Prompt A (Baseline),the small windows give a sense of the age of the building .,0.21582733812949637,0.0,0.0,27.779045701026917
+432176,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.436065316200256
+432176,Prompt C (Constrained),door,0.0,0.0,0.0,28.17394733428955
+281533,Prompt A (Baseline),the life of a dog,0.297157622739018,0.0,0.0,23.656807839870453
+281533,Prompt B (Forced Hallucination),dog,0.06097560975609756,0.0,0.0,23.372642695903778
+281533,Prompt C (Constrained),dog,0.06097560975609756,0.0,0.0,23.372642695903778
+369826,Prompt A (Baseline),this is a great big screen if you 're waiting for your flight .,0.283969465648855,0.0,0.0,31.814971566200256
+369826,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,16.85689389705658
+369826,Prompt C (Constrained),no,0.0,0.0,0.0,16.85689389705658
+551334,Prompt A (Baseline),"person at the desk , at the desk",0.17241379310344826,0.0,0.0,23.779937624931335
+551334,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,16.44332706928253
+551334,Prompt C (Constrained),no caption,0.0,0.0,0.0,17.06320494413376
+291380,Prompt A (Baseline),person seen in the car window,0.08130081300813008,0.5,1.0,28.047484159469604
+291380,Prompt B (Forced Hallucination),car,0.04237288135593221,1.0,1.0,20.649895071983337
+291380,Prompt C (Constrained),person,0.05,0.0,0.0,23.744072020053864
+368978,Prompt A (Baseline),the plane takes off from the airport,0.16304347826086957,0.0,0.0,29.023614525794983
+368978,Prompt B (Forced Hallucination),plane,0.04237288135593221,0.0,0.0,24.966922402381897
+368978,Prompt C (Constrained),plane,0.04237288135593221,0.0,0.0,24.966922402381897
+77123,Prompt A (Baseline),one of the aircraft of the airline,0.16103316326530612,0.0,0.0,27.058473229408264
+77123,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.004424333572388
+77123,Prompt C (Constrained),yes,0.0,0.0,0.0,17.004424333572388
+513681,Prompt A (Baseline),a worker stands next to an aircraft .,0.234375,0.0,0.0,32.001230120658875
+513681,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.81376302242279
+513681,Prompt C (Constrained),yes,0.0,0.0,0.0,17.81376302242279
+348881,Prompt A (Baseline),view from the window of the plane,0.17996870109546168,0.0,0.0,28.547915816307068
+348881,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.656875729560852
+348881,Prompt C (Constrained),yes,0.0,0.0,0.0,19.656875729560852
+437370,Prompt A (Baseline),the annual air show attracted aircraft from around the world .,0.09090909090909091,0.0,0.0,28.998804092407227
+437370,Prompt B (Forced Hallucination),"aircraft, airplane, propeller, wheel, vehicle, airplane, aircraft, propeller, wheel, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft,",0.022522522522522525,0.022727272727272728,1.0,26.797384023666382
+437370,Prompt C (Constrained),propeller,0.03937007874015748,0.0,0.0,26.497584581375122
+78371,Prompt A (Baseline),"a jet fighter , similar to the one that crashed .",0.18248175182481755,0.0,0.0,26.373407244682312
+78371,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.175103724002838
+78371,Prompt C (Constrained),"Aircraft, Airplane, Vehicle, Propeller, Vehicle, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle door, Vehicle",0.027027027027027025,0.9393939393939394,1.0,25.843167304992676
+560623,Prompt A (Baseline),view of the tarmac and an airplane,0.24193548387096778,0.0,0.0,30.029666423797607
+560623,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.511972784996033
+560623,Prompt C (Constrained),yes,0.0,0.0,0.0,17.511972784996033
+289173,Prompt A (Baseline),view of the plane from the gate,0.11363636363636365,0.0,0.0,30.96739947795868
+289173,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.492039501667023
+289173,Prompt C (Constrained),yes,0.0,0.0,0.0,17.492039501667023
+52759,Prompt A (Baseline),the crew works to prepare the aircraft for departure .,0.10000000000000002,0.0,0.0,29.452893137931824
+52759,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.180740296840668
+52759,Prompt C (Constrained),yes,0.0,0.0,0.0,16.180740296840668
+289393,Prompt A (Baseline),some of the oldest toys,0.17441860465116277,0.0,0.0,29.18572425842285
+289393,Prompt B (Forced Hallucination),giraffe,0.04237288135593221,0.0,0.0,22.57445752620697
+289393,Prompt C (Constrained),giraffe,0.04237288135593221,0.0,0.0,22.57445752620697
+568623,Prompt A (Baseline),the bench is designed to mimic the shape of a human head .,0.19230769230769232,0.0,0.0,29.8874169588089
+568623,Prompt B (Forced Hallucination),person,0.04237288135593221,0.0,0.0,19.4199800491333
+568623,Prompt C (Constrained),person,0.04237288135593221,0.0,0.0,19.4199800491333
+128939,Prompt A (Baseline),"on the pedestrian crossing , the car is too close to the green light",0.3292035398230088,0.0,0.0,27.666905522346497
+128939,Prompt B (Forced Hallucination),car,0.05,0.0,0.0,19.58584636449814
+128939,Prompt C (Constrained),car,0.05,0.0,0.0,19.58584636449814
+339974,Prompt A (Baseline),traffic lights on the roundabout,0.2180232558139535,0.0,0.0,30.667248368263245
+339974,Prompt B (Forced Hallucination),traffic light,0.2259036144578313,0.0,0.0,27.550914883613586
+339974,Prompt C (Constrained),traffic lights,0.2259036144578313,0.0,0.0,28.44131886959076
+561100,Prompt A (Baseline),the wing of the aircraft was extended to the left .,0.09090909090909091,0.0,0.0,27.535802125930786
+561100,Prompt B (Forced Hallucination),"aircraft, airplane, vehicle, wheel, airplane, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft, aircraft,",0.02688172043010753,0.02127659574468085,1.0,24.79373663663864
+561100,Prompt C (Constrained),aircraft,0.0,0.0,0.0,26.869887113571167
+150410,Prompt A (Baseline),"person , works on a model of a light - weight aircraft .",0.17857142857142858,0.0,0.0,30.422842502593994
+150410,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.26982593536377
+150410,Prompt C (Constrained),person,0.0,0.0,0.0,17.443712055683136
+9426,Prompt A (Baseline),the model is a classic of the 's .,0.2222222222222222,0.0,0.0,22.777874767780304
+9426,Prompt B (Forced Hallucination),"aircraft, airplane, sky, vehicle, wing, and outdoor",0.125,0.3333333333333333,1.0,27.11571455001831
+9426,Prompt C (Constrained),aircraft,0.0,0.0,0.0,25.519612431526184
+14869,Prompt A (Baseline),empty bench under a tree,0.46148255813953487,0.0,0.0,31.792637705802917
+14869,Prompt B (Forced Hallucination),park,0.06097560975609756,0.0,0.0,26.622691750526428
+14869,Prompt C (Constrained),bench,0.06097560975609756,0.0,0.0,29.716768860816956
+522713,Prompt A (Baseline),a bench overlooking a city,0.3034855769230769,0.0,0.0,21.727140247821808
+522713,Prompt B (Forced Hallucination),beach,0.06097560975609756,0.0,0.0,25.431010127067566
+522713,Prompt C (Constrained),beach,0.06097560975609756,0.0,0.0,25.431010127067566
+281221,Prompt A (Baseline),a giraffe standing tall in the bush,0.189873417721519,0.0,0.0,31.850945949554443
+281221,Prompt B (Forced Hallucination),giraffe,0.0684931506849315,0.0,0.0,28.404530882835388
+281221,Prompt C (Constrained),giraffe,0.0684931506849315,0.0,0.0,28.404530882835388
+108169,Prompt A (Baseline),tourist attraction from the air,0.19736842105263158,0.0,0.0,25.008192658424377
+108169,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,18.320177495479584
+108169,Prompt C (Constrained),no,0.0,0.0,0.0,18.320177495479584
+440575,Prompt A (Baseline),image for the 3rd eye,0.05813953488372093,0.0,0.0,19.139806926250458
+440575,Prompt B (Forced Hallucination),airplane,0.06097560975609756,0.0,0.0,24.958108365535736
+440575,Prompt C (Constrained),plane,0.04237288135593221,0.0,0.0,24.65842068195343
+354533,Prompt A (Baseline),the decoration of a motorcycle,0.2690058479532163,0.0,0.0,27.648529410362244
+354533,Prompt B (Forced Hallucination),motorcycle,0.054945054945054944,0.0,0.0,26.053589582443237
+354533,Prompt C (Constrained),sheep,0.06097560975609756,0.0,0.0,19.57331895828247
+181666,Prompt A (Baseline),a shepherd with his flock of goats,0.42613636363636365,0.0,0.0,28.569170832633972
+181666,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.12200289964676
+181666,Prompt C (Constrained),yes,0.0,0.0,0.0,16.12200289964676
+545959,Prompt A (Baseline),a view of the sheep from the garden .,0.20202020202020204,0.0,0.0,31.460928916931152
+545959,Prompt B (Forced Hallucination),sheep,0.06097560975609756,0.0,0.0,26.30104422569275
+545959,Prompt C (Constrained),sheep,0.06097560975609756,0.0,0.0,26.30104422569275
+511058,Prompt A (Baseline),giraffe eating a branch : free,0.15625,0.0,0.0,31.53550922870636
+511058,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,29.446372389793396
+511058,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,29.446372389793396
+91227,Prompt A (Baseline),"this view of a giraffe gives a sense of its age , elegance , and stature .",0.3476635514018692,0.0,0.0,31.564709544181824
+91227,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,31.067723035812378
+91227,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,31.067723035812378
+242139,Prompt A (Baseline),the building was a former headquarters .,0.189873417721519,0.0,0.0,29.970118403434753
+242139,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.273605406284332
+242139,Prompt C (Constrained),yes,0.0,0.0,0.0,18.273605406284332
+17627,Prompt A (Baseline),traffic at the intersection of the street,0.2545362903225807,0.0,0.0,26.969754695892334
+17627,Prompt B (Forced Hallucination),traffic,0.0,0.0,0.0,23.819072544574738
+17627,Prompt C (Constrained),traffic,0.0,0.0,0.0,23.819072544574738
+334321,Prompt A (Baseline),this dog is not a fan of the new dog .,0.24658203125000006,0.0,0.0,23.430761694908142
+334321,Prompt B (Forced Hallucination),dog,0.04587155963302752,0.0,0.0,25.430992245674133
+334321,Prompt C (Constrained),dog,0.04587155963302752,0.0,0.0,25.430992245674133
+381021,Prompt A (Baseline),person on the poster around tourist attraction,0.21306818181818182,0.0,0.0,25.54873824119568
+381021,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.4400737285614
+381021,Prompt C (Constrained),no,0.0,0.0,0.0,19.681407511234283
+170629,Prompt A (Baseline),the ####s were the last years of the ####s - ####s,0.1715137956748695,0.0,0.0,18.378184735774994
+170629,Prompt B (Forced Hallucination),"transport, bus, vehicle, man, bus stop, city, urban area, town, street, human, human body, human head, human leg, human face, human hair, human nose, human mouth, human eye, human nose, human mouth, human ear, human eye, human hair, human nose, human mouth, human ear, human eye, human hair, human nose, human mouth, human ear, human eye, human hair, human nose, human mouth",0.15471813725490197,0.3333333333333333,1.0,24.17190372943878
+170629,Prompt C (Constrained),bus,0.04587155963302752,0.0,0.0,26.986053586006165
+143931,Prompt A (Baseline),the campaign bus was decked out in the usual colors .,0.14851485148514848,0.0,0.0,34.04385149478912
+143931,Prompt B (Forced Hallucination),vehicle,0.0,1.0,1.0,20.52084505558014
+143931,Prompt C (Constrained),vehicle,0.0,1.0,1.0,20.52084505558014
+303818,Prompt A (Baseline),traffic jam on the streets,0.11627906976744186,0.0,0.0,26.78905427455902
+303818,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,17.10933893918991
+303818,Prompt C (Constrained),no,0.0,0.0,0.0,17.10933893918991
+207797,Prompt A (Baseline),a lone giraffe photographed by person,0.33844189016602805,0.5,1.0,32.66748785972595
+207797,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,27.793052792549133
+207797,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,27.793052792549133
+179558,Prompt A (Baseline),giraffe in the zoo - photo #,0.15463917525773196,0.0,0.0,30.99234104156494
+179558,Prompt B (Forced Hallucination),giraffe,0.054945054945054944,0.0,0.0,29.18851375579834
+179558,Prompt C (Constrained),giraffe,0.054945054945054944,0.0,0.0,29.18851375579834
+368117,Prompt A (Baseline),a traffic light in front of a blue sky,0.39480452674897115,0.0,0.0,29.688256978988647
+368117,Prompt B (Forced Hallucination),traffic light,0.18564356435643564,0.0,0.0,27.853646874427795
+368117,Prompt C (Constrained),traffic light,0.18564356435643564,0.0,0.0,27.853646874427795
+15085,Prompt A (Baseline),giraffe drinking water in the rain,0.2804232804232804,0.0,0.0,28.824305534362793
+15085,Prompt B (Forced Hallucination),giraffe,0.05,0.0,0.0,26.551884412765503
+15085,Prompt C (Constrained),giraffe,0.05,0.0,0.0,26.551884412765503
+467522,Prompt A (Baseline),giraffes at the wildlife park,0.09615384615384616,0.0,0.0,30.52559494972229
+467522,Prompt B (Forced Hallucination),giraffes,0.06097560975609756,0.0,0.0,30.974867939949036
+467522,Prompt C (Constrained),giraffes,0.06097560975609756,0.0,0.0,30.974867939949036
+40102,Prompt A (Baseline),giraffes in the wild - photo #,0.16924208977189112,0.0,0.0,31.947556138038635
+40102,Prompt B (Forced Hallucination),giraffe,0.054945054945054944,0.0,0.0,30.145519971847534
+40102,Prompt C (Constrained),giraffes,0.054945054945054944,0.0,0.0,31.310313940048218
+403020,Prompt A (Baseline),person sitting in the zoo,0.14423076923076922,1.0,1.0,27.689674496650696
+403020,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,29.695922136306763
+403020,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,29.695922136306763
+6005,Prompt A (Baseline),giraffes gather for a photo .,0.13157894736842105,0.0,0.0,30.82595467567444
+6005,Prompt B (Forced Hallucination),giraffe,0.0684931506849315,0.0,0.0,27.561813592910767
+6005,Prompt C (Constrained),giraffes,0.0684931506849315,0.0,0.0,29.665228724479675
+219514,Prompt A (Baseline),this photo shows a traffic light and a street sign .,0.49083867123491726,0.0,0.0,31.290307641029358
+219514,Prompt B (Forced Hallucination),traffic light,0.18564356435643564,0.0,0.0,25.957727432250977
+219514,Prompt C (Constrained),traffic light,0.18564356435643564,0.0,0.0,25.957727432250977
+521634,Prompt A (Baseline),the name of the street is a reference to the ####s .,0.19924714434060226,0.0,0.0,27.88311243057251
+521634,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.89445686340332
+521634,Prompt C (Constrained),no,0.0,0.0,0.0,21.062585711479187
+125476,Prompt A (Baseline),the garden is getting crowded with plants,0.10309278350515463,0.0,0.0,25.632768869400024
+125476,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.478298604488373
+125476,Prompt C (Constrained),yes,0.0,0.0,0.0,16.478298604488373
+402559,Prompt A (Baseline),a giraffe in the fall,0.36700581395348836,0.0,0.0,31.408512592315674
+402559,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,28.212201595306396
+402559,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,28.212201595306396
+484816,Prompt A (Baseline),close up of a school bus,0.5608465608465608,0.0,0.0,30.464467406272888
+484816,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.384516775608063
+484816,Prompt C (Constrained),bus,0.05,0.0,0.0,24.949060380458832
+165547,Prompt A (Baseline),property image # green house dreams with a lake view,0.09174311926605505,0.0,0.0,25.870558619499207
+165547,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,16.11359864473343
+165547,Prompt C (Constrained),no,0.0,0.0,0.0,16.11359864473343
+463730,Prompt A (Baseline),crossing the road in the capital,0.0574712643678161,0.0,0.0,23.187550902366638
+463730,Prompt B (Forced Hallucination),traffic,0.0,0.0,0.0,22.079958021640778
+463730,Prompt C (Constrained),traffic,0.0,0.0,0.0,22.079958021640778
+81561,Prompt A (Baseline),view through the traffic light,0.19736842105263158,0.0,0.0,28.123310208320618
+81561,Prompt B (Forced Hallucination),traffic light,0.20380434782608695,0.0,0.0,28.35957407951355
+81561,Prompt C (Constrained),traffic light,0.20380434782608695,0.0,0.0,28.35957407951355
+227125,Prompt A (Baseline),a few of the most interesting traffic lights in the world,0.14851485148514848,0.0,0.0,34.82102453708649
+227125,Prompt B (Forced Hallucination),traffic light,0.10869565217391304,0.0,0.0,31.591492891311646
+227125,Prompt C (Constrained),traffic light,0.10869565217391304,0.0,0.0,31.591492891311646
+189550,Prompt A (Baseline),at the zoo - get close !,0.08695652173913043,0.0,0.0,30.080166459083557
+189550,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,28.6813884973526
+189550,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,28.6813884973526
+212663,Prompt A (Baseline),a bus is seen at the bus stop .,0.43684710351377026,0.0,0.0,28.25225293636322
+212663,Prompt B (Forced Hallucination),bus,0.06097560975609756,0.0,0.0,25.468936562538147
+212663,Prompt C (Constrained),bus,0.06097560975609756,0.0,0.0,25.468936562538147
+476005,Prompt A (Baseline),the team 's buses are seen parked outside sports facility .,0.290625,0.0,0.0,31.18368685245514
+476005,Prompt B (Forced Hallucination),buses,0.054945054945054944,0.0,0.0,27.300962805747986
+476005,Prompt C (Constrained),buses,0.054945054945054944,0.0,0.0,27.300962805747986
+505440,Prompt A (Baseline),giraffes are a favorite at any zoo .,0.20444444444444443,0.0,0.0,31.38372004032135
+505440,Prompt B (Forced Hallucination),giraffe,0.0684931506849315,0.0,0.0,31.25179409980774
+505440,Prompt C (Constrained),giraffes,0.0684931506849315,0.0,0.0,31.397002935409546
+67868,Prompt A (Baseline),"no matter how high the water level is , the view is the same .",0.2604166666666667,0.0,0.0,25.75155794620514
+67868,Prompt B (Forced Hallucination),flood,0.054945054945054944,0.0,0.0,26.234427094459534
+67868,Prompt C (Constrained),flood,0.054945054945054944,0.0,0.0,26.234427094459534
+450263,Prompt A (Baseline),people sitting on a bench,0.3946902654867257,0.0,0.0,31.631571054458618
+450263,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.315833806991577
+450263,Prompt C (Constrained),people,0.04587155963302752,0.0,0.0,24.28666204214096
+241691,Prompt A (Baseline),the giraffe that came right up to the car to eat .,0.21505376344086022,0.5,1.0,30.65204620361328
+241691,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,31.77790939807892
+241691,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,31.77790939807892
+450500,Prompt A (Baseline),crowd gathers for the unveiling of tourist attraction .,0.14814814814814814,0.0,0.0,27.356132864952087
+450500,Prompt B (Forced Hallucination),crowd,0.03937007874015748,0.0,0.0,24.429571628570557
+450500,Prompt C (Constrained),crowd,0.03937007874015748,0.0,0.0,24.429571628570557
+545293,Prompt A (Baseline),bench under a tree - relaxing,0.17241379310344826,0.0,0.0,33.1597238779068
+545293,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.060910284519196
+545293,Prompt C (Constrained),bench,0.06097560975609756,0.0,0.0,32.44584500789642
+232894,Prompt A (Baseline),a group of children share a snack at a table,0.31562500000000004,0.0,0.0,27.8556227684021
+232894,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.74959510564804
+232894,Prompt C (Constrained),boy and girl,0.10869565217391304,0.0,0.0,24.612325429916382
+439969,Prompt A (Baseline),this photo shows a pink fire hydrant along road .,0.45731707317073167,0.0,0.0,32.873499393463135
+439969,Prompt B (Forced Hallucination),close up,0.18564356435643564,0.0,0.0,22.863945364952087
+439969,Prompt C (Constrained),fire hydrant,0.25337837837837834,0.0,0.0,32.61169493198395
+29913,Prompt A (Baseline),a strange face on a fire hydrant,0.3903225806451613,0.0,0.0,35.13058423995972
+29913,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,21.924808621406555
+29913,Prompt C (Constrained),no,0.0,0.0,0.0,21.924808621406555
+410437,Prompt A (Baseline),a fire hydrant is covered in snow .,0.7361111111111112,0.0,0.0,29.153844714164734
+410437,Prompt B (Forced Hallucination),snow,0.0684931506849315,0.0,0.0,24.555131793022156
+410437,Prompt C (Constrained),snow,0.0684931506849315,0.0,0.0,24.555131793022156
+455859,Prompt A (Baseline),the art of the city,0.08196721311475409,0.0,0.0,22.676803171634674
+455859,Prompt B (Forced Hallucination),people,0.054945054945054944,0.0,0.0,22.77824729681015
+455859,Prompt C (Constrained),people,0.054945054945054944,0.0,0.0,22.77824729681015
+235302,Prompt A (Baseline),person and groom laughing together,0.2180232558139535,0.0,0.0,30.117249488830566
+235302,Prompt B (Forced Hallucination),wedding,0.06097560975609756,0.0,0.0,25.31011402606964
+235302,Prompt C (Constrained),wedding,0.06097560975609756,0.0,0.0,25.31011402606964
+431573,Prompt A (Baseline),a fire hydrant with water still flowing,0.35866477272727276,0.0,0.0,37.028324604034424
+431573,Prompt B (Forced Hallucination),fire hydrant,0.2259036144578313,0.0,0.0,34.39406752586365
+431573,Prompt C (Constrained),fire hydrant,0.2259036144578313,0.0,0.0,34.39406752586365
+290570,Prompt A (Baseline),sheep in the snow with a barn in the background,0.2485236220472441,0.0,0.0,34.079915285110474
+290570,Prompt B (Forced Hallucination),sheep,0.06097560975609756,0.0,0.0,27.652469277381897
+290570,Prompt C (Constrained),sheep,0.06097560975609756,0.0,0.0,27.652469277381897
+127474,Prompt A (Baseline),"person , left , and person , both , will be retiring from the team .",0.07518796992481204,0.0,0.0,22.324267029762268
+127474,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.30700135231018
+127474,Prompt C (Constrained),yes,0.0,0.0,0.0,17.30700135231018
+28758,Prompt A (Baseline),giraffe walking in the open,0.2690058479532163,0.0,0.0,29.628926515579224
+28758,Prompt B (Forced Hallucination),giraffe,0.054945054945054944,0.0,0.0,28.697898983955383
+28758,Prompt C (Constrained),giraffe,0.054945054945054944,0.0,0.0,28.697898983955383
+163020,Prompt A (Baseline),a duck in flight over the water .,0.5841316118284048,0.0,0.0,34.813907742500305
+163020,Prompt B (Forced Hallucination),bird,0.0,0.0,0.0,26.490235328674316
+163020,Prompt C (Constrained),duck,0.06097560975609756,0.0,0.0,26.802685856819153
+332654,Prompt A (Baseline),a yellow fire hydrant in the middle of the street,0.446,0.0,0.0,33.619049191474915
+332654,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.785135984420776
+332654,Prompt C (Constrained),yes,0.0,0.0,0.0,19.785135984420776
+281455,Prompt A (Baseline),sometimes you just have to believe that the sky is the limit .,0.24278846153846156,0.0,0.0,25.093668699264526
+281455,Prompt B (Forced Hallucination),birds,0.0684931506849315,0.0,0.0,27.683481574058533
+281455,Prompt C (Constrained),birds,0.0684931506849315,0.0,0.0,27.683481574058533
+38029,Prompt A (Baseline),the parade was held on the streets .,0.20408163265306123,0.0,0.0,26.856285333633423
+38029,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.39036750793457
+38029,Prompt C (Constrained),parade,0.078125,0.0,0.0,26.843097805976868
+17756,Prompt A (Baseline),the royal flag on the boat,0.35714285714285715,0.0,0.0,27.394306659698486
+17756,Prompt B (Forced Hallucination),boat,0.06097560975609756,0.0,0.0,24.9050110578537
+17756,Prompt C (Constrained),boat,0.06097560975609756,0.0,0.0,24.9050110578537
+380932,Prompt A (Baseline),a fire hydrant in the snow,0.3875,0.0,0.0,17.678852379322052
+380932,Prompt B (Forced Hallucination),snow,0.054945054945054944,0.0,0.0,24.049881100654602
+380932,Prompt C (Constrained),snow,0.054945054945054944,0.0,0.0,24.049881100654602
+155885,Prompt A (Baseline),"the history of the harbour , as it was in the ####s .",0.2388369678089304,0.0,0.0,30.10423481464386
+155885,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,16.089169681072235
+155885,Prompt C (Constrained),harbor,0.05,0.0,0.0,25.946208834648132
+231408,Prompt A (Baseline),cat watching duck over the pond,0.14285714285714285,0.0,0.0,30.975398421287537
+231408,Prompt B (Forced Hallucination),cat,0.054945054945054944,0.0,0.0,24.24139678478241
+231408,Prompt C (Constrained),cat,0.054945054945054944,0.0,0.0,24.24139678478241
+305821,Prompt A (Baseline),giraffes were seen eating in the morning,0.2222222222222222,0.0,0.0,30.378824472427368
+305821,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,29.59325909614563
+305821,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,29.59325909614563
+459374,Prompt A (Baseline),a light painting i did on a street,0.4445422535211268,0.0,0.0,30.01454770565033
+459374,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.184596300125122
+459374,Prompt C (Constrained),no,0.0,0.0,0.0,18.46301406621933
+190056,Prompt A (Baseline),giraffes at the - photo sharing !,0.05154639175257732,0.0,0.0,32.249751687049866
+190056,Prompt B (Forced Hallucination),giraffes,0.054945054945054944,0.0,0.0,31.145715713500977
+190056,Prompt C (Constrained),giraffes,0.054945054945054944,0.0,0.0,31.145715713500977
+176649,Prompt A (Baseline),i 've seen a lot of these signs .,0.17094017094017094,0.0,0.0,27.15502679347992
+176649,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,22.74438738822937
+176649,Prompt C (Constrained),no,0.0,0.0,0.0,22.74438738822937
+121041,Prompt A (Baseline),biological species with a red beak,0.22417153996101363,0.0,0.0,29.859575629234314
+121041,Prompt B (Forced Hallucination),no description,0.0,0.0,0.0,20.19021511077881
+121041,Prompt C (Constrained),no description,0.0,0.0,0.0,20.19021511077881
+156397,Prompt A (Baseline),the sheep are in the middle of the picture,0.16666666666666666,0.0,0.0,27.58021056652069
+156397,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.293172538280487
+156397,Prompt C (Constrained),sheep,0.06097560975609756,0.0,0.0,27.607914805412292
+173574,Prompt A (Baseline),the sheep are always looking for a better place to graze,0.25302530253025296,0.0,0.0,29.099473357200623
+173574,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.87551885843277
+173574,Prompt C (Constrained),sheep,0.054945054945054944,0.0,0.0,28.06435227394104
+236182,Prompt A (Baseline),the trees that have been planted in the streets .,0.31525423728813556,0.0,0.0,26.84142291545868
+236182,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,16.96528047323227
+236182,Prompt C (Constrained),no,0.0,0.0,0.0,16.96528047323227
+460347,Prompt A (Baseline),"a bus uses the road , which is now part of the road .",0.3034855769230769,0.0,0.0,29.35861051082611
+460347,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.1799134016037
+460347,Prompt C (Constrained),bus,0.054945054945054944,0.0,0.0,26.95908546447754
+208589,Prompt A (Baseline),biological species eating a rotting apple in the garden,0.2839506172839506,0.0,0.0,28.262144327163696
+208589,Prompt B (Forced Hallucination),blackbird,0.0,0.0,0.0,28.810182213783264
+208589,Prompt C (Constrained),blackbird,0.0,0.0,0.0,28.810182213783264
+334405,Prompt A (Baseline),vintage bus on the move,0.24572649572649571,0.0,0.0,29.48465645313263
+334405,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.0348579287529
+334405,Prompt C (Constrained),yes,0.0,0.0,0.0,16.0348579287529
+267571,Prompt A (Baseline),close up shot of a giraffe,0.2662037037037037,0.0,0.0,31.980592012405396
+267571,Prompt B (Forced Hallucination),giraffe,0.054945054945054944,0.0,0.0,31.109431385993958
+267571,Prompt C (Constrained),giraffe,0.054945054945054944,0.0,0.0,31.109431385993958
+73830,Prompt A (Baseline),this giraffe is asking for a hug .,0.14018691588785046,0.0,0.0,27.58094072341919
+73830,Prompt B (Forced Hallucination),giraffe,0.054945054945054944,0.0,0.0,27.96141505241394
+73830,Prompt C (Constrained),giraffe,0.054945054945054944,0.0,0.0,27.96141505241394
+158952,Prompt A (Baseline),photo of a sign that says,0.14285714285714285,0.0,0.0,26.217272877693176
+158952,Prompt B (Forced Hallucination),stop sign,0.20380434782608695,0.0,0.0,26.598215103149414
+158952,Prompt C (Constrained),stop sign,0.20380434782608695,0.0,0.0,26.598215103149414
+82258,Prompt A (Baseline),books on a table in the living room,0.46875,0.0,0.0,29.920372366905212
+82258,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,16.906096041202545
+82258,Prompt C (Constrained),yes,0.0,0.0,0.0,16.633714735507965
+308599,Prompt A (Baseline),a sign on a door,0.36700581395348836,0.0,0.0,34.91056561470032
+308599,Prompt B (Forced Hallucination),no entry,0.0,0.0,0.0,28.334981203079224
+308599,Prompt C (Constrained),no trespassing,0.0,0.0,0.0,29.13355529308319
+322864,Prompt A (Baseline),new signs show the distance to the statue .,0.08547008547008547,0.0,0.0,29.545962810516357
+322864,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.89091783761978
+322864,Prompt C (Constrained),no,0.0,0.0,0.0,19.89091783761978
+351053,Prompt A (Baseline),the city has launched a new campaign to encourage people to walk more .,0.1639344262295082,0.0,0.0,25.69405734539032
+351053,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.18114721775055
+351053,Prompt C (Constrained),no description,0.0,0.0,0.0,19.460594654083252
+157269,Prompt A (Baseline),workers prepare to install a new light pole .,0.21842355175688513,0.0,0.0,30.907058715820312
+157269,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,14.778634905815125
+157269,Prompt C (Constrained),yes,0.0,0.0,0.0,14.778634905815125
+495612,Prompt A (Baseline),some of the signs are a few blocks away .,0.15,0.0,0.0,23.63533079624176
+495612,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.032529950141907
+495612,Prompt C (Constrained),no,0.0,0.0,0.0,19.073136150836945
+95022,Prompt A (Baseline),biological species is the largest bird in the world,0.2191840277777778,0.0,0.0,27.53411829471588
+95022,Prompt B (Forced Hallucination),bird,0.04237288135593221,0.0,0.0,26.037877798080444
+95022,Prompt C (Constrained),bird,0.04237288135593221,0.0,0.0,26.037877798080444
+226111,Prompt A (Baseline),the sign adds to the sense of place .,0.3444444444444445,0.0,0.0,27.578407526016235
+226111,Prompt B (Forced Hallucination),no,0.04587155963302752,0.0,0.0,23.050858080387115
+226111,Prompt C (Constrained),no,0.04587155963302752,0.0,0.0,23.050858080387115
+570045,Prompt A (Baseline),this sign is along the road .,0.15037593984962405,0.0,0.0,25.34697949886322
+570045,Prompt B (Forced Hallucination),sign,0.06097560975609756,0.0,0.0,26.623573899269104
+570045,Prompt C (Constrained),sign,0.06097560975609756,0.0,0.0,26.623573899269104
+191501,Prompt A (Baseline),old sign pointing the way to a barber shop,0.13888888888888887,0.0,0.0,28.055450320243835
+191501,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,20.582716166973114
+191501,Prompt C (Constrained),no,0.0,0.0,0.0,20.582716166973114
+153299,Prompt A (Baseline),a family gathering for dinner,0.06493506493506494,0.0,0.0,22.953906655311584
+153299,Prompt B (Forced Hallucination),giraffe,0.0684931506849315,0.0,0.0,28.78536880016327
+153299,Prompt C (Constrained),giraffe,0.0684931506849315,0.0,0.0,28.78536880016327
+216482,Prompt A (Baseline),giraffe standing in the savanna,0.3423772609819121,0.0,0.0,33.5282027721405
+216482,Prompt B (Forced Hallucination),giraffe,0.0684931506849315,0.0,0.0,31.445470452308655
+216482,Prompt C (Constrained),giraffe,0.0684931506849315,0.0,0.0,31.445470452308655
+358342,Prompt A (Baseline),the iconic clock tower is .,0.2662037037037037,0.0,0.0,26.538172364234924
+358342,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,18.526946008205414
+358342,Prompt C (Constrained),no,0.0,0.0,0.0,18.526946008205414
+8665,Prompt A (Baseline),the little bird that was very present .,0.28714107365792757,0.0,0.0,27.79317796230316
+8665,Prompt B (Forced Hallucination),bird,0.06097560975609756,0.0,0.0,26.936805248260498
+8665,Prompt C (Constrained),bird,0.06097560975609756,0.0,0.0,26.936805248260498
+125997,Prompt A (Baseline),a large mural on a wall,0.17543859649122806,0.0,0.0,24.762174487113953
+125997,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.861355423927307
+125997,Prompt C (Constrained),no,0.0,0.0,0.0,19.861355423927307
+69911,Prompt A (Baseline),a city on a budget,0.2690058479532163,0.0,0.0,21.69030010700226
+69911,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.06917244195938
+69911,Prompt C (Constrained),no,0.0,0.0,0.0,19.06917244195938
+573291,Prompt A (Baseline),giraffes in the shade - photo #,0.29040404040404044,0.0,0.0,28.472280502319336
+573291,Prompt B (Forced Hallucination),giraffe,0.06097560975609756,0.0,0.0,26.432281732559204
+573291,Prompt C (Constrained),giraffe,0.06097560975609756,0.0,0.0,26.432281732559204
+322226,Prompt A (Baseline),small cages for the birds,0.06493506493506494,0.0,0.0,31.982731819152832
+322226,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,17.3885777592659
+322226,Prompt C (Constrained),no caption,0.0,0.0,0.0,18.71316432952881
+161470,Prompt A (Baseline),a bird bath in the sun,0.4310344827586207,0.0,0.0,31.56624734401703
+161470,Prompt B (Forced Hallucination),bird bath,0.2259036144578313,0.0,0.0,30.603936314582825
+161470,Prompt C (Constrained),bird bath,0.2259036144578313,0.0,0.0,30.603936314582825
+452224,Prompt A (Baseline),birds of the week - photo,0.1149425287356322,0.0,0.0,27.516990900039673
+452224,Prompt B (Forced Hallucination),bird,0.06097560975609756,0.0,0.0,26.115119457244873
+452224,Prompt C (Constrained),bird,0.06097560975609756,0.0,0.0,26.115119457244873
+322654,Prompt A (Baseline),a homeless couple sleeps in the middle of a busy street .,0.4000000000000001,0.0,0.0,24.26311820745468
+322654,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.278171122074127
+322654,Prompt C (Constrained),yes,0.0,0.0,0.0,18.278171122074127
+110196,Prompt A (Baseline),a city is a major city .,0.12096774193548389,0.0,0.0,23.93679916858673
+110196,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.634712278842926
+110196,Prompt C (Constrained),no,0.0,0.0,0.0,21.72630876302719
+564563,Prompt A (Baseline),the birds in the mountains,0.11627906976744186,0.0,0.0,29.313629865646362
+564563,Prompt B (Forced Hallucination),birds,0.06097560975609756,0.0,0.0,25.001364946365356
+564563,Prompt C (Constrained),birds,0.06097560975609756,0.0,0.0,25.001364946365356
+375363,Prompt A (Baseline),the sign i painted for the school .,0.1530612244897959,0.0,0.0,24.914419651031494
+375363,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.9932644367218
+375363,Prompt C (Constrained),no,0.0,0.0,0.0,19.99879628419876
+93201,Prompt A (Baseline),a dog in a hat,0.436046511627907,0.0,0.0,30.95812201499939
+93201,Prompt B (Forced Hallucination),dog,0.0684931506849315,0.0,0.0,26.093116402626038
+93201,Prompt C (Constrained),dog,0.0684931506849315,0.0,0.0,26.093116402626038
+155877,Prompt A (Baseline),a sheep under a spooky tree,0.20833333333333331,0.0,0.0,30.002599954605103
+155877,Prompt B (Forced Hallucination),sheep,0.06097560975609756,0.0,0.0,27.394607663154602
+155877,Prompt C (Constrained),sheep,0.06097560975609756,0.0,0.0,27.394607663154602
+373591,Prompt A (Baseline),one of the many birds we saw,0.12658227848101264,0.0,0.0,28.206154704093933
+373591,Prompt B (Forced Hallucination),bird,0.0684931506849315,0.0,0.0,27.311062812805176
+373591,Prompt C (Constrained),bird,0.0684931506849315,0.0,0.0,27.311062812805176
+308394,Prompt A (Baseline),a woman sits alone in a train on the subway .,0.4472257653061224,0.5,1.0,32.432931661605835
+308394,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.24967658519745
+308394,Prompt C (Constrained),no,0.0,0.0,0.0,18.219414353370667
+338948,Prompt A (Baseline),the crowd watches as a skater performs a trick,0.14814814814814814,0.0,0.0,28.78541648387909
+338948,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.88952946662903
+338948,Prompt C (Constrained),yes,0.0,0.0,0.0,17.88952946662903
+84982,Prompt A (Baseline),a sign on the corner of person and road,0.13888888888888887,1.0,1.0,29.307645559310913
+84982,Prompt B (Forced Hallucination),sign,0.06097560975609756,0.0,0.0,28.315001726150513
+84982,Prompt C (Constrained),sign,0.06097560975609756,0.0,0.0,28.315001726150513
+386146,Prompt A (Baseline),birds - at the park,0.11627906976744186,0.0,0.0,24.583908915519714
+386146,Prompt B (Forced Hallucination),birds,0.0684931506849315,0.0,0.0,26.006868481636047
+386146,Prompt C (Constrained),birds,0.0684931506849315,0.0,0.0,26.006868481636047
+456496,Prompt A (Baseline),woman sitting in the old town,0.3289473684210526,0.0,0.0,26.071539521217346
+456496,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,18.36898624897003
+456496,Prompt C (Constrained),woman,0.06097560975609756,0.0,0.0,23.075564205646515
+325690,Prompt A (Baseline),a speed limit of km per hour is now enforced on public roads,0.14388489208633093,0.0,0.0,29.985466599464417
+325690,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.05025839805603
+325690,Prompt C (Constrained),yes,0.0,0.0,0.0,19.05025839805603
+74711,Prompt A (Baseline),goose and duck on the lake,0.10416666666666666,0.0,0.0,30.73936104774475
+74711,Prompt B (Forced Hallucination),birds,0.0,0.0,0.0,25.757962465286255
+74711,Prompt C (Constrained),birds,0.0,0.0,0.0,25.757962465286255
+531854,Prompt A (Baseline),ducks swimming in the pond .,0.46458333333333335,0.0,0.0,31.460124254226685
+531854,Prompt B (Forced Hallucination),ducks,0.06097560975609756,0.0,0.0,30.21741807460785
+531854,Prompt C (Constrained),ducks,0.06097560975609756,0.0,0.0,30.21741807460785
+15113,Prompt A (Baseline),"there are some birds that are so exotic , you might not have seen before !",0.19329896907216493,0.0,0.0,29.572775959968567
+15113,Prompt B (Forced Hallucination),bird,0.0684931506849315,0.0,0.0,25.80113708972931
+15113,Prompt C (Constrained),bird,0.0684931506849315,0.0,0.0,25.80113708972931
+388325,Prompt A (Baseline),the house is on the corner .,0.2272727272727273,0.0,0.0,26.12922489643097
+388325,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,18.386541306972504
+388325,Prompt C (Constrained),no,0.0,0.0,0.0,18.386541306972504
+58636,Prompt A (Baseline),"old , weathered street signs are a common sight .",0.35118110236220473,0.0,0.0,30.513381958007812
+58636,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,21.624797582626343
+58636,Prompt C (Constrained),no description,0.0,0.0,0.0,21.527040004730225
+197461,Prompt A (Baseline),sheep in the winter - ####x####,0.24572649572649571,0.0,0.0,28.64704132080078
+197461,Prompt B (Forced Hallucination),sheep,0.06097560975609756,0.0,0.0,28.383663296699524
+197461,Prompt C (Constrained),sheep,0.06097560975609756,0.0,0.0,28.383663296699524
+144053,Prompt A (Baseline),the sign is back in place .,0.2222222222222222,0.0,0.0,24.580419063568115
+144053,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,19.833041727542877
+144053,Prompt C (Constrained),no,0.0,0.0,0.0,19.833041727542877
+75083,Prompt A (Baseline),i took a lot of photos of the signs .,0.3468406593406593,0.0,0.0,27.9954195022583
+75083,Prompt B (Forced Hallucination),no,0.0,0.0,0.0,20.109935104846954
+75083,Prompt C (Constrained),no,0.0,0.0,0.0,20.109935104846954
+271032,Prompt A (Baseline),the sea and the rocks at the beach .,0.15873015873015875,0.0,0.0,24.331940710544586
+271032,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.861586272716522
+271032,Prompt C (Constrained),yes,0.0,0.0,0.0,16.861586272716522
+98416,Prompt A (Baseline),sheep and goats are kept in the same pen,0.15151515151515152,0.0,0.0,30.12871742248535
+98416,Prompt B (Forced Hallucination),sheep,0.06097560975609756,0.0,0.0,27.436816692352295
+98416,Prompt C (Constrained),sheep,0.06097560975609756,0.0,0.0,27.436816692352295
+78522,Prompt A (Baseline),sheep in the fields - copyright,0.32877604166666663,0.0,0.0,28.651857376098633
+78522,Prompt B (Forced Hallucination),sheep,0.06097560975609756,0.0,0.0,27.640485763549805
+78522,Prompt C (Constrained),sheep,0.06097560975609756,0.0,0.0,27.640485763549805
+26767,Prompt A (Baseline),the sign announcing the start of the project .,0.13888888888888887,0.0,0.0,27.523338794708252
+26767,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,14.448581635951996
+26767,Prompt C (Constrained),yes,0.0,0.0,0.0,14.448581635951996
+327807,Prompt A (Baseline),train passing by a small shop,0.25660569105691056,0.0,0.0,29.956111311912537
+327807,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,16.828541457653046
+327807,Prompt C (Constrained),train,0.04237288135593221,0.0,0.0,26.119089126586914
+134778,Prompt A (Baseline),flamingos in the distance,0.16741071428571427,0.0,0.0,34.0141624212265
+134778,Prompt B (Forced Hallucination),birds,0.054945054945054944,0.0,0.0,25.077012181282043
+134778,Prompt C (Constrained),birds,0.054945054945054944,0.0,0.0,25.077012181282043
+41888,Prompt A (Baseline),these birds are not native and were seen .,0.1234567901234568,0.0,0.0,27.715381979942322
+41888,Prompt B (Forced Hallucination),birds,0.0684931506849315,0.0,0.0,23.431792855262756
+41888,Prompt C (Constrained),birds,0.0684931506849315,0.0,0.0,23.431792855262756
+518586,Prompt A (Baseline),"the old station , with the tracks",0.20902317880794705,0.0,0.0,31.54122531414032
+518586,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.39397943019867
+518586,Prompt C (Constrained),train,0.054945054945054944,0.0,0.0,27.102243900299072
+65227,Prompt A (Baseline),a typical foot of a small steam locomotive,0.18566176470588236,0.0,0.0,23.367254436016083
+65227,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.443771243095398
+65227,Prompt C (Constrained),yes,0.0,0.0,0.0,19.443771243095398
+49633,Prompt A (Baseline),seagull at the entrance to the park,0.09433962264150944,0.0,0.0,30.76016902923584
+49633,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.076340436935425
+49633,Prompt C (Constrained),yes,0.0,0.0,0.0,20.076340436935425
+476597,Prompt A (Baseline),the captain was in costume .,0.33844189016602805,0.0,0.0,28.253594040870667
+476597,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.250140130519867
+476597,Prompt C (Constrained),aquarium,0.0,0.0,0.0,18.453386425971985
+165029,Prompt A (Baseline),"person and his girlfriend , who is a snowboarder .",0.1694915254237288,0.0,0.0,31.85587227344513
+165029,Prompt B (Forced Hallucination),snowboarding,0.04587155963302752,0.0,0.0,27.789023518562317
+165029,Prompt C (Constrained),snowboard,0.04587155963302752,0.0,0.0,28.435194492340088
+129699,Prompt A (Baseline),"the building , photographed by person",0.07575757575757576,1.0,1.0,23.63363206386566
+129699,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.107926428318024
+129699,Prompt C (Constrained),no,0.0,0.0,0.0,20.532995462417603
+117125,Prompt A (Baseline),the old train is on the way .,0.3814262023217247,0.0,0.0,25.99921226501465
+117125,Prompt B (Forced Hallucination),snow,0.0,0.0,0.0,21.91164642572403
+117125,Prompt C (Constrained),snow,0.0,0.0,0.0,21.91164642572403
+7211,Prompt A (Baseline),graffiti on a train car,0.5186046511627908,0.5,1.0,32.10775554180145
+7211,Prompt B (Forced Hallucination),graffiti,0.06097560975609756,0.0,0.0,29.000666737556458
+7211,Prompt C (Constrained),graffiti,0.06097560975609756,0.0,0.0,29.000666737556458
+356298,Prompt A (Baseline),photo - some art seen .,0.0574712643678161,0.0,0.0,25.102850794792175
+356298,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.52439695596695
+356298,Prompt C (Constrained),graffiti,0.05,0.0,0.0,27.744397521018982
+129942,Prompt A (Baseline),blue and gold macaw in the wild - photo #,0.17201834862385323,0.0,0.0,34.78294909000397
+129942,Prompt B (Forced Hallucination),macaw,0.0,0.0,0.0,29.82809841632843
+129942,Prompt C (Constrained),macaw,0.0,0.0,0.0,29.82809841632843
+520433,Prompt A (Baseline),train from the side - street art,0.20609318996415774,0.0,0.0,29.747742414474487
+520433,Prompt B (Forced Hallucination),graffiti,0.054945054945054944,0.0,0.0,26.937347650527954
+520433,Prompt C (Constrained),graffiti,0.054945054945054944,0.0,0.0,26.937347650527954
+183666,Prompt A (Baseline),a train at the station,0.25974025974025977,0.0,0.0,25.880202651023865
+183666,Prompt B (Forced Hallucination),Train,0.0684931506849315,0.0,0.0,26.13821029663086
+183666,Prompt C (Constrained),Train,0.0684931506849315,0.0,0.0,26.13821029663086
+184321,Prompt A (Baseline),the train arrives at the station .,0.4821802935010482,0.0,0.0,29.63237762451172
+184321,Prompt B (Forced Hallucination),Train,0.06097560975609756,0.0,0.0,28.015658259391785
+184321,Prompt C (Constrained),Train,0.06097560975609756,0.0,0.0,28.015658259391785
+426175,Prompt A (Baseline),a city on the train,0.08982035928143713,0.0,0.0,20.68738490343094
+426175,Prompt B (Forced Hallucination),Train,0.04587155963302752,0.0,0.0,25.830435752868652
+426175,Prompt C (Constrained),Train,0.04587155963302752,0.0,0.0,25.830435752868652
+336777,Prompt A (Baseline),the property is owned by a company that is planning to renovate it into apartments .,0.12096774193548386,0.0,0.0,26.428821682929993
+336777,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,20.159687101840973
+336777,Prompt C (Constrained),no,0.0,0.0,0.0,20.865540206432343
+249720,Prompt A (Baseline),on the bike : riding along the main street,0.4240362811791383,1.0,1.0,31.058141589164734
+249720,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,19.614577293395996
+249720,Prompt C (Constrained),yes,0.0,0.0,0.0,19.614577293395996
+409009,Prompt A (Baseline),"the bullet train is still a novelty to us , but it was a lot faster than the train we used to take to the airport .",0.27777777777777785,0.0,0.0,31.4426451921463
+409009,Prompt B (Forced Hallucination),train,0.06097560975609756,0.0,0.0,25.74875056743622
+409009,Prompt C (Constrained),no caption,0.0,0.0,0.0,16.87682569026947
+554348,Prompt A (Baseline),watch out for the trains,0.1327433628318584,0.0,0.0,25.902432203292847
+554348,Prompt B (Forced Hallucination),yes,0.0,0.0,0.0,17.568016052246094
+554348,Prompt C (Constrained),Train,0.054945054945054944,0.0,0.0,24.8275026679039
+329486,Prompt A (Baseline),the train across the bridge,0.17441860465116277,0.0,0.0,28.80254089832306
+329486,Prompt B (Forced Hallucination),Train,0.06097560975609756,0.0,0.0,26.6311913728714
+329486,Prompt C (Constrained),Train,0.06097560975609756,0.0,0.0,26.6311913728714

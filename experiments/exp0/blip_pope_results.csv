@@ -1,0 +1,106 @@
+question_id,image,question,ground_truth,prediction,raw_response
+1,COCO_val2014_000000310196.jpg,Is there a snowboard in the image?,yes,yes,yes
+2,COCO_val2014_000000310196.jpg,Is there a backpack in the image?,no,no,no
+3,COCO_val2014_000000310196.jpg,Is there a person in the image?,yes,yes,yes
+4,COCO_val2014_000000310196.jpg,Is there a car in the image?,no,no,no
+5,COCO_val2014_000000310196.jpg,Is there a skis in the image?,yes,yes,yes
+6,COCO_val2014_000000310196.jpg,Is there a dog in the image?,no,no,no
+7,COCO_val2014_000000210789.jpg,Is there a truck in the image?,yes,yes,yes
+8,COCO_val2014_000000210789.jpg,Is there a car in the image?,no,yes,yes
+9,COCO_val2014_000000210789.jpg,Is there a person in the image?,yes,yes,yes
+10,COCO_val2014_000000210789.jpg,Is there a dining table in the image?,no,no,no
+11,COCO_val2014_000000210789.jpg,Is there an umbrella in the image?,yes,yes,yes
+12,COCO_val2014_000000210789.jpg,Is there a handbag in the image?,no,no,no
+13,COCO_val2014_000000429109.jpg,Is there a person in the image?,yes,yes,yes
+14,COCO_val2014_000000429109.jpg,Is there a dining table in the image?,no,no,no
+15,COCO_val2014_000000429109.jpg,Is there a bicycle in the image?,yes,yes,yes
+16,COCO_val2014_000000429109.jpg,Is there a motorcycle in the image?,no,no,no
+17,COCO_val2014_000000429109.jpg,Is there a car in the image?,yes,yes,yes
+18,COCO_val2014_000000429109.jpg,Is there a truck in the image?,no,yes,yes
+19,COCO_val2014_000000211674.jpg,Is there a person in the image?,yes,yes,yes
+20,COCO_val2014_000000211674.jpg,Is there a dining table in the image?,no,no,no
+21,COCO_val2014_000000211674.jpg,Is there a potted plant in the image?,yes,yes,yes
+22,COCO_val2014_000000211674.jpg,Is there a vase in the image?,no,no,no
+23,COCO_val2014_000000211674.jpg,Is there a car in the image?,yes,no,no
+24,COCO_val2014_000000211674.jpg,Is there a truck in the image?,no,yes,yes
+25,COCO_val2014_000000458338.jpg,Is there a traffic light in the image?,yes,yes,yes
+26,COCO_val2014_000000458338.jpg,Is there a bus in the image?,no,yes,yes
+27,COCO_val2014_000000458338.jpg,Is there a person in the image?,yes,yes,yes
+28,COCO_val2014_000000458338.jpg,Is there a dining table in the image?,no,no,no
+29,COCO_val2014_000000458338.jpg,Is there a car in the image?,yes,yes,yes
+30,COCO_val2014_000000458338.jpg,Is there a truck in the image?,no,yes,yes
+31,COCO_val2014_000000283412.jpg,Is there a dog in the image?,yes,yes,yes
+32,COCO_val2014_000000283412.jpg,Is there a person in the image?,no,no,no
+33,COCO_val2014_000000283412.jpg,Is there a dining table in the image?,yes,yes,yes
+34,COCO_val2014_000000283412.jpg,Is there a chair in the image?,no,yes,yes
+35,COCO_val2014_000000283412.jpg,Is there a bed in the image?,yes,yes,yes
+36,COCO_val2014_000000283412.jpg,Is there a book in the image?,no,yes,yes
+37,COCO_val2014_000000265719.jpg,Is there a person in the image?,yes,yes,yes
+38,COCO_val2014_000000265719.jpg,Is there a car in the image?,no,no,no
+39,COCO_val2014_000000265719.jpg,Is there a spoon in the image?,yes,yes,yes
+40,COCO_val2014_000000265719.jpg,Is there a cup in the image?,no,yes,yes
+41,COCO_val2014_000000265719.jpg,Is there a fork in the image?,yes,yes,yes
+42,COCO_val2014_000000265719.jpg,Is there a dining table in the image?,no,yes,yes
+43,COCO_val2014_000000461331.jpg,Is there a tv in the image?,yes,no,no
+44,COCO_val2014_000000461331.jpg,Is there a person in the image?,no,no,no
+45,COCO_val2014_000000461331.jpg,Is there a toaster in the image?,yes,yes,yes
+46,COCO_val2014_000000461331.jpg,Is there a book in the image?,no,no,no
+47,COCO_val2014_000000461331.jpg,Is there a microwave in the image?,yes,yes,yes
+48,COCO_val2014_000000461331.jpg,Is there a bottle in the image?,no,no,no
+49,COCO_val2014_000000544456.jpg,Is there a backpack in the image?,yes,yes,yes
+50,COCO_val2014_000000544456.jpg,Is there a handbag in the image?,no,yes,yes
+51,COCO_val2014_000000544456.jpg,Is there a person in the image?,yes,yes,yes
+52,COCO_val2014_000000544456.jpg,Is there a car in the image?,no,no,no
+53,COCO_val2014_000000544456.jpg,Is there a skis in the image?,yes,yes,yes
+54,COCO_val2014_000000544456.jpg,Is there a snowboard in the image?,no,yes,yes
+55,COCO_val2014_000000017708.jpg,Is there a bird in the image?,yes,yes,yes
+56,COCO_val2014_000000017708.jpg,Is there a handbag in the image?,no,no,no
+57,COCO_val2014_000000017708.jpg,Is there a person in the image?,yes,yes,yes
+58,COCO_val2014_000000017708.jpg,Is there a car in the image?,no,no,no
+59,COCO_val2014_000000017708.jpg,Is there a boat in the image?,yes,yes,yes
+60,COCO_val2014_000000017708.jpg,Is there a chair in the image?,no,no,no
+61,COCO_val2014_000000574692.jpg,Is there a person in the image?,yes,yes,yes
+62,COCO_val2014_000000574692.jpg,Is there a car in the image?,no,no,no
+63,COCO_val2014_000000574692.jpg,Is there an orange in the image?,yes,yes,yes
+64,COCO_val2014_000000574692.jpg,Is there a dining table in the image?,no,yes,yes
+65,COCO_val2014_000000574692.jpg,Is there a bottle in the image?,yes,no,no
+66,COCO_val2014_000000574692.jpg,Is there a cup in the image?,no,yes,yes
+67,COCO_val2014_000000353180.jpg,Is there a backpack in the image?,yes,yes,yes
+68,COCO_val2014_000000353180.jpg,Is there a handbag in the image?,no,yes,yes
+69,COCO_val2014_000000353180.jpg,Is there a person in the image?,yes,yes,yes
+70,COCO_val2014_000000353180.jpg,Is there a car in the image?,no,no,no
+71,COCO_val2014_000000353180.jpg,Is there a bus in the image?,yes,yes,yes
+72,COCO_val2014_000000353180.jpg,Is there a traffic light in the image?,no,yes,yes
+73,COCO_val2014_000000239444.jpg,Is there a person in the image?,yes,yes,yes
+74,COCO_val2014_000000239444.jpg,Is there a car in the image?,no,no,no
+75,COCO_val2014_000000239444.jpg,Is there a dining table in the image?,yes,yes,yes
+76,COCO_val2014_000000239444.jpg,Is there a cup in the image?,no,no,no
+77,COCO_val2014_000000239444.jpg,Is there a chair in the image?,yes,yes,yes
+78,COCO_val2014_000000239444.jpg,Is there a couch in the image?,no,no,no
+79,COCO_val2014_000000569839.jpg,Is there a person in the image?,yes,yes,yes
+80,COCO_val2014_000000569839.jpg,Is there a car in the image?,no,no,no
+81,COCO_val2014_000000569839.jpg,Is there a sandwich in the image?,yes,yes,yes
+82,COCO_val2014_000000569839.jpg,Is there a bowl in the image?,no,yes,yes
+83,COCO_val2014_000000569839.jpg,Is there a hot dog in the image?,yes,yes,yes
+84,COCO_val2014_000000569839.jpg,Is there a handbag in the image?,no,yes,yes
+85,COCO_val2014_000000219622.jpg,Is there a person in the image?,yes,yes,yes
+86,COCO_val2014_000000219622.jpg,Is there a dining table in the image?,no,no,no
+87,COCO_val2014_000000219622.jpg,Is there a car in the image?,yes,yes,yes
+88,COCO_val2014_000000219622.jpg,Is there a truck in the image?,no,yes,yes
+89,COCO_val2014_000000219622.jpg,Is there a frisbee in the image?,yes,yes,yes
+90,COCO_val2014_000000219622.jpg,Is there a dog in the image?,no,no,no
+91,COCO_val2014_000000300368.jpg,Is there a knife in the image?,yes,yes,yes
+92,COCO_val2014_000000300368.jpg,Is there a cup in the image?,no,no,no
+93,COCO_val2014_000000300368.jpg,Is there a person in the image?,yes,yes,yes
+94,COCO_val2014_000000300368.jpg,Is there a car in the image?,no,no,no
+95,COCO_val2014_000000300368.jpg,Is there a cake in the image?,yes,yes,yes
+96,COCO_val2014_000000300368.jpg,Is there a bottle in the image?,no,no,no
+97,COCO_val2014_000000482476.jpg,Is there a person in the image?,yes,yes,yes
+98,COCO_val2014_000000482476.jpg,Is there a car in the image?,no,no,no
+99,COCO_val2014_000000482476.jpg,Is there a remote in the image?,yes,yes,yes
+100,COCO_val2014_000000482476.jpg,Is there a tv in the image?,no,no,no
+,,,,,
+Accuracy,0.79,,,,
+Precision,0.7231,,,,
+Recall,0.94,,,,
+F1 Score,0.8174,,,,

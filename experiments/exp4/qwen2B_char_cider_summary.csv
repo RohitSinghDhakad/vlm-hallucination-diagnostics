@@ -1,0 +1,4 @@
+Prompt Variant,CHAr,CIDEr
+Prompt A (Baseline),0.573623,0.323749
+Prompt B (Forced Hallucination),0.464511,0.171811
+Prompt C (Constrained),0.387756,0.198839

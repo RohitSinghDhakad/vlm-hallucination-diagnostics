@@ -1,0 +1,36 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets and Images
+data/
+val2014/
+*.zip
+*.tar.gz
+
+# External Cloned Submodule / Repository
+POPE/
+
+# PDF files (Reference papers, summary sheets, drafts)
+*.pdf
+experiment_summaries/
+
+# Temporary / Scratch / Extracted / Duplicate files
+research_paper/extracted_pdf_text.txt
+research_paper/paper1.tex
+experiments/exp4/extra.py
+generate_all_summaries.py
+/research_paper.tex
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

@@ -1,0 +1,2 @@
+Model Name,Total Probes,Probing Accuracy,Probing Precision,Probing Recall,Probing F1,Probing Yes Ratio,Type 1 Divergence Count (Drift),Type 1 Divergence Rate (%),Type 2 Divergence Count (Sycophancy),Type 2 Divergence Rate (%),Aligned Agreement Rate (%),Cohen's Kappa,F1 Overlap (Probing vs Caption),Correlation (Probing Acc vs CHAi)
+InstructBLIP-7B,1238,0.8724,0.8425,0.916,0.8777,0.5436,224,18.09,103,8.32,72.7,0.4734,0.6718,-0.0309
